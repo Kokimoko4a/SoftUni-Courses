@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\ref\T02. Numbers N-1.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\bin\Debug\net5.0\T02. Numbers N-1.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\ref\T02. Numbers N-1.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T02. Numbers N-1\obj\Debug\net5.0\T02. Numbers N-1.genruntimeconfig.cache

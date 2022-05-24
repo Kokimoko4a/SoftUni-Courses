@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\bin\Debug\net5.0\Rage of Expenses.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\refint\Rage of Expenses.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\Rage of Expenses.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Rage of Expenses\obj\Debug\net5.0\ref\Rage of Expenses.dll

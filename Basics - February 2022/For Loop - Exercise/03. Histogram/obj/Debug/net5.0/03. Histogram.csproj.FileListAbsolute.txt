@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\ref\03. Histogram.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\ref\03. Histogram.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.genruntimeconfig.cache

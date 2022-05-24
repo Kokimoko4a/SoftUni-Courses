@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\ref\04. Walking.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\ref\04. Walking.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.genruntimeconfig.cache

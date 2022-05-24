@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\ref\09.Ski Vacation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\bin\Debug\net5.0\09.Ski Vacation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\ref\09.Ski Vacation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\09.Ski Vacation\obj\Debug\net5.0\09.Ski Vacation.genruntimeconfig.cache

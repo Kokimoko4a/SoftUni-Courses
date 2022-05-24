@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\ref\Задача 3. Художествена гимнастика.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\bin\Debug\net5.0\Задача 3. Художествена гимнастика.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\ref\Задача 3. Художествена гимнастика.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 3. Художествена гимнастика\obj\Debug\net5.0\Задача 3. Художествена гимнастика.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\ref\T07. Sum Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\bin\Debug\net5.0\T07. Sum Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\ref\T07. Sum Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T07. Sum Numbers\obj\Debug\net5.0\T07. Sum Numbers.genruntimeconfig.cache

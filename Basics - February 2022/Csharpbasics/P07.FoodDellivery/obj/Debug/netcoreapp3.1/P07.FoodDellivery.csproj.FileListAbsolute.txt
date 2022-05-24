@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\bin\Debug\netcoreapp3.1\P07.FoodDellivery.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P07.FoodDellivery\obj\Debug\netcoreapp3.1\P07.FoodDellivery.genruntimeconfig.cache

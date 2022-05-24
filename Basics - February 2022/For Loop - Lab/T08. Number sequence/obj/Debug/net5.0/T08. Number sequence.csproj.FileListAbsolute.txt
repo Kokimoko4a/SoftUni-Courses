@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\ref\T08. Number sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\bin\Debug\net5.0\T08. Number sequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\ref\T08. Number sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T08. Number sequence\obj\Debug\net5.0\T08. Number sequence.genruntimeconfig.cache

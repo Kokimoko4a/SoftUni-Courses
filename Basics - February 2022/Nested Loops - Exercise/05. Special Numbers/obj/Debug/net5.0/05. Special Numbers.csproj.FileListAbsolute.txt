@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache

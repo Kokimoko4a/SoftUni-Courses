@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\bin\Debug\net5.0\Triangle of numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\refint\Triangle of numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\Triangle of numbers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Triangle of numbers\obj\Debug\net5.0\ref\Triangle of numbers.dll

@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\ref\06. Unique PIN Codes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\bin\Debug\net5.0\06. Unique PIN Codes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\ref\06. Unique PIN Codes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\06. Unique PIN Codes\obj\Debug\net5.0\06. Unique PIN Codes.genruntimeconfig.cache

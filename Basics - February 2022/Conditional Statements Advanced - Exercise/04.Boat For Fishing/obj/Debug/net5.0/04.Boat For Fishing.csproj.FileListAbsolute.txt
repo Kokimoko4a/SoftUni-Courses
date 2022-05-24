@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\ref\04.Boat For Fishing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\bin\Debug\net5.0\04.Boat For Fishing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\ref\04.Boat For Fishing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\04.Boat For Fishing\obj\Debug\net5.0\04.Boat For Fishing.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\ref\11.Shop For Fruits.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\bin\Debug\net5.0\11.Shop For Fruits.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\ref\11.Shop For Fruits.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\11.Shop For Fruits\obj\Debug\net5.0\11.Shop For Fruits.genruntimeconfig.cache

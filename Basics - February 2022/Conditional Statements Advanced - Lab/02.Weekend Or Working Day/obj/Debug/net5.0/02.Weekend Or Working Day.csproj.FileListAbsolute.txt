@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\ref\02.Weekend Or Working Day.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\bin\Debug\net5.0\02.Weekend Or Working Day.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\ref\02.Weekend Or Working Day.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\02.Weekend Or Working Day\obj\Debug\net5.0\02.Weekend Or Working Day.genruntimeconfig.cache

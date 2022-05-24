@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\ref\03. Excursion Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\bin\Debug\net5.0\03. Excursion Calculator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\ref\03. Excursion Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\03. Excursion Calculator\obj\Debug\net5.0\03. Excursion Calculator.genruntimeconfig.cache

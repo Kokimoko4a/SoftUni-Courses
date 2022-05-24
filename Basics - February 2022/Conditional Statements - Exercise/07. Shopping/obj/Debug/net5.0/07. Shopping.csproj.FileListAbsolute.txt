@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\ref\07. Shopping.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\bin\Debug\net5.0\07. Shopping.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\ref\07. Shopping.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\07. Shopping\obj\Debug\net5.0\07. Shopping.genruntimeconfig.cache

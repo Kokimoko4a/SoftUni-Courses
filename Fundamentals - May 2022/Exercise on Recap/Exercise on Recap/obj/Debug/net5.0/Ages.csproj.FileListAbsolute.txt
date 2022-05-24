@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\bin\Debug\net5.0\Ages.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\refint\Ages.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\Ages.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Exercise on Recap\obj\Debug\net5.0\ref\Ages.dll

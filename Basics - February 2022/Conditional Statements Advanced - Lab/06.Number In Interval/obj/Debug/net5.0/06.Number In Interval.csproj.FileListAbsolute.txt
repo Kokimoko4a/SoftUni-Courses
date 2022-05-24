@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\ref\06.Number In Interval.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\bin\Debug\net5.0\06.Number In Interval.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\ref\06.Number In Interval.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\06.Number In Interval\obj\Debug\net5.0\06.Number In Interval.genruntimeconfig.cache

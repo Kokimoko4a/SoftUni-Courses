@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\ref\06. Max Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\ref\06. Max Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.genruntimeconfig.cache

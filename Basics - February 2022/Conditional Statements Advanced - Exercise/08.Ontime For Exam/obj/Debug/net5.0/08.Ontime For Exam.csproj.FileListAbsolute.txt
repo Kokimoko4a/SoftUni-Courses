@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\ref\08.Ontime For Exam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\bin\Debug\net5.0\08.Ontime For Exam.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\ref\08.Ontime For Exam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\08.Ontime For Exam\obj\Debug\net5.0\08.Ontime For Exam.genruntimeconfig.cache

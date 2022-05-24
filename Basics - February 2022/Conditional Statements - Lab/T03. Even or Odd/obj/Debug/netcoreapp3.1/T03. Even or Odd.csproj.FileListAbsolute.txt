@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\bin\Debug\netcoreapp3.1\T03. Even or Odd.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T03. Even or Odd\obj\Debug\netcoreapp3.1\T03. Even or Odd.genruntimeconfig.cache

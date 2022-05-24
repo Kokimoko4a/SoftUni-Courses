@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.exe
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.dll
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\bin\Debug\netcoreapp3.1\proektiarchitect.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.dll
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\proektiarchitect\obj\Debug\netcoreapp3.1\proektiarchitect.genruntimeconfig.cache

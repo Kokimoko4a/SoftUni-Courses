@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.genruntimeconfig.cache

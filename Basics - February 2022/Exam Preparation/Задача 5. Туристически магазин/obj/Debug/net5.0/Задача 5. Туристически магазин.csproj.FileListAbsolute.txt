@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\ref\Задача 5. Туристически магазин.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\bin\Debug\net5.0\Задача 5. Туристически магазин.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\ref\Задача 5. Туристически магазин.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 5. Туристически магазин\obj\Debug\net5.0\Задача 5. Туристически магазин.genruntimeconfig.cache

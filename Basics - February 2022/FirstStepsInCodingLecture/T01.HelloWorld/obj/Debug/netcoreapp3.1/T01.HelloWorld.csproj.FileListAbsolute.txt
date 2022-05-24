@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.exe
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.dll
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\bin\Debug\netcoreapp3.1\T01.HelloWorld.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.dll
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\FirstStepsInCodingLecture\T01.HelloWorld\obj\Debug\netcoreapp3.1\T01.HelloWorld.genruntimeconfig.cache

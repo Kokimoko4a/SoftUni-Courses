@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\ref\02. Exam Preparation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\ref\02. Exam Preparation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.genruntimeconfig.cache

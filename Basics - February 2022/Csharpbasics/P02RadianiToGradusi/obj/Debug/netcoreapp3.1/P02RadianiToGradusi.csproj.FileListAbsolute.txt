@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\bin\Debug\netcoreapp3.1\P02RadianiToGradusi.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P02RadianiToGradusi\obj\Debug\netcoreapp3.1\P02RadianiToGradusi.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\bin\Debug\netcoreapp3.1\P06.Repainting.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P06.Repainting\obj\Debug\netcoreapp3.1\P06.Repainting.genruntimeconfig.cache

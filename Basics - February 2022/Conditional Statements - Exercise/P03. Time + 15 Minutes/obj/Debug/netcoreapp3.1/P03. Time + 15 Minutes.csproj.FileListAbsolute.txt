@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\P03. Time + 15 Minutes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\P03. Time + 15 Minutes.genruntimeconfig.cache

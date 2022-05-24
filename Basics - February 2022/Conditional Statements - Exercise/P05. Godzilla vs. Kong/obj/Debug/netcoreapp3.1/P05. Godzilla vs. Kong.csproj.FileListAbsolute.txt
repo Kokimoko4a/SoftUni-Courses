@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.genruntimeconfig.cache

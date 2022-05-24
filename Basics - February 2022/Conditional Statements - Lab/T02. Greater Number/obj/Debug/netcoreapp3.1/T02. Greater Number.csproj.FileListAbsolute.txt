@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\bin\Debug\netcoreapp3.1\T02. Greater Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T02. Greater Number\obj\Debug\netcoreapp3.1\T02. Greater Number.genruntimeconfig.cache

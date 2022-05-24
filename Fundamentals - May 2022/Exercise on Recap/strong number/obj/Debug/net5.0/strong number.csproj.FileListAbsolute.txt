@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\bin\Debug\net5.0\strong number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\refint\strong number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\strong number.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\strong number\obj\Debug\net5.0\ref\strong number.dll

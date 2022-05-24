@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Задача 5. Туристически магазин/1.0.0": {
+        "runtime": {
+          "Задача 5. Туристически магазин.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 5. Туристически магазин/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

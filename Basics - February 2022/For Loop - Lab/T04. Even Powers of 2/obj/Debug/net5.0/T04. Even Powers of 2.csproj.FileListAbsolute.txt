@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\ref\T04. Even Powers of 2.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\bin\Debug\net5.0\T04. Even Powers of 2.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\ref\T04. Even Powers of 2.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T04. Even Powers of 2\obj\Debug\net5.0\T04. Even Powers of 2.genruntimeconfig.cache

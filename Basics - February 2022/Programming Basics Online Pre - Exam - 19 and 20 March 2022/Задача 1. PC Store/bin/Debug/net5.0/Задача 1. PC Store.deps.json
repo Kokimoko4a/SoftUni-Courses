@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Задача 1. PC Store/1.0.0": {
+        "runtime": {
+          "Задача 1. PC Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача 1. PC Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

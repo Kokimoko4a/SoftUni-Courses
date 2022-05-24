@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\ref\01. Clock.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\bin\Debug\net5.0\01. Clock.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\ref\01. Clock.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\01. Clock\obj\Debug\net5.0\01. Clock.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\ref\06.Cinema Tickets.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\bin\Debug\net5.0\06.Cinema Tickets.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\ref\06.Cinema Tickets.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\06.Cinema Tickets\obj\Debug\net5.0\06.Cinema Tickets.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\ref\01. Old Books.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\ref\T01. Numbers from 1 to 100.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\bin\Debug\net5.0\T01. Numbers from 1 to 100.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\ref\T01. Numbers from 1 to 100.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T01. Numbers from 1 to 100\obj\Debug\net5.0\T01. Numbers from 1 to 100.genruntimeconfig.cache

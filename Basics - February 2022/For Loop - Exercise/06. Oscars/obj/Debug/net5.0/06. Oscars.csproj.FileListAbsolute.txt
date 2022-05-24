@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\ref\06. Oscars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\bin\Debug\net5.0\06. Oscars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\ref\06. Oscars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\06. Oscars\obj\Debug\net5.0\06. Oscars.genruntimeconfig.cache

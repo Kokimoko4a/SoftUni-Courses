@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\ref\T05. Character Sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\bin\Debug\net5.0\T05. Character Sequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\ref\T05. Character Sequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Lab\T05. Character Sequence\obj\Debug\net5.0\T05. Character Sequence.genruntimeconfig.cache

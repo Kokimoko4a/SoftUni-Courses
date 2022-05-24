@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.exe
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.dll
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\bin\Debug\netcoreapp3.1\ozelenyavane.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.dll
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\proektiarchitect\ozelenyavane\obj\Debug\netcoreapp3.1\ozelenyavane.genruntimeconfig.cache

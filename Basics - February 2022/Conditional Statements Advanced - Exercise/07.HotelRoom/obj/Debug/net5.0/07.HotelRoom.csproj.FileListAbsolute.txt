@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\ref\07.HotelRoom.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\bin\Debug\net5.0\07.HotelRoom.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\ref\07.HotelRoom.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\07.HotelRoom\obj\Debug\net5.0\07.HotelRoom.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\ref\05. Квартално магазинче.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\bin\Debug\net5.0\05. Квартално магазинче.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\ref\05. Квартално магазинче.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\05. Квартално магазинче\obj\Debug\net5.0\05. Квартално магазинче.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\bin\Debug\netcoreapp3.1\T05.Number 100-200.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T05.Number 100-200\obj\Debug\netcoreapp3.1\T05.Number 100-200.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\bin\Debug\netcoreapp3.1\P09.FishTank.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P09.FishTank\obj\Debug\netcoreapp3.1\P09.FishTank.genruntimeconfig.cache

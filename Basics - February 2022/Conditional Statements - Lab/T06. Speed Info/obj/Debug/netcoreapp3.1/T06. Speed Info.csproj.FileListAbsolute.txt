@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\bin\Debug\netcoreapp3.1\T06. Speed Info.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T06. Speed Info\obj\Debug\netcoreapp3.1\T06. Speed Info.genruntimeconfig.cache

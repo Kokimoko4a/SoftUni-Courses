@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\ref\05.Trip.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\bin\Debug\net5.0\05.Trip.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\ref\05.Trip.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\05.Trip\obj\Debug\net5.0\05.Trip.genruntimeconfig.cache

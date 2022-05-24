@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\ref\08.Cinema Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\net5.0\08.Cinema Ticket.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\ref\08.Cinema Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\net5.0\08.Cinema Ticket.genruntimeconfig.cache

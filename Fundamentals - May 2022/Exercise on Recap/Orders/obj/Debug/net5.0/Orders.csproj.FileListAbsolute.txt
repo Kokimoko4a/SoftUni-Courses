@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\bin\Debug\net5.0\Orders.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\refint\Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Orders\obj\Debug\net5.0\ref\Orders.dll

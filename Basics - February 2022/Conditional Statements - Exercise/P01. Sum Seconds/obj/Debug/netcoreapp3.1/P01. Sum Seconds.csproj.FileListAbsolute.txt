@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\bin\Debug\netcoreapp3.1\P01. Sum Seconds.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P01. Sum Seconds\obj\Debug\netcoreapp3.1\P01. Sum Seconds.genruntimeconfig.cache

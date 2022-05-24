@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\ref\Задача 1. PC Store.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\bin\Debug\net5.0\Задача 1. PC Store.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\ref\Задача 1. PC Store.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\Задача 1. PC Store\obj\Debug\net5.0\Задача 1. PC Store.genruntimeconfig.cache

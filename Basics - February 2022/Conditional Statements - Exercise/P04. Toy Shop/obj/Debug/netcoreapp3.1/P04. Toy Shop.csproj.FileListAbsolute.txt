@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\bin\Debug\netcoreapp3.1\P04. Toy Shop.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P04. Toy Shop\obj\Debug\netcoreapp3.1\P04. Toy Shop.genruntimeconfig.cache

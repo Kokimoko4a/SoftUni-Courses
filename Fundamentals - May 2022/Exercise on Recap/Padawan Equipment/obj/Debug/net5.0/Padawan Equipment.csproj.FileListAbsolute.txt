@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\refint\Padawan Equipment.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Exercise on Recap\Padawan Equipment\obj\Debug\net5.0\ref\Padawan Equipment.dll

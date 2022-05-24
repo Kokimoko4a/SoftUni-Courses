@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\ref\07. Trekking Mania.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\ref\07. Trekking Mania.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.genruntimeconfig.cache

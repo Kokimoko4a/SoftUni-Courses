@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\ref\02.Summer Clothes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\bin\Debug\net5.0\02.Summer Clothes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\ref\02.Summer Clothes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\02.Summer Clothes\obj\Debug\net5.0\02.Summer Clothes.genruntimeconfig.cache

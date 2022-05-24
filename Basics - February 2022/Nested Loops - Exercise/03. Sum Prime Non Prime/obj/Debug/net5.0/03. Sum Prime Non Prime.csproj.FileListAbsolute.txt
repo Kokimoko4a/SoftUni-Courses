@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\ref\03. Sum Prime Non Prime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\net5.0\03. Sum Prime Non Prime.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\ref\03. Sum Prime Non Prime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\net5.0\03. Sum Prime Non Prime.genruntimeconfig.cache

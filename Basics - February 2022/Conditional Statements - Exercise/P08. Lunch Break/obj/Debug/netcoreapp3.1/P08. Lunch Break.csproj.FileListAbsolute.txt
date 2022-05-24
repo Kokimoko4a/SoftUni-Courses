@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\bin\Debug\netcoreapp3.1\P08. Lunch Break.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\P08. Lunch Break\obj\Debug\netcoreapp3.1\P08. Lunch Break.genruntimeconfig.cache

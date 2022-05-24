@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\ref\05. Hair Salon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\bin\Debug\net5.0\05. Hair Salon.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\ref\05. Hair Salon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\05. Hair Salon\obj\Debug\net5.0\05. Hair Salon.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\bin\Debug\netcoreapp3.1\T01.DayOfWeek.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\T01.DayOfWeek\obj\Debug\netcoreapp3.1\T01.DayOfWeek.genruntimeconfig.cache

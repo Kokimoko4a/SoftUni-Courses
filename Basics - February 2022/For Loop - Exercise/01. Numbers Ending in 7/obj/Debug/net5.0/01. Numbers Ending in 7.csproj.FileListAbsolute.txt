@@ -1,0 +1,32 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\ref\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\refint\01. Numbers Ending in 7.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Basics - February 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\ref\02. Football Kit.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\bin\Debug\net5.0\02. Football Kit.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\ref\02. Football Kit.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Programming Basics Online Pre - Exam - 19 and 20 March 2022\02. Football Kit\obj\Debug\net5.0\02. Football Kit.genruntimeconfig.cache

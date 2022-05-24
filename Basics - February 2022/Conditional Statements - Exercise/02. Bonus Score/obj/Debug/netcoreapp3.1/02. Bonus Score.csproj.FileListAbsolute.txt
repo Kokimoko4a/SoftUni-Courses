@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.genruntimeconfig.cache

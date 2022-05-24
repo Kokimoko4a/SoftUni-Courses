@@ -1,0 +1,12 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\bin\Debug\netcoreapp3.1\P05.SuplliesForSchool.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P05.SuplliesForSchool\obj\Debug\netcoreapp3.1\P05.SuplliesForSchool.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\ref\01. Number Pyramid.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\net5.0\01. Number Pyramid.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\ref\01. Number Pyramid.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\net5.0\01. Number Pyramid.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\ref\03. Combinations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\bin\Debug\net5.0\03. Combinations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\ref\03. Combinations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\03. Combinations\obj\Debug\net5.0\03. Combinations.genruntimeconfig.cache

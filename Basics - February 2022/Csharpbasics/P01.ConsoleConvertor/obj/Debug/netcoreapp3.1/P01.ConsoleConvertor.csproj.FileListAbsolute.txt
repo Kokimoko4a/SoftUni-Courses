@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\bin\Debug\netcoreapp3.1\P01.ConsoleConvertor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P01.ConsoleConvertor\obj\Debug\netcoreapp3.1\P01.ConsoleConvertor.genruntimeconfig.cache

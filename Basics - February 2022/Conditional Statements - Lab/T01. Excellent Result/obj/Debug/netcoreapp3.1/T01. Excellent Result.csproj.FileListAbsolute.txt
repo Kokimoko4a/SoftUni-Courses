@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\bin\Debug\netcoreapp3.1\T01. Excellent Result.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T01. Excellent Result\obj\Debug\netcoreapp3.1\T01. Excellent Result.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\bin\Debug\netcoreapp3.1\P04.Literatura.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P04.Literatura\obj\Debug\netcoreapp3.1\P04.Literatura.genruntimeconfig.cache

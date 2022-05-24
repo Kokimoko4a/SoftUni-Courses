@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\ref\Задача 6. Ветеринарен Паркинг.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\bin\Debug\net5.0\Задача 6. Ветеринарен Паркинг.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\ref\Задача 6. Ветеринарен Паркинг.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Exam Preparation\Задача 6. Ветеринарен Паркинг\obj\Debug\net5.0\Задача 6. Ветеринарен Паркинг.genruntimeconfig.cache

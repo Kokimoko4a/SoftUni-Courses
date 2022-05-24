@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\ref\03.New Home.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\bin\Debug\net5.0\03.New Home.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\ref\03.New Home.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\03.New Home\obj\Debug\net5.0\03.New Home.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.exe
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.dll
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\bin\Debug\netcoreapp3.1\1to10.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.dll
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\1to10\1to10\obj\Debug\netcoreapp3.1\1to10.genruntimeconfig.cache

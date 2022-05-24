@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\bin\Debug\netcoreapp3.1\P08.BaskeballOborudvane.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\P08.BaskeballOborudvane\obj\Debug\netcoreapp3.1\P08.BaskeballOborudvane.genruntimeconfig.cache

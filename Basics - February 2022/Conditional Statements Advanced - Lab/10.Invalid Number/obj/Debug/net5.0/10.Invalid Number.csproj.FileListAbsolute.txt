@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\ref\10.Invalid Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\bin\Debug\net5.0\10.Invalid Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\ref\10.Invalid Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\10.Invalid Number\obj\Debug\net5.0\10.Invalid Number.genruntimeconfig.cache

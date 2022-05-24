@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\ref\12. Търговски комисионни.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\bin\Debug\net5.0\12. Търговски комисионни.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\ref\12. Търговски комисионни.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\12. Търговски комисионни\obj\Debug\net5.0\12. Търговски комисионни.csproj.AssemblyReference.cache

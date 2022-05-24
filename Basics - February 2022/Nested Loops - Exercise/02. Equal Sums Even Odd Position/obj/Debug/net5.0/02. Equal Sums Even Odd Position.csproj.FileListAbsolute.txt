@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.genruntimeconfig.cache

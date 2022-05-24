@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.exe
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\ref\08. Tennis Ranklist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\net5.0\08. Tennis Ranklist.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\ref\08. Tennis Ranklist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\net5.0\08. Tennis Ranklist.genruntimeconfig.cache

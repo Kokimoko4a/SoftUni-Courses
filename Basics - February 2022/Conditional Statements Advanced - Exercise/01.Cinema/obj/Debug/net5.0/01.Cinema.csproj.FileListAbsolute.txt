@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\ref\01.Cinema.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\bin\Debug\net5.0\01.Cinema.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\ref\01.Cinema.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Exercise\01.Cinema\obj\Debug\net5.0\01.Cinema.genruntimeconfig.cache

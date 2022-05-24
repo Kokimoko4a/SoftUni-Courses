@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\bin\Debug\netcoreapp3.1\CalcDepositi.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Csharpbasics\CalcDepositi\obj\Debug\netcoreapp3.1\CalcDepositi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\bin\Debug\netcoreapp3.1\T07. Area of Figures.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.csprojAssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements - Lab\T07. Area of Figures\obj\Debug\netcoreapp3.1\T07. Area of Figures.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\ref\02. Multiplication Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\bin\Debug\net5.0\02. Multiplication Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\ref\02. Multiplication Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Lab\02. Multiplication Table\obj\Debug\net5.0\02. Multiplication Table.genruntimeconfig.cache

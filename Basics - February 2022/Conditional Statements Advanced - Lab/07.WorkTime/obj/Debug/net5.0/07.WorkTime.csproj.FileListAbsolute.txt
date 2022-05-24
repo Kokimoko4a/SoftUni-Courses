@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\ref\07.WorkTime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\bin\Debug\net5.0\07.WorkTime.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\ref\07.WorkTime.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\07.WorkTime\obj\Debug\net5.0\07.WorkTime.genruntimeconfig.cache

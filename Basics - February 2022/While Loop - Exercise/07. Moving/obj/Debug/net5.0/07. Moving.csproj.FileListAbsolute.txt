@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\ref\07. Moving.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\bin\Debug\net5.0\07. Moving.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\ref\07. Moving.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\07. Moving\obj\Debug\net5.0\07. Moving.genruntimeconfig.cache

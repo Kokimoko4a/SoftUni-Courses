@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.exe
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\ref\05. Coins.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\ref\05. Coins.dll
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.genruntimeconfig.cache

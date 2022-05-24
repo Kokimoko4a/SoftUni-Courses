@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\ref\04.Train The Trainers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\bin\Debug\net5.0\04.Train The Trainers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\ref\04.Train The Trainers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Nested Loops - Exercise\04.Train The Trainers\obj\Debug\net5.0\04.Train The Trainers.genruntimeconfig.cache

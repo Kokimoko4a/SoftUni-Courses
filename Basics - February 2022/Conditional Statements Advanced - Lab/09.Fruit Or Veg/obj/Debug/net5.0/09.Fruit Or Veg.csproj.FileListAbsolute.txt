@@ -1,0 +1,15 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\ref\09.Fruit Or Veg.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\bin\Debug\net5.0\09.Fruit Or Veg.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\ref\09.Fruit Or Veg.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Conditional Statements Advanced - Lab\09.Fruit Or Veg\obj\Debug\net5.0\09.Fruit Or Veg.genruntimeconfig.cache
