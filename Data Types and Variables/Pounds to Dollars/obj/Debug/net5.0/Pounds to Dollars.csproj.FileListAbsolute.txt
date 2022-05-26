@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\bin\Debug\net5.0\Pounds to Dollars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\refint\Pounds to Dollars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\Pounds to Dollars.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Pounds to Dollars\obj\Debug\net5.0\ref\Pounds to Dollars.dll

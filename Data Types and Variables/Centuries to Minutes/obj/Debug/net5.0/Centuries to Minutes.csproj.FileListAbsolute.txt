@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\refint\Centuries to Minutes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\ref\Centuries to Minutes.dll

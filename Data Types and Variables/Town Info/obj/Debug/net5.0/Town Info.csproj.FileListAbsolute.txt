@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\bin\Debug\net5.0\Town Info.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\refint\Town Info.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\Town Info.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Town Info\obj\Debug\net5.0\ref\Town Info.dll

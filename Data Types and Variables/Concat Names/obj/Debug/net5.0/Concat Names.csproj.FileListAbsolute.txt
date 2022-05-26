@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\bin\Debug\net5.0\Concat Names.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\refint\Concat Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\Concat Names.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables\Concat Names\obj\Debug\net5.0\ref\Concat Names.dll
