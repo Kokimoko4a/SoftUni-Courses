@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\refint\08. Beer Kegs.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net5.0\ref\08. Beer Kegs.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net5.0\4. Sum of Chars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\refint\4. Sum of Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\4. Sum of Chars.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net5.0\ref\4. Sum of Chars.dll

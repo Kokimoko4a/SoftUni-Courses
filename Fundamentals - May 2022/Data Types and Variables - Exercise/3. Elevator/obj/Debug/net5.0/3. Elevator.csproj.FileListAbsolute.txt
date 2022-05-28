@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\bin\Debug\net5.0\3. Elevator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\refint\3. Elevator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\3. Elevator.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\3. Elevator\obj\Debug\net5.0\ref\3. Elevator.dll

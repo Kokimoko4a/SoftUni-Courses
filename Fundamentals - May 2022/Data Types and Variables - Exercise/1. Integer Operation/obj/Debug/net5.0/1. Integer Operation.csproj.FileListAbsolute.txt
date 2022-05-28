@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\bin\Debug\net5.0\1. Integer Operation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\refint\1. Integer Operation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\1. Integer Operation.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\1. Integer Operation\obj\Debug\net5.0\ref\1. Integer Operation.dll

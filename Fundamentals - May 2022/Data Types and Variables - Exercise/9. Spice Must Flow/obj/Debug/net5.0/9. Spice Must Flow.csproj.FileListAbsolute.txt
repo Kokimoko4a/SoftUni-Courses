@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\bin\Debug\net5.0\9. Spice Must Flow.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\refint\9. Spice Must Flow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\9. Spice Must Flow.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\9. Spice Must Flow\obj\Debug\net5.0\ref\9. Spice Must Flow.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\bin\Debug\net5.0\6. Triples of Latin Letters.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\refint\6. Triples of Latin Letters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\6. Triples of Latin Letters.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\6. Triples of Latin Letters\obj\Debug\net5.0\ref\6. Triples of Latin Letters.dll

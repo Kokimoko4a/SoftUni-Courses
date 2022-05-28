@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net5.0\5. Print Part of the ASCII Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\refint\5. Print Part of the ASCII Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\5. Print Part of the ASCII Table.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net5.0\ref\5. Print Part of the ASCII Table.dll

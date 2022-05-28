@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\refint\7. Water Overflow.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\7. Water Overflow\obj\Debug\net5.0\ref\7. Water Overflow.dll
