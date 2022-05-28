@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\bin\Debug\net5.0\10.Pokemon.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\refint\10.Pokemon.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\10.Pokemon.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Data Types and Variables - Exercise\10.Pokemon\obj\Debug\net5.0\ref\10.Pokemon.dll

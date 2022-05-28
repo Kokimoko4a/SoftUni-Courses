@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Triples of Latin Letters
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Water Overflow", "7. Water Overflow\7. Water Overflow.csproj", "{DCC397D7-1293-4440-B207-693FA44D9226}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Beer Kegs", "08. Beer Kegs\08. Beer Kegs.csproj", "{BEB3986F-95F1-49D6-8232-3D57516E6EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Beer Kegs", "08. Beer Kegs\8. Beer Kegs.csproj", "{BEB3986F-95F1-49D6-8232-3D57516E6EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Spice Must Flow", "9. Spice Must Flow\9. Spice Must Flow.csproj", "{DF1BE153-0F13-45FB-840E-392158565F26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Spice Must Flow", "9. Spice Must Flow\9. Spice Must Flow.csproj", "{DF1BE153-0F13-45FB-840E-392158565F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Pokemon", "10.Pokemon\10. Pokemon.csproj", "{C7353E19-9F54-435C-8FA2-E14E171BB138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Snowballs", "11.Snowballs\11.Snowballs.csproj", "{1362DB76-3C4F-4BF2-B74F-C516B9E33BBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{DF1BE153-0F13-45FB-840E-392158565F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF1BE153-0F13-45FB-840E-392158565F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF1BE153-0F13-45FB-840E-392158565F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7353E19-9F54-435C-8FA2-E14E171BB138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7353E19-9F54-435C-8FA2-E14E171BB138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7353E19-9F54-435C-8FA2-E14E171BB138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7353E19-9F54-435C-8FA2-E14E171BB138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1362DB76-3C4F-4BF2-B74F-C516B9E33BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1362DB76-3C4F-4BF2-B74F-C516B9E33BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1362DB76-3C4F-4BF2-B74F-C516B9E33BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1362DB76-3C4F-4BF2-B74F-C516B9E33BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

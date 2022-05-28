@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\08. Beer Kegs\\8. Beer Kegs.csproj",
-      "projectName": "8. Beer Kegs",
-      "projectPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\08. Beer Kegs\\8. Beer Kegs.csproj",
+      "projectUniqueName": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\11.Snowballs\\11.Snowballs.csproj",
+      "projectName": "11.Snowballs",
+      "projectPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\11.Snowballs\\11.Snowballs.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\08. Beer Kegs\\obj\\",
+      "outputPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Data Types and Variables - Exercise\\11.Snowballs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
