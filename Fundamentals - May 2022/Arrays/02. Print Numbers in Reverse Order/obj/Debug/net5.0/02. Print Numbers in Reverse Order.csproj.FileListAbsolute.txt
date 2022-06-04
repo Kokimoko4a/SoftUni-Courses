@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\refint\02. Print Numbers in Reverse Order.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll

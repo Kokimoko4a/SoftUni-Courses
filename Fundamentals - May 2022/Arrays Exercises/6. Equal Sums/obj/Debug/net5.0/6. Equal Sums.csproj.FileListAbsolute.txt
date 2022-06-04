@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\refint\6. Equal Sums.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\6. Equal Sums\obj\Debug\net5.0\ref\6. Equal Sums.dll

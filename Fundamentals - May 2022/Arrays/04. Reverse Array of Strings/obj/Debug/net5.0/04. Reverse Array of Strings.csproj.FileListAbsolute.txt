@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\refint\04. Reverse Array of Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll

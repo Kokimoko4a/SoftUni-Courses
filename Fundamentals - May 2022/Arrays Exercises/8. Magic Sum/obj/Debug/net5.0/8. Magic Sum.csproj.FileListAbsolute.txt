@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\refint\8. Magic Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\8. Magic Sum\obj\Debug\net5.0\ref\8. Magic Sum.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\refint\3. Zig-Zag Arrays.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\3. Zig-Zag Arrays\obj\Debug\net5.0\ref\3. Zig-Zag Arrays.dll

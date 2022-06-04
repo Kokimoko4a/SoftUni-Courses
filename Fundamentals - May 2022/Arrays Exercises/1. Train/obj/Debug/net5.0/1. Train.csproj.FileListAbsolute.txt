@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\bin\Debug\net5.0\1. Train.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\refint\1. Train.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\1. Train.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\1. Train\obj\Debug\net5.0\ref\1. Train.dll

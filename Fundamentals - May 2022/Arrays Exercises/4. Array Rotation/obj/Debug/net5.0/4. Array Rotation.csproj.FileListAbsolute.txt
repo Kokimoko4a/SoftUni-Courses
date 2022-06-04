@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\refint\4. Array Rotation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\4. Array Rotation\obj\Debug\net5.0\ref\4. Array Rotation.dll

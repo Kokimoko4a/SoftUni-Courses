@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\bin\Debug\net5.0\5. Top Integers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\refint\5. Top Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\5. Top Integers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\5. Top Integers\obj\Debug\net5.0\ref\5. Top Integers.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\refint\06. Even and Odd Subtraction.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\06. Even and Odd Subtraction\obj\Debug\net5.0\ref\06. Even and Odd Subtraction.dll

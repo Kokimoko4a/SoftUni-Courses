@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\bin\Debug\net5.0\2. Common Elements.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\refint\2. Common Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\2. Common Elements.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays Exercises\2. Common Elements\obj\Debug\net5.0\ref\2. Common Elements.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\bin\Debug\net5.0\8. Condense Array to Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\refint\8. Condense Array to Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\8. Condense Array to Number.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Arrays\8. Condense Array to Number\obj\Debug\net5.0\ref\8. Condense Array to Number.dll
