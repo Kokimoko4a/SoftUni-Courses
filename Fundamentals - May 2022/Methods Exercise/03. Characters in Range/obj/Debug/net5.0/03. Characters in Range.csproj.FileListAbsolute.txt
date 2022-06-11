@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\refint\03. Characters in Range.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\03. Characters in Range\obj\Debug\net5.0\ref\03. Characters in Range.dll

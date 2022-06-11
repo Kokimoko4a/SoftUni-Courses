@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\refint\10. Top Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll

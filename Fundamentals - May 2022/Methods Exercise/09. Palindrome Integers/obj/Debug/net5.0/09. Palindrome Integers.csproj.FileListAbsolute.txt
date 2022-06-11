@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\bin\Debug\net5.0\09. Palindrome Integers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\refint\09. Palindrome Integers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\09. Palindrome Integers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\09. Palindrome Integers\obj\Debug\net5.0\ref\09. Palindrome Integers.dll

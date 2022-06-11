@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\refint\06. Middle Characters.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\06. Middle Characters\obj\Debug\net5.0\ref\06. Middle Characters.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\refint\02. Vowels Count.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll

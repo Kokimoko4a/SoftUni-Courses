@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\refint\01. Smallest of Three Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\ref\01. Smallest of Three Numbers.dll

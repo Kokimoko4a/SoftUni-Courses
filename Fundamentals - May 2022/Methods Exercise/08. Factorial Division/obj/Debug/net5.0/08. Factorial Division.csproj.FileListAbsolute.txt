@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\refint\08. Factorial Division.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods Exercise\08. Factorial Division\obj\Debug\net5.0\ref\08. Factorial Division.dll
