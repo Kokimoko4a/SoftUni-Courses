@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\refint\06. List Manipulation Basics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\06. List Manipulation Basics\obj\Debug\net5.0\ref\06. List Manipulation Basics.dll

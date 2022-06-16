@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\refint\01. Sum Adjacent Equal Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll

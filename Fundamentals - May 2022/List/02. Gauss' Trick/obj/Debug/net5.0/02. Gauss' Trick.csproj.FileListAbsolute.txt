@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\refint\02. Gauss' Trick.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List\02. Gauss' Trick\obj\Debug\net5.0\ref\02. Gauss' Trick.dll
