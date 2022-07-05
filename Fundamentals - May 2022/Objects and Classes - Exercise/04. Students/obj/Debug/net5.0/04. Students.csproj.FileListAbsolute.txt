@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\bin\Debug\net5.0\04. Students.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\refint\04. Students.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\04. Students.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\04. Students\obj\Debug\net5.0\ref\04. Students.dll

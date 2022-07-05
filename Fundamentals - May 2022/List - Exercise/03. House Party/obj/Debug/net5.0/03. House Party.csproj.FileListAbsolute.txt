@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\refint\03. House Party.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\03. House Party\obj\Debug\net5.0\ref\03. House Party.dll

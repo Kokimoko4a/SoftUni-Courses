@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\bin\Debug\net5.0\08. Math Power.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\refint\08. Math Power.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\08. Math Power.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\08. Math Power\obj\Debug\net5.0\ref\08. Math Power.dll

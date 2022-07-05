@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\refint\01. Sign of Integer Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll

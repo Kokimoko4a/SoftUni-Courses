@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\refint\04. List Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\04. List Operations\obj\Debug\net5.0\ref\04. List Operations.dll

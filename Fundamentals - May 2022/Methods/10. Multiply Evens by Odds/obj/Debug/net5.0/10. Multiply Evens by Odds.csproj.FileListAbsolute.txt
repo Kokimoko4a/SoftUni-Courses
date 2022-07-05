@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\refint\10. Multiply Evens by Odds.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll

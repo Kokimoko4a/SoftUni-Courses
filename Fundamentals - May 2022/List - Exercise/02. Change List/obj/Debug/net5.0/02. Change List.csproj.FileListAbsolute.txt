@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\refint\02. Change List.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\List - Exercise\02. Change List\obj\Debug\net5.0\ref\02. Change List.dll

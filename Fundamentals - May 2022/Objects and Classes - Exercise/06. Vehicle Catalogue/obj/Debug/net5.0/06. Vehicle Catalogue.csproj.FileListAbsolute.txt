@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\net5.0\06. Vehicle Catalogue.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\refint\06. Vehicle Catalogue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\06. Vehicle Catalogue.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\net5.0\ref\06. Vehicle Catalogue.dll

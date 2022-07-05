@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\refint\01. Advertisement Message.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll

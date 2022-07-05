@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\refint\07. Repeat String.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Methods\07. Repeat String\obj\Debug\net5.0\ref\07. Repeat String.dll
