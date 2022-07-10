@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZ5G2W5kl9lpplS8lg/YEpuMiOZVjKTjscah69DJojRo1Rj8IXha1zud/9Hes+XBmzYdwobzcQkCuaJ8WMF3RQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Associative Arrays - Exercise\\07. Company Users\\07. Company Users.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

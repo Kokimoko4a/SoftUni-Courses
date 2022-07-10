@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\bin\Debug\net5.0\06. Student Academy.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\refint\06. Student Academy.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\06. Student Academy.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\06. Student Academy\obj\Debug\net5.0\ref\06. Student Academy.dll

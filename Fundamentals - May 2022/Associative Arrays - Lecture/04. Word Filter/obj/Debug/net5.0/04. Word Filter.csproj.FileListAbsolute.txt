@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\bin\Debug\net5.0\04. Word Filter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\refint\04. Word Filter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\04. Word Filter.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\04. Word Filter\obj\Debug\net5.0\ref\04. Word Filter.dll

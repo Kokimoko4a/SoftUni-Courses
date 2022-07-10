@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\bin\Debug\net5.0\03. Orders.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\refint\03. Orders.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\03. Orders.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\03. Orders\obj\Debug\net5.0\ref\03. Orders.dll

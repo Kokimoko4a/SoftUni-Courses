@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\refint\02. Odd Occurrences.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Lecture\02. Odd Occurrences\obj\Debug\net5.0\ref\02. Odd Occurrences.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\refint\02. A Miner Task.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\net5.0\ref\02. A Miner Task.dll
