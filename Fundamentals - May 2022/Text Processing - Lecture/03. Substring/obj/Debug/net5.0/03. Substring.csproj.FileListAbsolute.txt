@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\bin\Debug\net5.0\03. Substring.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\refint\03. Substring.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\03. Substring.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\03. Substring\obj\Debug\net5.0\ref\03. Substring.dll

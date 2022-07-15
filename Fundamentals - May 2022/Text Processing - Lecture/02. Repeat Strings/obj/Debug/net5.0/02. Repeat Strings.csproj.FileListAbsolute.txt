@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\refint\02. Repeat Strings.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Processing - Lecture\02. Repeat Strings\obj\Debug\net5.0\ref\02. Repeat Strings.dll
