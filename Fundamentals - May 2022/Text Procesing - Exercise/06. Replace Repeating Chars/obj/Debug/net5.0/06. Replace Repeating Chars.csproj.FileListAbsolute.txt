@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\refint\06. Replace Repeating Chars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\ref\06. Replace Repeating Chars.dll
