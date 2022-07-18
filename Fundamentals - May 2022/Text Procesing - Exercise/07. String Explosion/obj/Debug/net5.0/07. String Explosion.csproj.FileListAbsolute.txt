@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\refint\07. String Explosion.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\07. String Explosion\obj\Debug\net5.0\ref\07. String Explosion.dll

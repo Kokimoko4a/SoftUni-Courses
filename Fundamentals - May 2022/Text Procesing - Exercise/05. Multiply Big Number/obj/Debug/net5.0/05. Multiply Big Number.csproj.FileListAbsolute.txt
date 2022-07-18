@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\refint\05. Multiply Big Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Text Procesing - Exercise\05. Multiply Big Number\obj\Debug\net5.0\ref\05. Multiply Big Number.dll
