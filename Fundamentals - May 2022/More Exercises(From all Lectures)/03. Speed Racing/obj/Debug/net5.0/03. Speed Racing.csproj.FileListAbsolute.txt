@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\bin\Debug\net5.0\03. Speed Racing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\refint\03. Speed Racing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\03. Speed Racing.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Speed Racing\obj\Debug\net5.0\ref\03. Speed Racing.dll

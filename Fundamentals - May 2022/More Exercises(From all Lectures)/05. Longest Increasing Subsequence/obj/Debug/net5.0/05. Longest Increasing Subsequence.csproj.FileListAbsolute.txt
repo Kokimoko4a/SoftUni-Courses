@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\refint\05. Longest Increasing Subsequence.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Longest Increasing Subsequence\obj\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll

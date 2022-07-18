@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\bin\Debug\net5.0\05. Dragon Army.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\refint\05. Dragon Army.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\05. Dragon Army.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\05. Dragon Army\obj\Debug\net5.0\ref\05. Dragon Army.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\refint\01. Extract Person Information.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Extract Person Information\obj\Debug\net5.0\ref\01. Extract Person Information.dll

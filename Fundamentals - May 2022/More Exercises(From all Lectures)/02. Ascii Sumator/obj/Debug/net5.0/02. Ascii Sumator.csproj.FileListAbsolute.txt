@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\refint\02. Ascii Sumator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\02. Ascii Sumator\obj\Debug\net5.0\ref\02. Ascii Sumator.dll
