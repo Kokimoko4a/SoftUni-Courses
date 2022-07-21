@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\refint\02. Match Phone Number.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\ref\02. Match Phone Number.dll

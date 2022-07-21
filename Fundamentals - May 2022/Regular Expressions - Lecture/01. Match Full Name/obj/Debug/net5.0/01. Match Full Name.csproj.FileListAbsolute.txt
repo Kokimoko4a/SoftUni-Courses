@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\refint\01. Match Full Name.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\ref\01. Match Full Name.dll
