@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\refint\03. Heroes of Code and Logic VII.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll

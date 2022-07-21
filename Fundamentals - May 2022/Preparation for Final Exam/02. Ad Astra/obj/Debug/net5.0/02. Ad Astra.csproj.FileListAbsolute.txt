@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\refint\02. Ad Astra.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Ad Astra\obj\Debug\net5.0\ref\02. Ad Astra.dll

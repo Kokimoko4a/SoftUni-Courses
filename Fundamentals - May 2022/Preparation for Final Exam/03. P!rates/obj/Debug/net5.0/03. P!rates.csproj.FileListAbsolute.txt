@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\bin\Debug\net5.0\03. P!rates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\refint\03. P!rates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\03. P!rates.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. P!rates\obj\Debug\net5.0\ref\03. P!rates.dll

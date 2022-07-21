@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\bin\Debug\net5.0\03. The Pianist.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\refint\03. The Pianist.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\03. The Pianist.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. The Pianist\obj\Debug\net5.0\ref\03. The Pianist.dll

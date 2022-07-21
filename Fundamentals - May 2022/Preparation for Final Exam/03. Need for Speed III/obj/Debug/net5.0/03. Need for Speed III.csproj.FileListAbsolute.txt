@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\bin\Debug\net5.0\03. Need for Speed III.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\refint\03. Need for Speed III.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\03. Need for Speed III.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Need for Speed III\obj\Debug\net5.0\ref\03. Need for Speed III.dll

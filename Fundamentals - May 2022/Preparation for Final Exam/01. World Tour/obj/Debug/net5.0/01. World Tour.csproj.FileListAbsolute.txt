@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\refint\01. World Tour.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. World Tour\obj\Debug\net5.0\ref\01. World Tour.dll

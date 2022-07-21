@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRj0alGfP3IAw6/6TV7izQJ2GEuJ5xmICAzJxctbCZvsVq8Y4FBVeyhnc/6DXZ/jbJVxXFeb/VeopJkA7ovJGg==",
+  "success": true,
+  "projectFilePath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\Fundamentals - May 2022\\Preparation for Final Exam\\03. Heroes of Code and Logic VII\\03. Heroes of Code and Logic VII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

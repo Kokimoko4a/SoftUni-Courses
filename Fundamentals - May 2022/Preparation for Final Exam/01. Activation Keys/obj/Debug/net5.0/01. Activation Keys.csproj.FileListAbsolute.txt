@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\refint\01. Activation Keys.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Activation Keys\obj\Debug\net5.0\ref\01. Activation Keys.dll
