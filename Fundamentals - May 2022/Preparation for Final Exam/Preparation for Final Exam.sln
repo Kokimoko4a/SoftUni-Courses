@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Need for Speed III", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Destination Mapper", "02. Destination Mapper\02. Destination Mapper.csproj", "{08762CA3-6C9B-4248-869B-1B67698C6E3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Fancy Barcodes", "02.Fancy Barcodes\02.Fancy Barcodes.csproj", "{0C17B237-0B5E-4A14-BFEC-CBAA54CFBFA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Fancy Barcodes", "02.Fancy Barcodes\02.Fancy Barcodes.csproj", "{0C17B237-0B5E-4A14-BFEC-CBAA54CFBFA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Mirror Words", "02. Mirror Words\02. Mirror Words.csproj", "{A3C281EB-A21F-43B1-9B75-F4AB15722D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{9BE75859-B7FF-446E-93B2-D49550A823A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{0C17B237-0B5E-4A14-BFEC-CBAA54CFBFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C17B237-0B5E-4A14-BFEC-CBAA54CFBFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C17B237-0B5E-4A14-BFEC-CBAA54CFBFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C281EB-A21F-43B1-9B75-F4AB15722D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C281EB-A21F-43B1-9B75-F4AB15722D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C281EB-A21F-43B1-9B75-F4AB15722D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C281EB-A21F-43B1-9B75-F4AB15722D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE75859-B7FF-446E-93B2-D49550A823A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE75859-B7FF-446E-93B2-D49550A823A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE75859-B7FF-446E-93B2-D49550A823A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE75859-B7FF-446E-93B2-D49550A823A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

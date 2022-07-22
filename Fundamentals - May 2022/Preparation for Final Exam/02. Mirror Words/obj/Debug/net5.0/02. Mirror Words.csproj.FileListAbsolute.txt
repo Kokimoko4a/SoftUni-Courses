@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\refint\02. Mirror Words.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\02. Mirror Words\obj\Debug\net5.0\ref\02. Mirror Words.dll
