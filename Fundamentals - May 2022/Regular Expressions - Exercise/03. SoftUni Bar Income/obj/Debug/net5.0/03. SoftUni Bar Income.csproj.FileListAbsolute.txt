@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\refint\03. SoftUni Bar Income.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\ref\03. SoftUni Bar Income.dll

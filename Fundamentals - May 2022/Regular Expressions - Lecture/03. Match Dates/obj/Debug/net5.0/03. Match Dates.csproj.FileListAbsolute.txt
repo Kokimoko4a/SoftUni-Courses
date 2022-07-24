@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\bin\Debug\net5.0\03. Match Dates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\refint\03. Match Dates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\03. Match Dates.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Lecture\03. Match Dates\obj\Debug\net5.0\ref\03. Match Dates.dll
