@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\refint\04. Morse Code Translator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Morse Code Translator\obj\Debug\net5.0\ref\04. Morse Code Translator.dll

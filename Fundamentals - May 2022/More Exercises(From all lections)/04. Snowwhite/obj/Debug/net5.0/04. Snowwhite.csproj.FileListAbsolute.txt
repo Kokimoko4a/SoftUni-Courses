@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\refint\04. Snowwhite.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\04. Snowwhite\obj\Debug\net5.0\ref\04. Snowwhite.dll

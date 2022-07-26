@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\refint\1. Winning Ticket.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\1. Winning Ticket\obj\Debug\net5.0\ref\1. Winning Ticket.dll

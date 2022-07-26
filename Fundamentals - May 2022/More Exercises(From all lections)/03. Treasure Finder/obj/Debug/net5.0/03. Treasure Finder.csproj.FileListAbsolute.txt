@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\refint\03. Treasure Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\03. Treasure Finder\obj\Debug\net5.0\ref\03. Treasure Finder.dll

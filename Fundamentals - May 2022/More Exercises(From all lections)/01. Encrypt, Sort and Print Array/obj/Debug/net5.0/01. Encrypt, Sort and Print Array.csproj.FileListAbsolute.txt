@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\refint\01. Encrypt, Sort and Print Array.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\More Exercises(From all lections)\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll

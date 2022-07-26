@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\refint\04. Star Enigma.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\ref\04. Star Enigma.dll
