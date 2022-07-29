@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\bin\Debug\net5.0\03. Hero Progress.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\refint\03. Hero Progress.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\03. Hero Progress.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\03. Hero Progress\obj\Debug\net5.0\ref\03. Hero Progress.dll

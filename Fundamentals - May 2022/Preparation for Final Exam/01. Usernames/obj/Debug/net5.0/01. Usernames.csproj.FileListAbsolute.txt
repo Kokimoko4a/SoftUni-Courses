@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\bin\Debug\net5.0\01. Usernames.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\refint\01. Usernames.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\01. Usernames.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Usernames\obj\Debug\net5.0\ref\01. Usernames.dll

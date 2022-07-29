@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\bin\Debug\net5.0\04. Dota Tournament.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\refint\04. Dota Tournament.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\04. Dota Tournament.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\04. Dota Tournament\obj\Debug\net5.0\ref\04. Dota Tournament.dll

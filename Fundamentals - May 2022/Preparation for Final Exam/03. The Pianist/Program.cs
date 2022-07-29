@@ -93,7 +93,6 @@ namespace _03._The_Pianist
     {
         public Piece(string composer, string key)
         {
-
             Composer = composer;
             KeyOfPiece = key;
         }

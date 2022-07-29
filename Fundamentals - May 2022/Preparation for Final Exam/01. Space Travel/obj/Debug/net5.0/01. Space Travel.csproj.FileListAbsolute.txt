@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\bin\Debug\net5.0\01. Space Travel.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\refint\01. Space Travel.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\01. Space Travel.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Fundamentals - May 2022\Preparation for Final Exam\01. Space Travel\obj\Debug\net5.0\ref\01. Space Travel.dll

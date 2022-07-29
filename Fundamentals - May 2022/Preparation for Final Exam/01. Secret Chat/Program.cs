@@ -31,13 +31,13 @@ namespace _01._Secret_Chat
 
                         message = message.Remove(message.IndexOf(substring), substring.Length);
                         message += reversedCut;
-                        Console.WriteLine(message );
+                        Console.WriteLine(message);
                     }
 
                     else
                     {
                         Console.WriteLine("error");
-                    }                
+                    }
                 }
 
                 else if (action == "ChangeAll")
@@ -46,7 +46,7 @@ namespace _01._Secret_Chat
                     string newString = tokens[2];
 
                     message = message.Replace(oldString, newString);
-                    Console.WriteLine(message );
+                    Console.WriteLine(message);
                 }
 
                 else if (action == "InsertSpace")
@@ -54,7 +54,7 @@ namespace _01._Secret_Chat
                     int index = int.Parse(tokens[1]);
 
                     message = message.Insert(index, " ");
-                    Console.WriteLine(message );
+                    Console.WriteLine(message);
                 }
 
                 command = Console.ReadLine();

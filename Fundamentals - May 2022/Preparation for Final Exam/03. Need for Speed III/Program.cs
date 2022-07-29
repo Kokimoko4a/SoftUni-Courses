@@ -109,7 +109,6 @@ namespace _03._Need_for_Speed_III
             Mileage = mileage;
             FuelAmount = fuelAmount;
         }
-
         public int Mileage { get; set; }
         public int FuelAmount { get; set; }
     }
