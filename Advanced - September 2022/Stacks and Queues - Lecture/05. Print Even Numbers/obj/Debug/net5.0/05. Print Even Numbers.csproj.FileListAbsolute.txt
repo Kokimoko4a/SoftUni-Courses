@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\refint\05. Print Even Numbers.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\05. Print Even Numbers\obj\Debug\net5.0\ref\05. Print Even Numbers.dll

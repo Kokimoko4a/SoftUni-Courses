@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\refint\7. Hot Potato.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll

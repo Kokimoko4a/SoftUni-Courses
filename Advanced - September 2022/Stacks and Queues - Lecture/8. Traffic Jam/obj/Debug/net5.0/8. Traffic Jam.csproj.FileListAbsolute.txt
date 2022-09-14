@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\bin\Debug\net5.0\8. Traffic Jam.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\refint\8. Traffic Jam.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\8. Traffic Jam.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\8. Traffic Jam\obj\Debug\net5.0\ref\8. Traffic Jam.dll

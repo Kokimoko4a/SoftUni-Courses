@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\bin\Debug\net5.0\03. Simple Calculator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\refint\03. Simple Calculator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\03. Simple Calculator.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Lecture\03. Simple Calculator\obj\Debug\net5.0\ref\03. Simple Calculator.dll
