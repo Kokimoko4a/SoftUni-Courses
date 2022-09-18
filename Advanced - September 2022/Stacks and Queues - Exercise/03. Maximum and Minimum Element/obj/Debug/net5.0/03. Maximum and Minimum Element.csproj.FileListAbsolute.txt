@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\refint\03. Maximum and Minimum Element.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\ref\03. Maximum and Minimum Element.dll

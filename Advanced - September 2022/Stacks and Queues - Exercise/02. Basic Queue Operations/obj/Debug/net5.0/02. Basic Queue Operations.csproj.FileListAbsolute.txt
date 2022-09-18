@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\net5.0\02. Basic Queue Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\refint\02. Basic Queue Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\02. Basic Queue Operations.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\net5.0\ref\02. Basic Queue Operations.dll

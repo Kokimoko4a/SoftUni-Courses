@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\refint\06. Songs Queue.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net5.0\ref\06. Songs Queue.dll
