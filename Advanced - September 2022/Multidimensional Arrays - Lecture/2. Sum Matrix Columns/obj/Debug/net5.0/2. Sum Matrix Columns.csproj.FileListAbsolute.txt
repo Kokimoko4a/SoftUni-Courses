@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\refint\2. Sum Matrix Columns.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll

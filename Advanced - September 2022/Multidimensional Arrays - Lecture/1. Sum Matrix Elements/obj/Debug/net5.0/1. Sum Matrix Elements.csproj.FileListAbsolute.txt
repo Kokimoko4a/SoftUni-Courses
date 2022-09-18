@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\refint\1. Sum Matrix Elements.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll

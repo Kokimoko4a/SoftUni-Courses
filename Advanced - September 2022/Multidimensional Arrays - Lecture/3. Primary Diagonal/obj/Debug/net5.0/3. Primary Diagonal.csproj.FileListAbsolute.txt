@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\refint\3. Primary Diagonal.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll

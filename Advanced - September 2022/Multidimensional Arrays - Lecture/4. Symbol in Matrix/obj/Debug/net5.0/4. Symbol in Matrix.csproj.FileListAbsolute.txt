@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\refint\4. Symbol in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Lecture\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
