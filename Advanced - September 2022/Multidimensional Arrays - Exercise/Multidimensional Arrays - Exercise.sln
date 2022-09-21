@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Squares in Matrix", "2. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{B495DEF6-8BDC-4AF9-8259-CF36FF1C3A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{22AAF26B-9B96-4513-8840-BC14F7209254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{22AAF26B-9B96-4513-8840-BC14F7209254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{1AEEB1A2-B943-41F9-819D-DF635150D111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{1AEEB1A2-B943-41F9-819D-DF635150D111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged Array Manipulator", "6. Jagged Array Manipulator\6. Jagged Array Manipulator.csproj", "{5F9B9B4D-2FCB-4F7A-828A-E2CC693A65C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1AEEB1A2-B943-41F9-819D-DF635150D111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AEEB1A2-B943-41F9-819D-DF635150D111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AEEB1A2-B943-41F9-819D-DF635150D111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9B9B4D-2FCB-4F7A-828A-E2CC693A65C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9B9B4D-2FCB-4F7A-828A-E2CC693A65C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9B9B4D-2FCB-4F7A-828A-E2CC693A65C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9B9B4D-2FCB-4F7A-828A-E2CC693A65C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

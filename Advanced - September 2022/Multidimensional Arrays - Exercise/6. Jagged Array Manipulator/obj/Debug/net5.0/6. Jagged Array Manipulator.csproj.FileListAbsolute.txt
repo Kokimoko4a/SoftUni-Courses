@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\refint\6. Jagged Array Manipulator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
