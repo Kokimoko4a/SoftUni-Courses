@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\net5.0\1. Diagonal Difference.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\refint\1. Diagonal Difference.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\net5.0\ref\1. Diagonal Difference.dll

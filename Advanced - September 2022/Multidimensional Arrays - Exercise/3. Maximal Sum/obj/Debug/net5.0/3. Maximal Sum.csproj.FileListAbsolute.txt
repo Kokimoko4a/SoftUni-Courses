@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\net5.0\3. Maximal Sum.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\refint\3. Maximal Sum.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\3. Maximal Sum.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\net5.0\ref\3. Maximal Sum.dll

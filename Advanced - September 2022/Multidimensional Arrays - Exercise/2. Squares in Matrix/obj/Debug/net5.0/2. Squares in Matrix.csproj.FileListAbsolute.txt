@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\refint\2. Squares in Matrix.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\net5.0\ref\2. Squares in Matrix.dll
