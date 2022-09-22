@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\refint\03. Periodic Table.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll

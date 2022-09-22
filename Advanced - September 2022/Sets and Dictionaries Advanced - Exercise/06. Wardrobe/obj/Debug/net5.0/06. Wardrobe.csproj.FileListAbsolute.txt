@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\net5.0\06. Wardrobe.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\refint\06. Wardrobe.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\06. Wardrobe.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\net5.0\ref\06. Wardrobe.dll
