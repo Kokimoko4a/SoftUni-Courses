@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\refint\05. Cities by Continent and Country.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\ref\05. Cities by Continent and Country.dll

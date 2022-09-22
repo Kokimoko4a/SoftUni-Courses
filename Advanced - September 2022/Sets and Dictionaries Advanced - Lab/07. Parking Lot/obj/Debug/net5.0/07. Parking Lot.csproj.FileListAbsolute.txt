@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\bin\Debug\net5.0\07. Parking Lot.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\refint\07. Parking Lot.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\07. Parking Lot.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\07. Parking Lot\obj\Debug\net5.0\ref\07. Parking Lot.dll

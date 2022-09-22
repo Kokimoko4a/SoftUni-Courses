@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\net5.0\04. Product Shop.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\refint\04. Product Shop.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\04. Product Shop.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\net5.0\ref\04. Product Shop.dll
