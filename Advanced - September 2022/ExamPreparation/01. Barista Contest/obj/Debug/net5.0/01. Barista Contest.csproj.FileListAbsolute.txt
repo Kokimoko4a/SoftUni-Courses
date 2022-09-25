@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\bin\Debug\net5.0\01. Barista Contest.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\refint\01. Barista Contest.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\01. Barista Contest.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Barista Contest\obj\Debug\net5.0\ref\01. Barista Contest.dll
