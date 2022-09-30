@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\bin\Debug\net5.0\01. Tiles Master.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\refint\01. Tiles Master.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\01. Tiles Master.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Tiles Master\obj\Debug\net5.0\ref\01. Tiles Master.dll

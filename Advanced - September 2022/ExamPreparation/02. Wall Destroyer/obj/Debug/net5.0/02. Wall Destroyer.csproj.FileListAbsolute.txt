@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\refint\02. Wall Destroyer.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Wall Destroyer\obj\Debug\net5.0\ref\02. Wall Destroyer.dll
