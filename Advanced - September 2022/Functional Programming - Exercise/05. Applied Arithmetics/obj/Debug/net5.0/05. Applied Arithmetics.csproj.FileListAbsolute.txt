@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\refint\05. Applied Arithmetics.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\net5.0\ref\05. Applied Arithmetics.dll

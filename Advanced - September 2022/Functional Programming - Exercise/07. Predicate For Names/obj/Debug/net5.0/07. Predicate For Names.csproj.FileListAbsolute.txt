@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\refint\07. Predicate For Names.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\ref\07. Predicate For Names.dll

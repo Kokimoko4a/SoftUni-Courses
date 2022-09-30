@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\refint\06. Reverse And Exclude.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\ref\06. Reverse And Exclude.dll

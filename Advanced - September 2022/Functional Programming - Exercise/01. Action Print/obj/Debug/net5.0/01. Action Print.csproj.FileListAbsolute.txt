@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\refint\01. Action Print.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\ref\01. Action Print.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net5.0\02. Knights of Honor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\refint\02. Knights of Honor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\02. Knights of Honor.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net5.0\ref\02. Knights of Honor.dll
