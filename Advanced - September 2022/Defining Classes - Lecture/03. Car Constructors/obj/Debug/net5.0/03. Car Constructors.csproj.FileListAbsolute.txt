@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\bin\Debug\net5.0\03. Car Constructors.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\refint\03. Car Constructors.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\03. Car Constructors.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\03. Car Constructors\obj\Debug\net5.0\ref\03. Car Constructors.dll

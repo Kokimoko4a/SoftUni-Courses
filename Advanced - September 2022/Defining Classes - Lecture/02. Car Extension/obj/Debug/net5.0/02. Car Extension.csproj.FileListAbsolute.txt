@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\bin\Debug\net5.0\02. Car Extension.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\refint\02. Car Extension.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\02. Car Extension.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\02. Car Extension\obj\Debug\net5.0\ref\02. Car Extension.dll

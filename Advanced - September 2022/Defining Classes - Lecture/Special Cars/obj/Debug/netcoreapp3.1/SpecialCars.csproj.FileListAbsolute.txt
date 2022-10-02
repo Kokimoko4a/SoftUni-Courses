@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\bin\Debug\netcoreapp3.1\SpecialCars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\Special Cars\obj\Debug\netcoreapp3.1\SpecialCars.genruntimeconfig.cache

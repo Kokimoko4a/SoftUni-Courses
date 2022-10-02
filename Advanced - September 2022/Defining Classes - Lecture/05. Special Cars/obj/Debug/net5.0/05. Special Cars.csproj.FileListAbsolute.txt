@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\bin\Debug\net5.0\05. Special Cars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\refint\05. Special Cars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\05. Special Cars.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Lecture\05. Special Cars\obj\Debug\net5.0\ref\05. Special Cars.dll
