@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\netcoreapp3.1\09. Predicate Party!.genruntimeconfig.cache

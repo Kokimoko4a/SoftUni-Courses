@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.genruntimeconfig.cache
