@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.genruntimeconfig.cache
