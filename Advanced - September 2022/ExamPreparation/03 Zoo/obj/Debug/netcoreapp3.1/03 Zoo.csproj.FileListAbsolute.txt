@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\bin\Debug\netcoreapp3.1\03 Zoo.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03 Zoo\obj\Debug\netcoreapp3.1\03 Zoo.genruntimeconfig.cache

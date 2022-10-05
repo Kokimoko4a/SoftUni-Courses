@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.genruntimeconfig.cache
