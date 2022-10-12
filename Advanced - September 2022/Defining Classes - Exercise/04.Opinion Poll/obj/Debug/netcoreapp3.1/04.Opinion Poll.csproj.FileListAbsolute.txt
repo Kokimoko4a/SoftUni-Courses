@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\bin\Debug\netcoreapp3.1\04.Opinion Poll.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Defining Classes - Exercise\04.Opinion Poll\obj\Debug\netcoreapp3.1\04.Opinion Poll.genruntimeconfig.cache
