@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\bin\Debug\net5.0\02. Snake.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\refint\02. Snake.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\02. Snake.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Snake\obj\Debug\net5.0\ref\02. Snake.dll

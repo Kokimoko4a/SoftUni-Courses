@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\bin\Debug\net5.0\02. Pawn Wars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\refint\02. Pawn Wars.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\02. Pawn Wars.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Pawn Wars\obj\Debug\net5.0\ref\02. Pawn Wars.dll

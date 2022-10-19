@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\bin\Debug\netcoreapp3.1\03.Street Racing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Street Racing\obj\Debug\netcoreapp3.1\03.Street Racing.genruntimeconfig.cache

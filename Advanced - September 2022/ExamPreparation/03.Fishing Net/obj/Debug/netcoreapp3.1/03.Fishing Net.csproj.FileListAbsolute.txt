@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\bin\Debug\netcoreapp3.1\03.Fishing Net.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Fishing Net\obj\Debug\netcoreapp3.1\03.Fishing Net.genruntimeconfig.cache

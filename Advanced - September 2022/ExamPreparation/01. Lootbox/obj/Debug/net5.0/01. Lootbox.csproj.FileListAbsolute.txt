@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\refint\01. Lootbox.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Lootbox\obj\Debug\net5.0\ref\01. Lootbox.dll

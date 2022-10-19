@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\bin\Debug\net5.0\02. Armory.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\refint\02. Armory.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\02. Armory.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Armory\obj\Debug\net5.0\ref\02. Armory.dll

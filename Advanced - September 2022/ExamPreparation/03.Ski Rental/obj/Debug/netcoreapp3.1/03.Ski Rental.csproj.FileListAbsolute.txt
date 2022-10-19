@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\bin\Debug\netcoreapp3.1\03.Ski Rental.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Ski Rental\obj\Debug\netcoreapp3.1\03.Ski Rental.genruntimeconfig.cache

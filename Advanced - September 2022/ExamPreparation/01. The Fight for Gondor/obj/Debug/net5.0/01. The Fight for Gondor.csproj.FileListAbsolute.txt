@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\bin\Debug\net5.0\01. The Fight for Gondor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\refint\01. The Fight for Gondor.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\01. The Fight for Gondor.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. The Fight for Gondor\obj\Debug\net5.0\ref\01. The Fight for Gondor.dll

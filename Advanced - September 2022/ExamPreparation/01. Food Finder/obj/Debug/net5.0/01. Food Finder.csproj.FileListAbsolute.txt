@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\bin\Debug\net5.0\01. Food Finder.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\refint\01. Food Finder.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\01. Food Finder.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Food Finder\obj\Debug\net5.0\ref\01. Food Finder.dll

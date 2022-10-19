@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\refint\01.Warm Winter.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01.Warm Winter\obj\Debug\net5.0\ref\01.Warm Winter.dll

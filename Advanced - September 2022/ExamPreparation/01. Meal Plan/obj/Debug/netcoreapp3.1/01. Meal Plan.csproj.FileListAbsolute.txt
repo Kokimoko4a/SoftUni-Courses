@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\bin\Debug\net5.0\01. Scheduling.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\refint\01. Scheduling.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\01. Scheduling.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Scheduling\obj\Debug\net5.0\ref\01. Scheduling.dll

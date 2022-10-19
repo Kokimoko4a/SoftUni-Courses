@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\bin\Debug\netcoreapp3.1\03.Stock Market.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\03.Stock Market\obj\Debug\netcoreapp3.1\03.Stock Market.genruntimeconfig.cache

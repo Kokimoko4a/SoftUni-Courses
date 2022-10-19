@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\bin\Debug\net5.0\02.Super Mario.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\refint\02.Super Mario.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\02.Super Mario.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02.Super Mario\obj\Debug\net5.0\ref\02.Super Mario.dll

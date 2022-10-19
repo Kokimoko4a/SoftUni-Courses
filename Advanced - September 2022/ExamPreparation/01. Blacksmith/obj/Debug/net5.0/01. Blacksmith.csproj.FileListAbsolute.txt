@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\bin\Debug\net5.0\01. Blacksmith.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\refint\01. Blacksmith.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\01. Blacksmith.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Blacksmith\obj\Debug\net5.0\ref\01. Blacksmith.dll

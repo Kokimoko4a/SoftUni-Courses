@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\bin\Debug\net5.0\01. Flower Wreaths.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\refint\01. Flower Wreaths.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\01. Flower Wreaths.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Flower Wreaths\obj\Debug\net5.0\ref\01. Flower Wreaths.dll

@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\refint\01. Birthday Celebration.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\01. Birthday Celebration\obj\Debug\net5.0\ref\01. Birthday Celebration.dll

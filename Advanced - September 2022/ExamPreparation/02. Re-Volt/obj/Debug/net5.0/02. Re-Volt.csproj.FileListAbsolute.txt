@@ -1,0 +1,16 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\bin\Debug\net5.0\02. Re-Volt.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\refint\02. Re-Volt.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\02. Re-Volt.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\ExamPreparation\02. Re-Volt\obj\Debug\net5.0\ref\02. Re-Volt.dll
