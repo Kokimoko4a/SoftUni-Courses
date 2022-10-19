@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache

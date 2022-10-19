@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.genruntimeconfig.cache
