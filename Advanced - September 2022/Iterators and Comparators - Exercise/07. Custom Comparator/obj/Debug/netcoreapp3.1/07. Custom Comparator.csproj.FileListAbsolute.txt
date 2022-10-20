@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Advanced - September 2022\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache
