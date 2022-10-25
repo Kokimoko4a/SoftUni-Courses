@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.genruntimeconfig.cache
