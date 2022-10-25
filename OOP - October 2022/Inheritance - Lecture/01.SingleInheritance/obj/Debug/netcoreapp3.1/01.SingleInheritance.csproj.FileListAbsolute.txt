@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.genruntimeconfig.cache
