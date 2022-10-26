@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.genruntimeconfig.cache
