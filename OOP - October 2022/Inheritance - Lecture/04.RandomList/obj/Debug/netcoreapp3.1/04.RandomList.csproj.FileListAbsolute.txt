@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\bin\Debug\netcoreapp3.1\04.RandomList.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Inheritance - Lecture\04.RandomList\obj\Debug\netcoreapp3.1\04.RandomList.genruntimeconfig.cache

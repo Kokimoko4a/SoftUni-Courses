@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Farm
 {
-    internal class Cat : Animal
+    public class Cat : Animal
     {
         public void Meow()
         {

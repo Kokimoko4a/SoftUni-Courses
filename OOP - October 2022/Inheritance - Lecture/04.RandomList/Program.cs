@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace _04.RandomList
+namespace CustomRandomList
 {
-    internal class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            RandomList strings = new RandomList();
+            strings.Add("d");
+            Console.WriteLine(strings.RandomString());
         }
     }
 }
