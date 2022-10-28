@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.genruntimeconfig.cache
