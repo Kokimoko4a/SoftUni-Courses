@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.genruntimeconfig.cache

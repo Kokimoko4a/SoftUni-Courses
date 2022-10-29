@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\bin\Debug\netcoreapp3.1\02.AnimalFarm.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\02.AnimalFarm\obj\Debug\netcoreapp3.1\02.AnimalFarm.genruntimeconfig.cache
