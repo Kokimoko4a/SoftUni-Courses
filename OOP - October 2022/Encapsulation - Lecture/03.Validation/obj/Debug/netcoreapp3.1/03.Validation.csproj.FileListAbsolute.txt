@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Lecture\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.genruntimeconfig.cache
