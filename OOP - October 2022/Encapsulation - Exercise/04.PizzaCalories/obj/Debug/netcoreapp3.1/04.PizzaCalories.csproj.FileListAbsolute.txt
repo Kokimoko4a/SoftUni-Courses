@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.genruntimeconfig.cache
