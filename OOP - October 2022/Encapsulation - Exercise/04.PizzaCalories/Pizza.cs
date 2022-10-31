@@ -17,7 +17,6 @@ namespace _04.PizzaCalories
 
         public Pizza()
         {
-
         }
 
         public string Name
@@ -35,7 +34,6 @@ namespace _04.PizzaCalories
         }
 
         public Dough Dough { get; set; }
-
         public double Calories { get { return CalcCals(); } }
 
         private double CalcCals()

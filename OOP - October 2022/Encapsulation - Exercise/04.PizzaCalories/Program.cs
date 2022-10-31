@@ -13,10 +13,6 @@ namespace _04.PizzaCalories
             string command;
             Pizza pizza = new Pizza();
 
-
-            /* Pizza pizza = new Pizza(arguments[1]);
-             command = Console.ReadLine();
-            */
             while ((command = Console.ReadLine()) != "END")
             {
                 string[] arguments = command.Split();
@@ -78,23 +74,12 @@ namespace _04.PizzaCalories
                         Console.WriteLine(e.Message);
                         return;
                     }
-
-
-                }
-
-              
+                }     
             } 
-
-
-
             if (pizza.Name != null)
             {
                 Console.WriteLine($"{pizza.Name} - {pizza.Calories:f2} Calories.");
-            }
-            
-
-
-
+            }          
         }
     }
 }

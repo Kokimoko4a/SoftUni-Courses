@@ -53,7 +53,6 @@ namespace _04.PizzaCalories
             }
         }
 
-
         private double CalcCals()
         {
             double calsOfModifaiers = 1;
@@ -63,7 +62,5 @@ namespace _04.PizzaCalories
             return (2 * Grams) * calsOfModifaiers;
 
         }
-
-
     }
 }

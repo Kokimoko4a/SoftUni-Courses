@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.genruntimeconfig.cache
