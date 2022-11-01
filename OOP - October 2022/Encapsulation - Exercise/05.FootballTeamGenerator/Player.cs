@@ -121,6 +121,7 @@ namespace _05.FootballTeamGenerator
         {
             double d = Endurance + Sprint + Dribble + Passing + Shooting;
             double result = d / 5;
+            int mesho = 0;
             return result;
         }
     }
