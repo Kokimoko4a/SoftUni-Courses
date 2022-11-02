@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache
