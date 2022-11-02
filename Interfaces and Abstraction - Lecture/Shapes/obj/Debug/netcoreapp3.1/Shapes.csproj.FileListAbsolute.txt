@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Lecture\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
