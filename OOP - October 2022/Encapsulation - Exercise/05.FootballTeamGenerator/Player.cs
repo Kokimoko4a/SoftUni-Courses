@@ -8,7 +8,7 @@ namespace _05.FootballTeamGenerator
 {
     public class Player
     {
-        public double OverallSkillLevel { get { return CalculateOverAllSkillLevel(); } }
+        
         private string name;
         private double endrurance;
         private double sprint;
@@ -29,6 +29,7 @@ namespace _05.FootballTeamGenerator
         public string Name
         {
             get { return name; }
+
             private set
             {
                 if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
@@ -51,7 +52,6 @@ namespace _05.FootballTeamGenerator
                 }
 
                 endrurance = value;
-                ;
             }
         }
         public double Sprint
@@ -115,10 +115,13 @@ namespace _05.FootballTeamGenerator
             }
         }
 
+        public double OverallSkillLevel { get { return CalculateOverAllSkillLevel(); } }
+
         private double CalculateOverAllSkillLevel()
         {
             double d = Endurance + Sprint + Dribble + Passing + Shooting;
             double result = d / 5;
+            int mesho = 0;
             return result;
         }
     }

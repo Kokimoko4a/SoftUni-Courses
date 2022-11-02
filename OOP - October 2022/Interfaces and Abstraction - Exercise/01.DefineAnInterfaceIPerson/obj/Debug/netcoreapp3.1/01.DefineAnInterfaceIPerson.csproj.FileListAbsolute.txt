@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.genruntimeconfig.cache
