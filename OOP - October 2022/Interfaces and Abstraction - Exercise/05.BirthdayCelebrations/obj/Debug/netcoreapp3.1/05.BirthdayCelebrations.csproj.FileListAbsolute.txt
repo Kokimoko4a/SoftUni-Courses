@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.genruntimeconfig.cache
