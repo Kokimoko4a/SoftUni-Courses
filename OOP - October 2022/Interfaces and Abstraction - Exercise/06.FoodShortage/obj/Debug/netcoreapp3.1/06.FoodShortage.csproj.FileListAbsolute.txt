@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache
