@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

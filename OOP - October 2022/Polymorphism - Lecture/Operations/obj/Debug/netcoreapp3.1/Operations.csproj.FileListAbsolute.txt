@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Lecture\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
