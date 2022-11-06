@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\bin\Debug\netcoreapp3.1\03.Raiding.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\03.Raiding\obj\Debug\netcoreapp3.1\03.Raiding.genruntimeconfig.cache
