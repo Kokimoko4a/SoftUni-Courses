@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\Polymorphism - Exercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.genruntimeconfig.cache
