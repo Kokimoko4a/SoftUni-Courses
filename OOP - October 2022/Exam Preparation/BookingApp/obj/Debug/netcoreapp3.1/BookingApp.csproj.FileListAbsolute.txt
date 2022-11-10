@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\Admin\Downloads\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\Admin\Downloads\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
