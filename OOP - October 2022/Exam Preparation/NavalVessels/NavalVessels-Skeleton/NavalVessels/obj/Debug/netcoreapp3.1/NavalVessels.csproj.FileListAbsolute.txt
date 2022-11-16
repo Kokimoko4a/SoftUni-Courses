@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\Admin\Downloads\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache

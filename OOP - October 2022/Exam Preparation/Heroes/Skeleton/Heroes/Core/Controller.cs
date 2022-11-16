@@ -37,7 +37,7 @@ namespace Heroes.Core
             }
 
             var currWeapon = wepons.FindByName(weaponName);
-
+            wepons.Remove(currWeapon);
             hero.AddWeapon(currWeapon);
             return $"Hero {heroName} can participate in battle using a {currWeapon.GetType().Name.ToLower()}.";
         }

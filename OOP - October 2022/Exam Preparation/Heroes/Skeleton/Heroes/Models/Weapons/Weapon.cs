@@ -23,7 +23,7 @@ namespace Heroes.Models.Weapons
 
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) || string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Weapon type cannot be null or empty.");
                 }
