@@ -1,0 +1,14 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Lecture\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
