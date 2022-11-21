@@ -1,0 +1,10 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

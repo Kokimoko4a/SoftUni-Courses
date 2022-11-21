@@ -1,0 +1,10 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb

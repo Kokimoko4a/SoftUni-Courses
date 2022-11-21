@@ -1,0 +1,10 @@
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\Kaloyan\Zadachi_Softuni_C#\OOP - October 2022\UnitTesting - Exercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
