@@ -375,9 +375,6 @@ namespace DatabaseExtended.Tests
             
         }
 
-
-
-
         [Test]
         public void FindByNameThrowsAnExceptionWhenNoSuchPerson()
         {
