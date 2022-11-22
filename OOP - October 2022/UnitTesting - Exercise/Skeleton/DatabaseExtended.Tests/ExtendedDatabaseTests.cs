@@ -260,7 +260,7 @@ namespace DatabaseExtended.Tests
         [Test]
         public void DoesDBThorwsAnExceptionWhenNameDuplicates()
         {
-            Person[] people = new Person[16];
+            Person[] people = new Person[1];
             people[0] = new Person(123, "koki");
             Database database = new Database(people);
             Assert.Throws<InvalidOperationException>(() => { database.Add(  new Person(124,"koki"));});
@@ -269,11 +269,156 @@ namespace DatabaseExtended.Tests
         [Test]
         public void DoesDBThorwsAnExceptionWhenIDDuplicates()
         {
-            Person[] people = new Person[16];
+            Person[] people = new Person[1];
             people[0] = new Person(123, "koki");
             Database database = new Database(people);
             Assert.Throws<InvalidOperationException>(() => { database.Add(new Person(123, "kokif")); });
         }
 
+        [Test]
+        public void DoesRemoveWorks()
+        {
+
+            Person[] people = new Person[16];
+            Person person1 = new Person(123, "Koki");
+            Person person2 = new Person(1233, "oki");
+            Person person3 = new Person(12333, "ki");
+            Person person4 = new Person(1234, "i");
+            Person person5 = new Person(1235, "qKoki");
+            Person person6 = new Person(1236, "wKoki");
+            Person person7 = new Person(1237, "eKoki");
+            Person person8 = new Person(1238, "Kroki");
+            Person person9 = new Person(1239, "Kotki");
+            Person person10 = new Person(12310, "Koyki");
+            Person person11 = new Person(12312, "Kokui");
+            Person person12 = new Person(12313, "Kokii");
+            Person person13 = new Person(12315, "Kokio");
+            Person person14 = new Person(12316, "Kokoi");
+            Person person15 = new Person(12317, "Kokpi");
+            Person person16 = new Person(12318, "Kokik");
+
+            people[0] = person1;
+            people[1] = person2;
+            people[2] = person3;
+            people[3] = person4;
+            people[4] = person5;
+            people[5] = person6;
+            people[6] = person7;
+            people[7] = person8;
+            people[8] = person9;
+            people[9] = person10;
+            people[10] = person11;
+            people[11] = person12;
+            people[12] = person13;
+            people[13] = person14;
+            people[14] = person15;
+            people[15] = person16;
+
+            Database database = new Database(people);
+
+            database.Remove();
+            int expectedCount = people.Length - 1;
+            int actualCount = database.Count;
+
+            Assert.AreEqual(expectedCount, actualCount);
+        }
+
+        [Test]
+        public void DoesRemoveThrowsAnExceptionWhenCountIs0()
+        {
+            Database database = new Database();
+            Assert.Throws<InvalidOperationException>(() => { database.Remove(); });
+        }
+
+
+        [Test]
+        public void DoesFindByNameWorks()
+        {
+
+            Person[] people = new Person[3];
+            Person person1 = new Person(123, "Koki");
+            Person person2 = new Person(1233, "oki");
+            Person person3 = new Person(12333, "ki");
+
+
+            people[0] = person1;
+            people[1] = person2;
+            people[2] = person3;
+
+            Database database = new Database(people);
+
+            Person expecred = person1;
+            Person actual = database.FindByUsername("Koki");
+
+            Assert.AreEqual(expecred, actual);
+        }
+
+        [TestCase(null)]
+        [TestCase("")]
+        public void DoesFindByNameThrowsAnExceptionWhenNameIsNullOrEmpty(string input)
+        {
+
+            Person[] people = new Person[3];
+            Person person1 = new Person(123, "Koki");
+            Person person2 = new Person(1233, "oki");
+            Person person3 = new Person(12333, "ki");
+
+
+            people[0] = person1;
+            people[1] = person2;
+            people[2] = person3;
+
+            Database database = new Database(people);
+
+            Assert.Throws<ArgumentNullException>(() => { database.FindByUsername(input); });
+
+            
+        }
+
+
+
+
+        [Test]
+        public void FindByNameThrowsAnExceptionWhenNoSuchPerson()
+        {
+            Database database = new Database();
+
+            Assert.Throws<InvalidOperationException>(() => { database.FindByUsername("gwg"); });
+        }
+
+        [Test]
+        public void FindByIDShouldThrowExceptionWhenIDIsBelow0()
+        {
+            Database database = new Database();
+            Assert.Throws<ArgumentOutOfRangeException>(() => { database.FindById(-1); });
+        }
+
+        [Test]
+        public void FindByIDShouldThrowExceptionWhenNoSuchAnID()
+        {
+            Database database = new Database();
+            Assert.Throws<InvalidOperationException>(() => { database.FindById(0); });
+        }
+
+        [Test]
+        public void FindByIDWorks()
+        {
+            Person[] people = new Person[3];
+            Person person1 = new Person(123, "Koki");
+            Person person2 = new Person(1233, "oki");
+            Person person3 = new Person(12333, "ki");
+
+
+            people[0] = person1;
+            people[1] = person2;
+            people[2] = person3;
+
+            Database database = new Database(people);
+
+            Person expecred = person1;
+            Person actual = database.FindById(123);
+
+            Assert.AreEqual(expecred,actual);
+        }
     }
 }
