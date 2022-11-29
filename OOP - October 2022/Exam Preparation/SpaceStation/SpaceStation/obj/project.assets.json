@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\01. Structure_Skeleton\\SpaceStation\\SpaceStation.csproj",
+      "projectUniqueName": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\SpaceStation\\SpaceStation\\SpaceStation.csproj",
       "projectName": "SpaceStation",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\01. Structure_Skeleton\\SpaceStation\\SpaceStation.csproj",
+      "projectPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\SpaceStation\\SpaceStation\\SpaceStation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\01. Structure_Skeleton\\SpaceStation\\obj\\",
+      "outputPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\SpaceStation\\SpaceStation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

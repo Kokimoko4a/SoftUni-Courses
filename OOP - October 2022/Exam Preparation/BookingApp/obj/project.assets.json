@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\BookingApp\\BookingApp.csproj",
+      "projectUniqueName": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\BookingApp\\BookingApp.csproj",
       "projectName": "BookingApp",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\BookingApp\\BookingApp.csproj",
+      "projectPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\BookingApp\\BookingApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\BookingApp\\obj\\",
+      "outputPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\OOP - October 2022\\Exam Preparation\\BookingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

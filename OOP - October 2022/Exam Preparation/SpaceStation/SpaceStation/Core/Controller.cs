@@ -26,7 +26,7 @@ namespace SpaceStation.Core
 
             Astronaut astronaut;
 
-            if (type == "Meteorologist")
+            if (type == nameof(Meteorologist))
             {
                 astronaut = new Meteorologist(astronautName);
             }

@@ -16,8 +16,12 @@ namespace BookingApp.Core
         private HotelRepository hotels = new HotelRepository();
 
 
+       
+
         public string AddHotel(string hotelName, int category)
         {
+            
+
             if (hotels.All().FirstOrDefault(x => x.FullName == hotelName) == null)
             {
                 hotels.AddNew(new Hotel(hotelName, category));
