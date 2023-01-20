@@ -1,0 +1,41 @@
+CREATE TABLE Students
+(
+	StudentID INT IDENTITY PRIMARY KEY NOT NULL,
+	[Name] VARCHAR(50) 
+)
+
+CREATE TABLE Exams
+(
+	ExamID INT IDENTITY(101,1) PRIMARY KEY NOT NULL,
+	[Name] VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE StudentsExams
+(
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID) NOT NULL
+	,ExamID INT FOREIGN KEY REFERENCES Exams(ExamID) NOT NULL
+	,PRIMARY KEY(StudentID,ExamID)
+)
+
+INSERT INTO Students
+VALUES
+('Mila')
+,('Toni')
+,('Ron')
+
+INSERT INTO Exams
+VALUES
+('SpringMVC')
+,('Neo4j')
+,('Oracle 11g')
+
+INSERT INTO StudentsExams
+VALUES
+(1,101)
+,(1,102)
+,(2,101)
+,(3,103)
+,(2,102)
+,(2,103)
+
+SELECT * FROM StudentsExams
