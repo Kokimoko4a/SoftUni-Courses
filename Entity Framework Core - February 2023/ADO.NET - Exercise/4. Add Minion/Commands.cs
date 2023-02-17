@@ -22,7 +22,7 @@ namespace _4._Add_Minion
 
         public static string addToMappingTable = @"INSERT INTO MinionsVillains (MinionId, VillainId) VALUES (@minionId, @villainId)";
 
-        public static string getMinionId = @"SELECT Id FROM Minions WHERE Name = @Name AND TownId = @TownId";
+        public static string getMinionId = @"SELECT Id FROM Minions WHERE Name = @Name AND TownId = @TownId ORDER BY Id DESC";
 
         public static string getVillainId = @"SELECT Id FROM Villains WHERE Name = @Name";
 
