@@ -1,0 +1,26 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\01. Student System.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\01. Student System.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\01. Student System.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\01. Student System.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\01. Student System.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.csproj.CopyComplete
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\refint\01. Student System.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\01. Student System.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Entity Framework Core - February 2023\Entity Re;ations\01. Student System\01. Student System\obj\Debug\net6.0\ref\01. Student System.dll
