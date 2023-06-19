@@ -1,0 +1,31 @@
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\appsettings.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.staticwebassets.runtime.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.exe
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.deps.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.runtimeconfig.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\bin\Debug\net6.0\ASP.NET SplitApp.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.csproj.AssemblyReference.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.AssemblyInfoInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.AssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.csproj.CoreCompileInputs.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.RazorAssemblyInfo.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.RazorAssemblyInfo.cs
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET SplitApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET SplitApp.props
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET SplitApp.props
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET SplitApp.props
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\scopedcss\bundle\ASP.NET SplitApp.styles.css
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET SplitApp.bundle.scp.css
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\refint\ASP.NET SplitApp.dll
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.pdb
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ASP.NET SplitApp.genruntimeconfig.cache
+D:\Kaloyan\Zadachi_Softuni_C#\Web - May 2023\Exercise ASP.NET Core Introduction\ASP.NET SplitApp\ASP.NET SplitApp\obj\Debug\net6.0\ref\ASP.NET SplitApp.dll

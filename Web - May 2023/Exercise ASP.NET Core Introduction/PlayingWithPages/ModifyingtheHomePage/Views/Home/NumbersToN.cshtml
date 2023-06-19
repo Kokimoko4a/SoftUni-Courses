@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = $"Numbers from 1 to {ViewBag.Number}";
+    int number = ViewBag.Number; 
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<ul>@{
+        for (int i = 0; i <= number; i++)
+        {
+           <li>@i</li>
+        }
+}</ul>
+
+
+<form asp-controller="home" asp-action="NumbersToN" method= "post">
+
+    <input type ="number" step="1" max="100000"  name="number" min="1" />
+
+
+   
+    <button style="width:100px; height:100px;" ;color ="blue">Button name</button>
+</form> 
+

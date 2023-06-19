@@ -1,0 +1,23 @@
+﻿@model ProductViewModel
+
+@{
+    if (Model.Name == "")
+    {
+        <h1>No</h1>
+    }
+
+    else
+    {
+        <hi>@Model.Name</hi>
+    }
+}
+
+
+<form asp-controller="home" asp-action="Hi" method= "post">
+
+    <input type ="text" name="name" />
+
+
+
+    <button style="width:100px; height:100px;" ;color ="blue">Button name</button>
+</form> 

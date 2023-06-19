@@ -1,0 +1,27 @@
+﻿@model IEnumerable<string>
+
+@{
+    string text = ViewBag.Text;
+
+    if (Model.Any())
+    {
+        
+            foreach (var word in Model)
+            {
+               <h1>@word</h1>
+            }
+        
+    }
+
+    else
+    {
+         <P>Nothing here</P>
+    }
+}
+
+<form asp-controller="Home" asp-action="Split" method="post">
+
+     <input type ="text"  name="text" />
+    <button type="button">Click Me!</button>
+
+</form>
