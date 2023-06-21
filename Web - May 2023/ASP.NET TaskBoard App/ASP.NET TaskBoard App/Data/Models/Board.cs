@@ -13,6 +13,9 @@ namespace ASP.NET_TaskBoard_App.Data.Models
         public int Id { get; set; }
 
         [Required]
+        public string Name { get; set; } = null!;
+
+        [Required]
         public virtual ICollection<Task> Tasks { get; set; } = null!;
     }
 }

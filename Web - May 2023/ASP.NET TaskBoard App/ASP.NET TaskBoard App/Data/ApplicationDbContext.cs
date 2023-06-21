@@ -1,5 +1,4 @@
-﻿using ASP.NET_TaskBoard_App.Configuration;
-using ASP.NET_TaskBoard_App.Data.Models;
+﻿using ASP.NET_TaskBoard_App.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
@@ -47,7 +46,7 @@ namespace ASP.NET_TaskBoard_App.Data
                 Title = "Cook lunch",
                 Description = "Make some good skara",
                 CreatedOn = DateTime.Now,
-                OwnerId = "811beaed-fe62-4575-866a-b7df7c873ab0",
+                OwnerId = "95f02134-b722-4e6c-8b86-feea5f5bf300",
                 BoardId = 1
             };
 
@@ -56,7 +55,7 @@ namespace ASP.NET_TaskBoard_App.Data
                 Title = "Cook dinner",
                 Description = "Just kiding, you don't have to make dinner",
                 CreatedOn = DateTime.Now,
-                OwnerId = "f0e85c1e-32e3-4ce0-bd33-1a4f64351456",
+                OwnerId = "95f02134-b722-4e6c-8b86-feea5f5bf300",
                 BoardId = 2
             };
 
@@ -65,7 +64,7 @@ namespace ASP.NET_TaskBoard_App.Data
                 Title = "Go to Gabrovo",
                 Description = "Take your fucking son you go to the fucking clinic in Gabrovo city",
                 CreatedOn = DateTime.Now,
-                OwnerId = "811beaed-fe62-4575-866a-b7df7c873ab0",
+                OwnerId = "95f02134-b722-4e6c-8b86-feea5f5bf300",
                 BoardId = 2
             };
         }
@@ -75,17 +74,20 @@ namespace ASP.NET_TaskBoard_App.Data
 
             FirstBoard = new Board()
             {
-                Id = 1
+                Id = 1,
+                Name = "Finished"
             };
 
             SecondBoard = new Board()
             {
-                Id = 2
+                Id = 2,
+                Name = "In Progress"
             };
 
             ThirdBoard = new Board()
             {
-                Id = 3
+                Id = 3,
+                Name = "Mama is cooking it"
             };
         }
     }

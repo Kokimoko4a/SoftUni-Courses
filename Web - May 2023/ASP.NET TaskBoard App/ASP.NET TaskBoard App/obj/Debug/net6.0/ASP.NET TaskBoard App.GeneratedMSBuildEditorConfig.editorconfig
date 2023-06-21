@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Board/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,8 +64,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Shared/_TaskPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYXNrUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Task/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Task/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Kaloyan/Zadachi_Softuni_C\#/Web - May 2023/ASP.NET TaskBoard App/ASP.NET TaskBoard App/Views/_ViewImports.cshtml]
