@@ -108,6 +108,7 @@ namespace SoftUniBazar.Controllers
                 adFormModel.Categories = await adService.LoadCategories();
 
                 return View(adFormModel); // I am trying to commit directly from here sit and watch ;)
+                // Hi again
             }
            
         }
