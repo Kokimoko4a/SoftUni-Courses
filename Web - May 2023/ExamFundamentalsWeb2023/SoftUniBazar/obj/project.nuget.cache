@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FTtVWMZtOGWKcFDJYefHp5x60mi2KDQgjvzCpCczqDuqNWEy32dNxUb0Vuta3Myr6mWuh2JkCOIgT4qyXNmg0A==",
+  "dgSpecHash": "aC3UcoCgbLLL7cIqGF5XpFIzlqH+BxgMjiKf6PYkbb0oSwZqNwNQCIGiEb38C1uKVsQS2gsG69SREHJ7Kc/t1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
+  "projectFilePath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\SoftUni-Courses\\Web - May 2023\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

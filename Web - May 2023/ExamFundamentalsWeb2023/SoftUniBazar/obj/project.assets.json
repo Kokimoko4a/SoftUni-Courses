@@ -11134,11 +11134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
+      "projectUniqueName": "D:\\Kaloyan\\Zadachi_Softuni_C#\\SoftUni-Courses\\Web - May 2023\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
       "projectName": "SoftUniBazar",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
+      "projectPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\SoftUni-Courses\\Web - May 2023\\ExamFundamentalsWeb2023\\SoftUniBazar\\SoftUniBazar.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\ExamFundamentalsWeb2023\\SoftUniBazar\\obj\\",
+      "outputPath": "D:\\Kaloyan\\Zadachi_Softuni_C#\\SoftUni-Courses\\Web - May 2023\\ExamFundamentalsWeb2023\\SoftUniBazar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
