@@ -1,0 +1,5 @@
+span:nth-child(odd)
+{
+    background-color: red;
+    color: white;
+}
