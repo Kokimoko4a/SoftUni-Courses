@@ -6,6 +6,7 @@ article
     width: 700px;
     border: 1px solid #b2ad7d;
     margin: 15px 10px;
+    text-shadow: 0 0 5px #000;
 }
 
 body
