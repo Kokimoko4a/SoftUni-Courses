@@ -1,0 +1,19 @@
+main{
+    width: 900px;
+    height: 140px;
+}
+
+img{
+    float: left;
+    border-right: solid 1px #d1d1d1;
+    padding-right: 19px;
+    margin-right: 19px;
+}
+
+p{
+    font-size: larger;
+    word-spacing: 0.5ch;
+    line-height: 0.7cm;
+    color: #2e2e2e;
+    text-align: justify;
+}
