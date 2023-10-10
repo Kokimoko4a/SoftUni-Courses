@@ -1,0 +1,41 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    max-width: 15vw;
+    height: 23rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: Helvetica,sans-serif;
+    font-size: 20px; 
+    align-items: center;
+    gap: 0.3em;   
+}
+
+
+span{
+
+    flex-grow: 0;
+
+    border: 1px black solid;
+   
+    text-align: center;
+
+    padding: 0.5em;
+
+
+}
+
+span:nth-child(7){order: 10;}
+
+span:nth-child(10){order: 11;}
+
+span:nth-child(11){order: 1;}
+span:nth-child(1){order: 8;}
+
+
+
+
