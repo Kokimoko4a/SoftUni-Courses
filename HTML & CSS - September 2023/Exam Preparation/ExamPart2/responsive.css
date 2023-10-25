@@ -1,0 +1,16 @@
+@media (max-width:600px)
+{
+    .home-left,
+    .home-right,
+    .home-container01{
+        display: none;
+    }
+
+    .navbar-logo-title{
+        margin: auto;
+    }
+
+    .home-hero1{
+        flex-direction: column;
+       }
+}
