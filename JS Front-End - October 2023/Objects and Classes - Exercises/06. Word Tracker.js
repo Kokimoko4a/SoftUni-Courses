@@ -2,6 +2,7 @@ function countWords(array) {
 
   let list = [];
   let searched = array[0].split(" ");
+  array.shift();
 
   for (let index = 0; index < searched.length; index++) {
     const curr = searched[index].toLowerCase();
