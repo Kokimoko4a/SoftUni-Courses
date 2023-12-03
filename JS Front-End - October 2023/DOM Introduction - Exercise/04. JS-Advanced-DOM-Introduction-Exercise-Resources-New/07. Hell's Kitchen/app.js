@@ -16,72 +16,63 @@ function solve() {
          }
       }
 
+      let listOfRestaurants = [];
+
       let input = document.getElementsByTagName("textarea")[0];
-      let output = document.getElementById("bestRestaurant");
+      let outputForRes = document.getElementsByTagName("p")[0];
+      let outputForWorkers = document.getElementsByTagName("p")[1];
 
-      let array = input.value.trim().split('\n');
+      let stringFromInputRes = JSON.parse(input.value);
 
-      let list = [];
+      let arrayFromInputRes = stringFromInputRes;
 
-      for (let index = 0; index < array.length; index++) {
-         const element = array[index];
+      let higherAverageSalary = 0;
+      let bestRestaurantName = "";
 
-         let [name, people] = element.split(" - ");
+      for (let index = 0; index < arrayFromInputRes.length; index++) {
+         let currData = arrayFromInputRes[index].split(" - ");
+         let nameOfRes = currData[0];
+         let workers = currData[1].split(", ");
+         let currListWithWorkers = [];
 
-         let peopleAndSalaries = [];
-
-         people = people.split(", ");
-
-         for (let index = 0; index < people.length; index += 2) {
-
-            let name = people[index].split(" ")[0];
-            let salary = parseFloat(people[index].split(" ")[1]);
-
-            peopleAndSalaries.push(new Worker(name, parseFloat(salary)));
-         }
-
-         let curr = new Restaurant(name, peopleAndSalaries);
-
-         list.push(curr);
-      }
-
-      let maxAverageSalary = 0;
-      let bestSalary = 0;
-      let bestRestaurant = "";
-
-      for (let index = 0; index < list.length; index++) {
-         const element = list[index];
-
-         let currSalary = 0;
-
-         element.workers.forEach(worker => {
-            currSalary += worker.salary;
+         workers.forEach(element => {
+            let currDataForWorker = element.split(" ");
+            let currWorker = new Worker(currDataForWorker[0], parseFloat(currDataForWorker[1]));
+            currListWithWorkers.push(currWorker);
          });
 
-         if (currSalary / element.workers.length > maxAverageSalary) {
-            maxAverageSalary = currSalary / element.workers.length;
-            bestRestaurant = element.name;
+         let existingRes = listOfRestaurants.find(res => res.name === nameOfRes);
+
+         if (existingRes) {
+            // Update existing restaurant
+            existingRes.workers = existingRes.workers.concat(currListWithWorkers);
+         } else {
+            // Create new restaurant
+            let currRes = new Restaurant(nameOfRes, currListWithWorkers);
+            listOfRestaurants.push(currRes);
          }
       }
 
-      let bestRestaurantEntity = list.find(x => x.name === bestRestaurant);
+      listOfRestaurants.forEach(element => {
+         let currSumOfSalaries = element.workers.reduce((sum, worker) => sum + worker.salary, 0);
+         let currAverageSalary = currSumOfSalaries / element.workers.length;
 
-      for (let index = 0; index < bestRestaurantEntity.workers.length; index++) {
-         const element = bestRestaurantEntity.workers[index];
-
-         if (element.salary > bestSalary) {
-            bestSalary = element.salary;
+         if (currAverageSalary >= higherAverageSalary) {
+            higherAverageSalary = currAverageSalary;
+            bestRestaurantName = element.name;
          }
-      }
+      });
 
-      console.log(`Name: ${bestRestaurant} Average Salary: ${maxAverageSalary} Best Salary: ${bestSalary}`);
+      let bestRestaurantObj = listOfRestaurants.find(x => x.name === bestRestaurantName);
+      let bestSalaryInBestRestaurant = Math.max(...bestRestaurantObj.workers.map(worker => worker.salary));
 
-      let pRes = document.createElement("p");
+      let sortedWorkers = bestRestaurantObj.workers
+         .sort((a, b) => b.salary - a.salary)
+         .map(worker => `Name: ${worker.name} With Salary: ${worker.salary}`);
 
-      output.appendChild(pRes);
+      let outputText = `Name: ${bestRestaurantName} Average Salary: ${higherAverageSalary.toFixed(2)} Best Salary: ${bestSalaryInBestRestaurant.toFixed(2)}`;
+      outputForRes.textContent = outputText;
 
-      pRes.textContent = `Name: ${bestRestaurant} Average Salary: ${maxAverageSalary} Best Salary: ${bestSalary}`;
-
-      
+      outputForWorkers.textContent = sortedWorkers.join(' ');
    }
 }
