@@ -8,14 +8,10 @@ function solve(array) {
         let [name, price] = element.split(" : ");
 
         products.push({ name: name, price: (Number)(price) });
-
-
-
     }
 
     products.sort((a, b) => a.name.localeCompare(b.name));
     let previosLetter = "";
-   
 
     for (let index = 0; index < products.length; index++) {
         const key = products[index].name;
@@ -32,7 +28,6 @@ function solve(array) {
 
         previosLetter = currentLetters[0];
     }
-
 }
 
 solve([
