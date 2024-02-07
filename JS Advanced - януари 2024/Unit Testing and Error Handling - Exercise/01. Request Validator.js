@@ -4,7 +4,7 @@ function validateUrl(obj){
     let validUrls = ['GET', 'POST','DELETE', 'CONNECT'];
     let regex = /^[A-Za-z0-9\.]+$/gm;
     let validHTTPVersions = ['HTTP/0.9', 'HTTP/1.0', 'HTTP/1.1' ,'HTTP/2.0' ];
-    let regexForMessage = /[<>\&'"]+/gm;
+    let regexForMessage = /[<>\\&'"]+/gm;
     
 
     
