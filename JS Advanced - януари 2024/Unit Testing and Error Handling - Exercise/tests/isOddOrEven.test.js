@@ -1,10 +1,10 @@
 
 import {assert}  from "chai"
 
-describe("ui0", ()=>{
+describe("test", ()=>{
 
-    it("gggg", ()=>{
+    it("test1", ()=>{
 
-       assert.isOk(true, "ddd");
+       assert.isOk(true, "passed");
     })
 })
