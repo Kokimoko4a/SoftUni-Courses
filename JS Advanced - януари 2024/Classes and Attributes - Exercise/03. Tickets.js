@@ -22,7 +22,7 @@ function solve(arr, criteria){
 
         [destination, price, status] = element.split("|");
 
-        let ticket = new Ticket(destination, Number(price).toFixed(1), status, index); // Pass index to Ticket constructor
+        let ticket = new Ticket(destination, Number(price), status, index); // Pass index to Ticket constructor
 
         list.push(ticket);
     }
