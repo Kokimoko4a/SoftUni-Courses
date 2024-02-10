@@ -137,7 +137,9 @@ function solve() {
 
                     nextBtn.disabled = false;
 
-                    verficationH1.textContent = 'Confirmed';
+                    verficationH1.classList.remove('reservation-confirmed');
+                    verficationH1.classList.remove('reservation-cancelled');
+                    verficationH1.textContent = 'Confirmed.';
                     verficationH1.classList.add('reservation-confirmed');
                 });
 
@@ -147,7 +149,9 @@ function solve() {
 
                     nextBtn.disabled = false;
 
-                    verficationH1.textContent = 'Cancelled';
+                    verficationH1.textContent = 'Cancelled.';
+                    verficationH1.classList.remove('reservation-confirmed');
+                    verficationH1.classList.remove('reservation-cancelled');
                     verficationH1.classList.add('reservation-cancelled');
                 })
 
