@@ -1,0 +1,60 @@
+article {
+
+    border: 3.5px black solid;
+    border-radius: 4em;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(168, 170, 245);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+
+
+h1{
+
+    font-size: 2.2em;
+}
+
+#like {
+
+    background-color: rgb(235, 86, 178);
+    transition: background-color 0.5s ease-out;
+    border-radius: 1em;
+    margin-right: 1em;
+    padding: 0.5em;
+    font-size: 1.1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#view {
+
+    background-color: rgb(235, 86, 178);
+    transition: background-color 0.5s ease-out;;
+    border-radius: 1em;
+    padding: 0.5em;
+    font-size: 1.1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+img{
+
+    width: 300px;
+    height: auto;
+    border-radius: 2em;
+
+    
+}
+
+#view:hover{
+    background-color: rgb(238, 154, 222);
+}
+
+#like:hover{
+
+    background-color: rgb(238, 154, 222);
+
+}
