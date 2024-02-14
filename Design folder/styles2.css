@@ -1,0 +1,76 @@
+.info {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 1s ease-in-out, height 1s ease-in-out; /* Adjust the duration (1s) to control the speed */
+}
+
+article:hover .info {
+    visibility: visible;
+    opacity: 1;
+    height: auto;
+}
+
+article:not(:hover) .info {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+}
+
+img{
+
+    height: 200px;
+    width: auto;
+    border: 4px solid black;
+    border-radius: 4em;
+    ;
+}
+
+article{
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin: 2em;
+
+}
+
+h1{
+
+    margin-top: 3px;
+}
+
+#like {
+
+    background-color: rgb(235, 86, 178);
+    transition: background-color 0.5s ease-out;
+    border-radius: 1em;
+    margin-right: 1em;
+    padding: 0.5em;
+    font-size: 1.1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#view {
+
+    background-color: rgb(235, 86, 178);
+    transition: background-color 0.5s ease-out;;
+    border-radius: 1em;
+    padding: 0.5em;
+    font-size: 1.1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#view:hover{
+    background-color: rgb(238, 154, 222);
+}
+
+#like:hover{
+
+    background-color: rgb(238, 154, 222);
+
+}
+

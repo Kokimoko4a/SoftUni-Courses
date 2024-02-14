@@ -6,11 +6,15 @@ article {
     text-align: center;
     background-color: rgb(168, 170, 245);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
-
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 1em;
+    margin-right: 1em;
 }
 
+article:hover{
 
+    transform: translateY(-5px) ;
+}
 
 h1{
 
