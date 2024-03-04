@@ -13,12 +13,12 @@ function attachEvents() {
 
         e.preventDefault();
 
-        fetch(urlLocations).then(data => data.json()).then(data => {
+        fetch(urlLocations).then(data => data.json()).catch(err => forecastDiv.textContent = err.message).then(data => {
 
 
             let locationObj = data.find(x => x.name === input.value);
 
-            fetch(`http://localhost:3030/jsonstore/forecaster/today/${locationObj.code}`).then(data => data.json()).then(data => {
+            fetch(`http://localhost:3030/jsonstore/forecaster/today/${locationObj.code}`).then(data => data.json()).catch(err => forecastDiv.textContent = err.message).then(data => {
 
 
                 forecastDiv.style.display = 'block';
@@ -72,7 +72,7 @@ function attachEvents() {
 
                 let spanForecastDataForDegres = document.createElement('span');
                 spanForecastDataForDegres.classList.add('forecast-data');
-                spanForecastDataForDegres.textContent = data.forecast.low  + '/' + data.forecast.high;
+                spanForecastDataForDegres.textContent = data.forecast.low + '°' + '/' + data.forecast.high + "°";
 
 
                 let spanForecastDataForCondition = document.createElement('span');
@@ -88,43 +88,54 @@ function attachEvents() {
                 spanCondition.appendChild(spanForecastDataForCondition);
 
 
-            })
+            }).catch(err => forecastDiv.textContent = err.message)
 
 
-            fetch(`http://localhost:3030/jsonstore/forecaster/upcoming/${locationObj.code}`).then(data => data.json()).then(data => {
+            fetch(`http://localhost:3030/jsonstore/forecaster/upcoming/${locationObj.code}`).then(data => data.json()).catch(err => forecastDiv.textContent = err.message).then(data => {
 
+
+                let divForecastInfo = document.createElement('div');
+                divForecastInfo.classList.add('forecast-info');
+                upcomingConditions.appendChild(divForecastInfo);
 
                 for (let index = 0; index < data.forecast.length; index++) {
                     const element = data.forecast[index];
 
 
+                    let spanUpcoming = document.createElement('span');
+                    spanUpcoming.classList.add('upcoming');
+
                     let spanSymbol = document.createElement('span');
                     spanSymbol.innerHTML = getSymbol(element.condition);
+                    spanSymbol.classList.add('symbol');
 
                     let spanDegrees = document.createElement('span');
                     spanDegrees.classList.add('forecast-data');
-                    spanDegrees.textContent = element.low + '/' + element.high;
+                    spanDegrees.textContent = element.low + '°' + '/' + element.high + '°';
 
 
                     let spanCondition = document.createElement('span');
                     spanCondition.classList.add('forecast-data');
                     spanCondition.textContent = data.name;
 
-                    upcomingConditions.appendChild(spanSymbol);
-                    upcomingConditions.appendChild(spanDegrees);
-                    upcomingConditions.appendChild(spanCondition);
+                    divForecastInfo.appendChild(spanUpcoming);
+                    spanUpcoming.appendChild(spanSymbol);
+                    spanUpcoming.appendChild(spanDegrees);
+                    spanUpcoming.appendChild(spanCondition);
+
+
 
                 }
 
 
 
 
-            })
+            }).catch(err => forecastDiv.textContent = err.message)
 
 
 
 
-        })
+        }).catch(err => forecastDiv.textContent = err.message);
 
         function getSymbol(code) {
 
@@ -145,7 +156,7 @@ function attachEvents() {
                     return '&#x2614';
                     break;
 
-                case '•	Degrees':
+                case 'Degrees':
                     return '&#176';
                     break;
             }
