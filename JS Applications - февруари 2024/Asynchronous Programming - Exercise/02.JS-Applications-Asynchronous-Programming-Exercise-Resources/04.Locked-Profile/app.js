@@ -23,30 +23,33 @@ function lockedProfile() {
 
             let inputTagLocked = document.createElement('input');
             inputTagLocked.setAttribute('type', 'radio');
-            inputTagLocked.setAttribute('name', 'user1Locked');
+            inputTagLocked.setAttribute('name', 'user1Locked' + data[key].username);
             inputTagLocked.setAttribute('value', 'lock');
             inputTagLocked.checked = true;
 
+            labelForUnlocking = document.createElement('label');
+            labelForUnlocking.textContent = 'Unlock';
+
             let inputTagUNlocked = document.createElement('input');
-            inputTagLocked.setAttribute('type', 'radio');
-            inputTagLocked.setAttribute('name', 'user1Locked');
-            inputTagLocked.setAttribute('value', 'unlock');
+            inputTagUNlocked.setAttribute('type', 'radio');
+            inputTagUNlocked.setAttribute('name', 'user1Locked' + data[key].username);
+            inputTagUNlocked.setAttribute('value', 'unlock');
 
             let br = document.createElement('br');
             let hr = document.createElement('hr');
 
             let labelUsername = document.createElement('label');
-            labelUsername.textContent = data.username;
+            labelUsername.textContent = data[key].username;
 
             let inputTagForUsername = document.createElement('input');
             inputTagForUsername.setAttribute('type', 'text');
-            inputTagForUsername.setAttribute('name', 'user1Username');//here may be data.username,we will see ;)
-            inputTagForUsername.setAttribute('value', data.username); //here can be problems
+            inputTagForUsername.setAttribute('name', data[key].username);
+            inputTagForUsername.setAttribute('value', data[key].username); 
             inputTagForUsername.disabled = true;
             inputTagForUsername.readOnly = true;
 
             let divHiddenFields = document.createElement('div');
-            divHiddenFields.setAttribute('id', 'user1HiddenFields');
+            divHiddenFields.setAttribute('id', data[key].username);
 
             let hrAfterHiddenFields = document.createElement('hr');
 
@@ -55,18 +58,71 @@ function lockedProfile() {
 
             let inputEmail = document.createElement('input');
             inputEmail.setAttribute('type','email');
-            inputEmail.setAttribute('name','user1Email');
-            inputEmail.setAttribute('value',data.email);
+            inputEmail.setAttribute('name', data[key].email);
+            inputEmail.setAttribute('value',data[key].email);
             inputEmail.disabled = true;
             inputEmail.readOnly = true;
 
 
 
+            let labelForAge = document.createElement('label');
+            labelForAge.textContent = 'Age:';
+
+            let inputAge = document.createElement('input');
+            inputAge.setAttribute('type','email');
+            inputAge.setAttribute('name', data[key].age);
+            inputAge.setAttribute('value',data[key].age);
+            inputAge.disabled = true;
+            inputAge.readOnly = true;
+
+            let ShowMoreBtn = document.createElement('button');
+            ShowMoreBtn.textContent = 'Show more';
 
 
+            
 
             mainList.appendChild(divProfile);
+
+
             divProfile.appendChild(img);
+            divProfile.appendChild(labelForLocking);
+            divProfile.appendChild(inputTagLocked);
+            divProfile.appendChild(labelForUnlocking);
+            divProfile.appendChild(inputTagUNlocked);
+            divProfile.appendChild(br);
+            divProfile.appendChild(hr);
+            divProfile.appendChild(labelUsername);
+            divProfile.appendChild(inputTagForUsername);
+            divProfile.appendChild(divHiddenFields);
+
+
+            divHiddenFields.appendChild(hr);
+            divHiddenFields.appendChild(labelForEmail);
+            divHiddenFields.appendChild(inputEmail);
+            divHiddenFields.appendChild(labelForAge);
+            divHiddenFields.appendChild(inputAge);
+
+            divProfile.appendChild(ShowMoreBtn);
+            
+            if (inputTagLocked) {
+                    
+                divHiddenFields.style.display = 'none';
+            }
+
+
+            ShowMoreBtn.addEventListener('click', () => {
+                if (inputTagUNlocked.checked) {
+                    if (ShowMoreBtn.textContent === 'Show more') {
+                        divHiddenFields.style.display = 'block';
+                        ShowMoreBtn.textContent = 'Hide it';
+                    } else {
+                        divHiddenFields.style.display = 'none';
+                        ShowMoreBtn.textContent = 'Show more';
+                    }
+                }
+            });
+
+
 
         }
 
