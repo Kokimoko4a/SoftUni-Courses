@@ -31,9 +31,13 @@ async function request(method, url, data){
 
         if (!response.ok) {
             
+            
+
             if (response.status == 403) {
                 clearDataUser()
             }
+
+            
 
             let err = await response.json();
             throw new Error(err.message);

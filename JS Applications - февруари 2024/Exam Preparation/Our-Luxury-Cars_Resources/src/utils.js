@@ -1,3 +1,5 @@
+
+
 export function setUserData(data){
 
     localStorage.setItem('user', JSON.stringify(data));
@@ -24,6 +26,24 @@ export function createSubmitHandler(callback){
         let data = [...formData.entries()].map(([k,v]) => [k,v.trim()]);
 
         callback( Object.fromEntries(data));
+    }
+}
+
+export function updateNav(){
+
+    const userData = getUserData();
+
+    if (userData) {
+        
+        document.querySelector('.user').style.display = 'block';
+        document.querySelector('.guest').style.display = 'none';
+
+    }
+
+    else{
+
+        document.querySelector('.guest').style.display = 'block';
+        document.querySelector('.user').style.display = 'none';
     }
 }
 
