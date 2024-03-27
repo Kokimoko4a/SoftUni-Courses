@@ -1,18 +1,17 @@
 
-import {html,render as renderBase} from '../node_modules/lit-html/lit-html.js';
+import {html,render} from '../node_modules/lit-html/lit-html.js';
 import page from '../node_modules/page/page.mjs';
 
-const root = document.querySelector('main'); 
+const root = document.getElementById('main'); 
 
-function render(templateResult){
+export function renderer(templateResult){
 
-    renderBase(templateResult,root);
+    render(templateResult,root);
 }
 
 export{
 
     html,
-    render,
     page
 
 }

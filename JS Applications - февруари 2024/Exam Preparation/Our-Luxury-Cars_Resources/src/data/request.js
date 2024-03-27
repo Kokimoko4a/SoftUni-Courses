@@ -57,7 +57,7 @@ async function request(method, url, data){
 }
 
 
-export const get = (url) => request('get', url);
+export const get = (url) => request('GET', url);
 
 export const post = (url,data) => request('post', url,data);
 

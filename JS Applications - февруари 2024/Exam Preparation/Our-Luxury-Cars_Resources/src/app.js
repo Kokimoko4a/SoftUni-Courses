@@ -1,11 +1,12 @@
 import {page} from './lib.js'
-import { showEx } from './views/example.js';
-import * as api  from './data/request.js';
-import * as userApi from './data/user.js'
+import { showCatalog } from './views/catalog.js';
+import { showHome } from './views/home.js';
 
-page('/', showEx);
+console.log(1);
+page('/', showHome);
+page('/home', showHome);
+page('/catalog', showCatalog);
 
 page.start();
 
-window.api = api;
-window.userApi = userApi;
+
