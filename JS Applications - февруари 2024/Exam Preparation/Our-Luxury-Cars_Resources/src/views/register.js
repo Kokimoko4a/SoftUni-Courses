@@ -8,9 +8,11 @@ const registerTemlate = (onRegister) => html`
    
 
 <section id="register">
+    
 <div class="form">
+  <img class="border" src="./images/border.png" alt="">
   <h2>Register</h2>
-  <form class="register-form" @submit=${onRegister}>
+  <form class="register-form" @submit=${onRegister} >
     <input
       type="text"
       name="email"
@@ -32,7 +34,9 @@ const registerTemlate = (onRegister) => html`
     <button type="submit">register</button>
     <p class="message">Already registered? <a href="/login">Login</a></p>
   </form>
+  <img class="border" src="./images/border.png" alt="">
 </div>
+
 </section>
 `;
 

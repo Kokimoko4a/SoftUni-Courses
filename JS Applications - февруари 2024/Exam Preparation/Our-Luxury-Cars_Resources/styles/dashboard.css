@@ -1,65 +1,56 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-#dashboard {
+
+#characters {
   display: flex;
   align-items: center;
   justify-content:center ;
   flex-wrap: wrap;
-  margin-top: -60px;
+  margin-top: -20px;
+
 }
-
-
-
  h2 {
   text-align: center;
   font-size: 50px;
-  color: rgb(240, 0, 0);
-border-radius: 12px;
-margin-top: -10px;
-background-color: black;
+  color: rgb(255, 215, 0);
+  text-shadow: 2px 2px black;
+  margin-top: -20px;
 }
 
-.car {
+
+.character {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 27vw;
+  height: 60vh;
+  padding-bottom: 1rem;
+  margin: 10px auto;
+  background-color: rgb(131, 128, 114);
+  border-radius: 22px;
+  border: 4px solid rgb(2, 2, 2);
+  box-shadow: -4px 3px 25px 1px rgba(0,0,0,0.55);
+-webkit-box-shadow: -4px 3px 25px 1px rgba(0,0,0,0.55);
+-moz-box-shadow: -4px 3px 25px 1px rgba(0,0,0,0.55);
+ 
+}
+
+.character img {
+  height:50vh;
+}
+.hero-info{
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 28vw;
-  height: 63vh;
-  padding-bottom: 1rem;
-  margin: 20px auto;
-  background-color: rgb(255, 255, 255);
-  border-bottom-right-radius: 55px;
-  border-top-left-radius: 55px;
-  box-shadow: -1px -7px 86px -21px rgba(82,81,81,0.86) inset;
-  -webkit-box-shadow: -1px -7px 86px -21px rgba(82,81,81,0.86) inset;
-  -moz-box-shadow: -1px -7px 86px -21px rgba(82,81,81,0.86) inset;
- 
+  width: 12vw;
 }
 
-.nothing{
-  color: red;
-  margin-top: 100px;
-  font-size: 45px;
-  background-color: rgba(0, 0, 0, 0.856);
-  border-radius: 12px;
-  padding: 10px 20px;
-}
-
-.car img {
-  width: 20vw;
-  height:13vw; 
-  border-radius: 3px;
-  border: 1px solid black;
-  margin-top: 10px;
-
-}
-
-.car .title {
-  margin: 0;
+.character .category {
   letter-spacing: 2px;
-  color: rgb(95, 94, 94);
-  text-decoration: underline;
+  color: rgb(255, 215, 0);
+  text-shadow: 1px 1px rgb(0, 0, 0);
+
 }
 
 .details-btn {
@@ -69,25 +60,46 @@ background-color: black;
   width: 160px;
   border-radius: 3px;
   text-align: center;
-  color: white;
-  background: rgb(106, 14, 14);
+  color: rgb(255, 215, 0);
+  background: rgb(29, 28, 28);
+  text-shadow: 1px 1px black;
 }
 .details-btn:hover {
-  background: #e8e0e0;
-  color: black;
-  border: 1px solid black;
+  background: #bd2c2c;
 }
-.specs {
-  border: 1px solid black;
-  padding: 0px 40px;
-  border-radius: 5px;
-}
-.specs p {
-  border-bottom: 1px dashed black;
+.character p {
+  margin: auto;
+  font-size: 13px;
+  font-weight: 500;
+  width: 90%;
+  text-align: center;
+  color: rgb(255, 215, 0);
+  text-shadow: 1px 1px rgb(0, 0, 0);
 }
 
-.heading {
-  color: white;
-text-align: center;
-font-size: 36px;
+@media (max-width: 1000px) {
+  h2 {
+    font-size: 25px; 
+  }
+
+  .character {
+    width: 40%; 
+  }
+
+  .hero-info {
+    width: 40%;
+  }
+
+  .details-btn {
+    font-size: 12px; 
+    width: 50px;
+  }
+
+  .character p {
+    font-size: 9px; 
+  }
+
+  .character img {
+    height:25vh;
+  }
 }

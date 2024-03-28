@@ -26,16 +26,11 @@ export async function register(email, password){
 
 export async function logout(){
 
-   try {
+   let promise = get(endpoints.logout);
 
+   clearDataUser();
 
-    await get(endpoints.logout);
-    
-   } catch (error) {
-    
-    clearDataUser();
-   }
-
+   await promise;
    
   
 

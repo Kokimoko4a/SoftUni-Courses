@@ -5,38 +5,48 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=\, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles/styles.css" />
-    <title>Our Luxury Cars</title>
-    <script type="module" src="./src/app.js"></script>
+    <title>Elden Ring Explorer</title>
+    <script type="module" src="../src/app.js"></script>
   </head>
   <body>
     <div id="wrapper">
       <header>
-
-        <main id="main-element"></main>
-
         <!-- Navigation -->
-        <a id="logo" href="/home"><img id="logo-car" src="./images/car-logo.png" alt="img"/></a>
+        <a id="logo" href="/"><img id="logo-img" src="./images/logo.png" alt=""/></a>
         <nav>
           <div>
-            <a href="/catalog">Our Cars</a>
-            <a href="#">Search</a>
+            <a href="/catalog">Characters</a>
           </div>
 
           <!-- Logged-in users -->
           <div class="user">
-            <a href="/add">Add Your Car</a>
+            <a href="/add">Add Character</a>
             <a href="javascript:void(0)" id="logoutBtn">Logout</a>
           </div>
 
           <!-- Guest users -->
           <div class="guest">
             <a href="/login">Login</a>
-            <a href="/register">Register</a>
+            <a href="/register">Register</a>        
           </div>
         </nav>
       </header>
 
-      
+      <main>
+        <section id="hero">
+          <h1>Welcome to Elden Ring Explorer, your gateway
+             to the mystical world of Elden Ring! Embark
+              on an epic journey through a land shrouded
+               in myth and mystery. Whether you're a seasoned
+                adventurer or new to this realm, our app will
+                 guide you through the wonders and challenges
+                  that await in this extraordinary game world</h1>
+                  <img id="hero-img" src="./images/hero.png" alt="hero">
+        </section>
+      </main>
     </div>
+    <footer>
+      <p>Character Ring</p>
+    </footer>
   </body>
 </html>

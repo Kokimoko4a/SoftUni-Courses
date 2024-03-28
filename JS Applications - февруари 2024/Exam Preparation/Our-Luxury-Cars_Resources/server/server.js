@@ -1438,38 +1438,33 @@
     sessions: {},
   };
   var seedData = {
-    cars: {
-      '1840a313-225c-416a-817a-9954d4609f7c': {
-        _ownerId: '35c62d76-8152-4626-8712-eeb96381bea8',
-        model: 'Pagani Huayra',
-        imageUrl: '/images/pagani.jpg',
-        price: '1,010,310',
-        weight: '1350' ,
-        speed: '360' ,
-        about: 'The Pagani Huayra is a breathtaking hypercar that seamlessly blends art and engineering, representing the epitome of automotive craftsmanship. Its striking exterior features aerodynamic curves and gull-wing doors, showcasing a design that\'s both futuristic and elegant. Underneath the hood, a meticulously crafted AMG-sourced V12 engine delivers an exhilarating performance, propelling the Huayra to astounding speeds, while the opulent interior envelops the driver in a cocoon of luxury, making every journey a symphony of power and refinement.' ,
-        _createdOn: 1617194210928,
-      },
-      '126777f5-3277-42ad-b874-76d043b069cb': {
-        _ownerId: '847ec027-f659-4086-8032-5173e2f9c93a',
-        model: 'Aston Martin One-77',
-        imageUrl: '/images/martin.png',
-        price: '1,610,000',
-        weight: '1500' ,
-        speed: '355' ,
-        about: 'The Aston Martin One-77 is a rare and extraordinary masterpiece, limited to just 77 units worldwide, making it a coveted gem among automotive enthusiasts. Its sleek and aerodynamic design is a testament to British craftsmanship, featuring a handcrafted aluminum body that exudes both power and sophistication. Beneath its hood lies a potent 7.3-liter V12 engine, delivering an exhilarating blend of speed and precision, while the meticulously crafted interior combines luxurious materials and cutting-edge technology to create a driving experience that is truly unparalleled.' ,
-        _createdOn: 1617194295474,
-      },
-      '136777f5-3277-42ad-b874-76d043b069cb': {
-        _ownerId: '847ec027-f659-4086-8032-5173e2f9c93a',
-        model: 'Ferrari LaFerrari',
-        imageUrl: '/images/ferrari.png',
-        price: '3,210,000',
-        weight: '1600' ,
-        speed: '355' ,
-        about: 'The Ferrari LaFerrari stands as a pinnacle of automotive excellence, seamlessly blending stunning Italian design with cutting-edge hybrid technology. Its sculpted and aerodynamic exterior houses a potent hybrid powertrain, combining a V12 engine with an electric motor to produce an awe-inspiring performance. With a limited production run, the LaFerrari is not only a technological marvel but also a rare and coveted symbol of Ferrari\'s relentless pursuit of automotive perfection.' ,
-        _createdOn: 1617194295480,
-      },
+    characters: {
+    '1840a313-225c-416a-817a-9954d4609f7c': {
+      _ownerId: '35c62d76-8152-4626-8712-eeb96381bea8',
+      category: 'Hero',
+        imageUrl: '/images/hero 1.png',
+        description: 'Choosing the Hero means you\' ll be focusing on all-out strength with this Elden Ring class. Serving as the opposite to the Warrior class, Hero players will use heavier weapons with slow attacks that deal massive damage.',
+        moreInfo: 'Elden Ring Heroes start off with good Vigor and Endurance, so more HP and Stamina, meaning they\'re at least a little tanky and agile too. You can boost these Attributes more in the early levels to make the Hero more balanced or can focus purely on Strength to up your damage as much as you can.' ,
+      _createdOn: 1617194210928,
     },
+    '126777f5-3277-42ad-b874-76d043b069cb': {
+      _ownerId: '847ec027-f659-4086-8032-5173e2f9c93a',
+      category: 'Astrologer',
+        imageUrl: '/images/hero 2.png',
+        description: 'The Elden Ring Astrologer class is one of the few options built for magic from the start, with an impressive 15 Mind and 16 Intelligence stats.Astrologers will be able to cast many powerful Sorcery spells for single and multiple targets.' ,
+        moreInfo: 'However, all its other stats are quite low, so it might be a good idea to spend your first Runes on boosting Vigor and Endurance to boost HP and Stamina to make the Astrologer less squishy and more agile. Then you can focus on bringing up your Intelligence even more to meet the higher Attribute requirements for better spells, making your older ones more powerful in the process.' ,
+      _createdOn: 1617194295474,
+    },
+    '136777f5-3277-42ad-b874-76d043b069cb': {
+      _ownerId: '847ec027-f659-4086-8032-5173e2f9c93a',
+      category: 'Bandit',
+        imageUrl: '/images/hero 3.png',
+        description: 'The Bandit class is Elden Ring\'s stealth assassin. With a dagger and a small shield, Bandit players need to avoid direct conflict with groups of enemies and should instead focus on critical hits with backstabs or sniping with the starting Short Bow.',
+        moreInfo: 'However, all its other stats are quite low, so it might be a good idea to spend your first Runes on boosting Vigor and Endurance to boost HP and Stamina to make the Astrologer less squishy and more agile. Then you can focus on bringing up your Intelligence even more to meet the higher Attribute requirements for better spells, making your older ones more powerful in the process.' ,
+        _createdOn: 1617194295480,
+    },
+  },
+    useful: {},
   };
   var rules$1 = {
     users: {

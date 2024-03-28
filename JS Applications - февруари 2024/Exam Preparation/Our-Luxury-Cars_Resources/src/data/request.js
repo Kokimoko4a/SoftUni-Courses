@@ -21,7 +21,7 @@ async function request(method, url, data){
 
     if (userData) {
         
-        options.headers['X-Authorization'] = userData;
+        options.headers['X-Authorization'] = userData.accessToken;
     }
 
 

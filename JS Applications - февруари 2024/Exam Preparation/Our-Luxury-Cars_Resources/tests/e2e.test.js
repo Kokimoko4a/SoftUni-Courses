@@ -5,7 +5,7 @@ const { expect } = require('chai');
 const userApplicationHttpPort = "3000";
 
 const host = "http://localhost:" + userApplicationHttpPort; // Application host (NOT service host - that can be anything)
-const interval = 500;
+const interval = 200;
 const DEBUG = false;
 
 const slowMo = 500;
@@ -34,49 +34,56 @@ const mockData = {
 
     "catalog": [
         {
-          "_id": "1003",
-          "_ownerId": "0002",
-          "model": 'Pagani Huayra',
-          "imageUrl": '/images/pagani.jpg',
-          "price": '1,010,310',
-          "weight": '1350' ,
-          "speed": '360' ,
-          "about": 'The Pagani Huayra is a breathtaking hypercar that seamlessly blends art and engineering, representing the epitome of automotive craftsmanship. Its striking exterior features aerodynamic curves and gull-wing doors, showcasing a design that\'s both futuristic and elegant. Underneath the hood, a meticulously crafted AMG-sourced V12 engine delivers an exhilarating performance, propelling the Huayra to astounding speeds, while the opulent interior envelops the driver in a cocoon of luxury, making every journey a symphony of power and refinement.' ,
+            "_id": "1001",
+            "_ownerId": "0001",
+            "category": "Hero",
+            "imageUrl": "/images/hero 1.png",
+            "description": "Choosing the Hero means you\' ll be focusing on all-out strength with this Elden Ring class. Serving as the opposite to the Warrior class, Hero players will use heavier weapons with slow attacks that deal massive damage.",
+            "moreInfo": "Elden Ring Heroes start off with good Vigor and Endurance, so more HP and Stamina, meaning they\'re at least a little tanky and agile too. You can boost these Attributes more in the early levels to make the Hero more balanced or can focus purely on Strength to up your damage as much as you can.",
+            "_createdOn": 1617194210928,
+            "_updatedOn": 1688552027889
         },
         {
-          "_id": "1002",
-          "_ownerId": "0002",
-          "model": 'Aston Martin One-77',
-          "imageUrl": '/images/martin.png',
-          "price": '2,960,000',
-          "weight": '1500' ,
-          "speed": '355' ,
-          "about": 'The Aston Martin One-77 is a rare and extraordinary masterpiece, limited to just 77 units worldwide, making it a coveted gem among automotive enthusiasts. Its sleek and aerodynamic design is a testament to British craftsmanship, featuring a handcrafted aluminum body that exudes both power and sophistication. Beneath its hood lies a potent 7.3-liter V12 engine, delivering an exhilarating blend of speed and precision, while the meticulously crafted interior combines luxurious materials and cutting-edge technology to create a driving experience that is truly unparalleled.' ,
+            "_id": "1002",
+            "_ownerId": "0002",
+            "category": "Astrologer",
+            "imageUrl": "/images/hero 2.jpg",
+            "description": "The Elden Ring Astrologer class is one of the few options built for magic from the start, with an impressive 15 Mind and 16 Intelligence stats.Astrologers will be able to cast many powerful Sorcery spells for single and multiple targets.",
+            "moreInfo": "However, all its other stats are quite low, so it might be a good idea to spend your first Runes on boosting Vigor and Endurance to boost HP and Stamina to make the Astrologer less squishy and more agile. Then you can focus on bringing up your Intelligence even more to meet the higher Attribute requirements for better spells, making your older ones more powerful in the process.",
+            "_createdOn": 1617194295474
         },
         {
-          "_id": "1001",
-          "_ownerId": "0001",
-          "model": 'Ferrari LaFerrari',
-          "imageUrl": '/images/ferrari.png',
-          "price": '3,210,000',
-          "weight": '1600' ,
-          "speed": '355' ,
-          "about": 'The Ferrari LaFerrari stands as a pinnacle of automotive excellence, seamlessly blending stunning Italian design with cutting-edge hybrid technology. Its sculpted and aerodynamic exterior houses a potent hybrid powertrain, combining a V12 engine with an electric motor to produce an awe-inspiring performance. With a limited production run, the LaFerrari is not only a technological marvel but also a rare and coveted symbol of Ferrari\'s relentless pursuit of automotive perfection.' ,
+            "_id": "1003",
+            "_ownerId": "0002",
+            "category": "Bandit",
+            "imageUrl": "/images/gero 3.jpg",
+            "description": "The Bandit class is Elden Ring\'s stealth assassin. With a dagger and a small shield, Bandit players need to avoid direct conflict with groups of enemies and should instead focus on critical hits with backstabs or sniping with the starting Short Bow.",
+            "moreInfo": "However, all its other stats are quite low, so it might be a good idea to spend your first Runes on boosting Vigor and Endurance to boost HP and Stamina to make the Astrologer less squishy and more agile. Then you can focus on bringing up your Intelligence even more to meet the higher Attribute requirements for better spells, making your older ones more powerful in the process.",
+            "_createdOn": 1617194295480
         }
-      ]
-   
+    ],
+    useful: [
+        {
+            "_ownerId": "0001",
+            "characterId": "1003",
+            "_createdOn": 1688652897118,
+            "_id": "2001"
+        }
+    ]
 };
 const endpoints = {
     register: "/users/register",
     login: "/users/login",
     logout: "/users/logout",
-    catalog: "/data/cars?sortBy=_createdOn%20desc",
-    create: "/data/cars",
-    search: (query) => `/data/cars?where=model%20LIKE%20%22${query}%22`,
-    details: (id) => `/data/cars/${id}`,
-    delete: (id) => `/data/cars/${id}`,
-    own: (motorcycleId, userId) => `/data/cars?where=_id%3D%22${motorcycleId}%22%20and%20_ownerId%3D%22${userId}%22&count`,
-
+    catalog: "/data/characters?sortBy=_createdOn%20desc",
+    create: "/data/characters",
+    search: (query) => `/data/characters?where=name%20LIKE%20%22${query}%22`,
+    details: (id) => `/data/characters/${id}`,
+    delete: (id) => `/data/characters/${id}`,
+    own: (characterId, userId) => `/data/characters?where=_id%3D%22${characterId}%22%20and%20_ownerId%3D%22${userId}%22&count`,
+    like: '/data/useful',
+    totalLikes: (characterId) => `/data/useful?where=characterId%3D%22${characterId}%22&distinct=_ownerId&count`,
+    userLikes: (characterId, userId) => `/data/useful?where=characterId%3D%22${characterId}%22%20and%20_ownerId%3D%22${userId}%22&count`
 };
 
 let browser;
@@ -342,6 +349,7 @@ describe("E2E tests", function () {
                 logoutBtn.click()
             ]);
 
+            const headers = request.headers();
             const token = request.headers()["x-authorization"];
             expect(request.method()).to.equal("GET");
             expect(token).to.equal(data.accessToken);
@@ -370,13 +378,11 @@ describe("E2E tests", function () {
             await page.click('[type="submit"]');
 
             //Test for navigation
-            await page.waitForSelector('nav >> text= Our Cars', { timeout: interval });
+            await page.waitForSelector('nav >> text=Characters', { timeout: interval });
 
-            expect(await page.isVisible("nav >> text=Our Cars")).to.be.true;
-            expect(await page.isVisible("nav >> text=Add Your Car")).to.be.true;
+            expect(await page.isVisible("nav >> text=Characters")).to.be.true;
+            expect(await page.isVisible("nav >> text=Add Character")).to.be.true;
             expect(await page.isVisible("nav >> text=Logout")).to.be.true;
-            expect(await page.isVisible("nav >> text=Search")).to.be.true;
-
 
             expect(await page.isVisible("nav >> text=Login")).to.be.false;
             expect(await page.isVisible("nav >> text=Register")).to.be.false;
@@ -385,10 +391,10 @@ describe("E2E tests", function () {
         it("Guest user should see correct navigation [ 2.5 Points ]", async function () {
             await page.goto(host);
 
-            await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
+            await page.waitForSelector('nav >> text=Characters', { timeout: interval });
 
             expect(await page.isVisible("nav"), "Dashboard is not visible").to.be.true;
-            expect(await page.isVisible("nav >> text=Add Your Car"), "Create is visible").to.be.false;
+            expect(await page.isVisible("nav >> text=Add Character"), "Create is visible").to.be.false;
             expect(await page.isVisible("nav >> text=Logout"), "Logout is visible").to.be.false;
             expect(await page.isVisible("nav >> text=Login"), "Login is not visible").to.be.true;
             expect(await page.isVisible("nav >> text=Register"), "Ragister is not visible").to.be.true;
@@ -399,10 +405,10 @@ describe("E2E tests", function () {
             get(mockData.catalog);
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector('#dashboard', { timeout: interval });
+            await page.waitForSelector('#characters', { timeout: interval });
             let loginBtn = await page.waitForSelector('nav >> text=Login', { timeout: interval });
             await loginBtn.click();
 
@@ -441,11 +447,11 @@ describe("E2E tests", function () {
 
             await page.click('[type="submit"]');
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector('#dashboard', { timeout: interval });
-            let createBtn = await page.waitForSelector('nav >> text=Add Your Car', { timeout: interval });
+            await page.waitForSelector('#characters', { timeout: interval });
+            let createBtn = await page.waitForSelector('nav >> text=Add Character', { timeout: interval });
             await createBtn.click();
 
             await page.waitForSelector('#create', { timeout: interval });
@@ -459,56 +465,63 @@ describe("E2E tests", function () {
     describe("Home Page [ 5 Points ]", function () {
         it("Show Home page text [ 2.5 Points ]", async function () {
             await page.goto(host);
-            await page.waitForSelector('text=Accelerate Your Passion Unleash The Thrill Of Sport Cars Together!', { timeout: interval });
-            expect(await page.isVisible("text=Accelerate Your Passion Unleash The Thrill Of Sport Cars Together!")).to.be.true;
+            await page.waitForSelector('text=Welcome to Elden Ring Explorer, your gateway to the mystical world of Elden Ring! Embark on an epic journey through a land shrouded in myth and mystery. Whether you\'re a seasoned adventurer or new to this realm, our app will guide you through the wonders and challenges that await in this extraordinary game world', { timeout: interval });
+            expect(await page.isVisible("text=Welcome to Elden Ring Explorer, your gateway to the mystical world of Elden Ring! Embark on an epic journey through a land shrouded in myth and mystery. Whether you\'re a seasoned adventurer or new to this realm, our app will guide you through the wonders and challenges that await in this extraordinary game world")).to.be.true;
         });
 
         it("Show home page image [ 2.5 Points ]", async function () {
             await page.goto(host);
-            await page.waitForSelector('a img', { timeout: interval });
-            expect(await page.isVisible('a img')).to.be.true;
+            await page.waitForSelector('section img#hero-img', { timeout: interval });
+            expect(await page.isVisible('section img#hero-img')).to.be.true;
         });
     });
 
     describe("Dashboard Page [ 15 Points ]", function () {
-        it("Show Our Cars page - welcome message [ 2.5 Points ]", async function () {
+
+        it("Show Characters page - welcome message [ 2.5 Points ]", async function () {
+            await page.goto(host);
+        
+            const charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+
+            if (charactersBtn) {
+
+                await charactersBtn.click();
+                
+                await page.waitForSelector('text=Characters', { timeout: interval });
+                const isCharactersTextVisible = await page.isVisible('text=Characters');
+                expect(isCharactersTextVisible).to.be.true;
+            } else {
+                throw new Error('Unable to find the "Characters" link on the page.');
+            }
+        });
+        
+
+        it("Check Characters page with 0 Characters [ 2.5 Points ]", async function () {
             const { get } = await handle(endpoints.catalog);
             get([]);
-            await page.goto(host);
-
-            let funFactsBtn = await page.waitForSelector('nav >> text= Our Cars', { timeout: interval });
-            await funFactsBtn.click();
-
-            await page.waitForSelector('h3 >> text=Our Cars', { timeout: interval });
-            expect(await page.isVisible("h3 >> text=Our Cars")).to.be.true;
-        });
-
-        it("Check Our Cars page with 0 Motorcycles [ 2.5 Points ]", async function () {
-            const { get } = await handle(endpoints.catalog);
-            get([]);
 
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector('text=Nothing to see yet', { timeout: interval });
-            expect(await page.isVisible('text=Nothing to see yet')).to.be.true;
+            await page.waitForSelector('text=No added Heroes yet.', { timeout: interval });
+            expect(await page.isVisible('text=No added Heroes yet.')).to.be.true;
 
         });
 
-        it("Check Cars have correct images [ 2.5 Points ]", async function () {
+        it("Check Characters have correct images [ 2.5 Points ]", async function () {
             const { get } = await handle(endpoints.catalog);
             get(mockData.catalog);
             const data = mockData.catalog;
 
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector(".car img", { timeout: interval });
-            const images = await page.$$eval(".car img", (t) =>
+            await page.waitForSelector(".character img", { timeout: interval });
+            const images = await page.$$eval(".character img", (t) =>
                 t.map((s) => s.src)
             );
 
@@ -518,85 +531,64 @@ describe("E2E tests", function () {
             expect(images[2]).to.contains(`${encodeURI(data[2].imageUrl)}`);
         });
 
-        it("Check Cars have correct model [ 2.5 Points ]", async function () {
+        it("Check Characters have correct categories [ 2.5 Points ]", async function () {
             const { get } = await handle(endpoints.catalog);
             get(mockData.catalog);
             const data = mockData.catalog;
 
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector(".car .model", { timeout: interval });
-            const categories = await page.$$eval(".car .model", (t) =>
+            await page.waitForSelector(".character .category", { timeout: interval });
+            const categories = await page.$$eval(".character .category", (t) =>
                 t.map((s) => s.textContent)
             );
 
             expect(categories.length).to.equal(3);
-            expect(categories[0]).to.contains(`${data[0].model}`);
-            expect(categories[1]).to.contains(`${data[1].model}`);
-            expect(categories[2]).to.contains(`${data[2].model}`);
+            expect(categories[0]).to.contains(`${data[0].category}`);
+            expect(categories[1]).to.contains(`${data[1].category}`);
+            expect(categories[2]).to.contains(`${data[2].category}`);
         });
 
-        it("Check Cars have correct price [ 2.5 Points ]", async function () {
+        it("Check Characters have correct descriptions [ 2.5 Points ]", async function () {
             const { get } = await handle(endpoints.catalog);
             get(mockData.catalog.slice(0, 2));
             const data = mockData.catalog.slice(0, 2);
 
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector(".specs .price", { timeout: interval });
-            const categories = await page.$$eval(".specs .price", (t) =>
+            await page.waitForSelector(".character .description", { timeout: interval });
+            const categories = await page.$$eval(".character .description", (t) =>
                 t.map((s) => s.textContent)
             );
 
             expect(categories.length).to.equal(2);
-            expect(categories[0]).to.contains(`${data[0].price}`);
-            expect(categories[1]).to.contains(`${data[1].price}`);
+            expect(categories[0]).to.contains(`${data[0].description}`);
+            expect(categories[1]).to.contains(`${data[1].description}`);
         });
-        it("Check Cars have correct weigth [ 2.5 Points ]", async function () {
+
+        it("Check Characters have more info button [ 2.5 Points ]", async function () {
             const { get } = await handle(endpoints.catalog);
             get(mockData.catalog.slice(0, 2));
             const data = mockData.catalog.slice(0, 2);
 
             await page.goto(host);
 
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
 
-            await page.waitForSelector(".specs .weight", { timeout: interval });
-            const categories = await page.$$eval(".specs .weight", (t) =>
+            await page.waitForSelector('.character >> text=More Info', { timeout: interval });
+            const buttons = await page.$$eval(".character >> text=More Info", (t) =>
                 t.map((s) => s.textContent)
             );
 
-            expect(categories.length).to.equal(2);
-            expect(categories[0]).to.contains(`${data[0].weight}`);
-            expect(categories[1]).to.contains(`${data[1].weight}`);
+            expect(buttons.length).to.equal(2);
         });
-        it("Check Cars have correct top-speed [ 2.5 Points ]", async function () {
-            const { get } = await handle(endpoints.catalog);
-            get(mockData.catalog.slice(0, 2));
-            const data = mockData.catalog.slice(0, 2);
-
-            await page.goto(host);
-
-            let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-            await funFactsBtn.click();
-
-            await page.waitForSelector(".specs .top-speed", { timeout: interval });
-            const categories = await page.$$eval(".specs .top-speed", (t) =>
-                t.map((s) => s.textContent)
-            );
-
-            expect(categories.length).to.equal(2);
-            expect(categories[0]).to.contains(`${data[0].speed}`);
-            expect(categories[1]).to.contains(`${data[1].speed}`);
-        });
-       
     });
 
     describe("CRUD [ 50 Points ]", () => {
@@ -619,8 +611,8 @@ describe("E2E tests", function () {
                 const { post } = await handle(endpoints.create);
                 const isCalled = post().isHandled;
 
-                let addFactButton = await page.waitForSelector('text=Add Your Car', { timeout: interval });
-                await addFactButton.click();
+                let addCharacterBtn = await page.waitForSelector('text=Add Character', { timeout: interval });
+                await addCharacterBtn.click();
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
                 await submitBtn.click();
@@ -649,24 +641,19 @@ describe("E2E tests", function () {
                 const { post } = await handle(endpoints.create);
                 const { onRequest } = post(data);
 
-                let addFactButton = await page.waitForSelector('text=Add Your Car', { timeout: interval });
-                await addFactButton.click();
+                let addCharacterBtn = await page.waitForSelector('text=Add Character', { timeout: interval });
+                await addCharacterBtn.click();
 
-                let modelElement = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageElement = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let priceElement = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let weightElement = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let speedElement = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutElement = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryElement = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageElement = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let additionalInfoElement = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
-                await modelElement.fill(data.model);
+                await categoryElement.fill(data.category);
                 await imageElement.fill(data.imageUrl);
-                await priceElement.fill(data.price);
-                await weightElement.fill(data.weight);
-                await speedElement.fill(data.speed);
-                await aboutElement.fill(data.about);
-
+                await descriptionElement.fill(data.description);
+                await additionalInfoElement.fill(data.moreInfo);
 
                 const [request] = await Promise.all([
                     onRequest(),
@@ -694,24 +681,19 @@ describe("E2E tests", function () {
                 const { post } = await handle(endpoints.create);
                 const { onRequest } = post(data);
 
-                let addFactButton = await page.waitForSelector('text=Add Your Car', { timeout: interval });
-                await addFactButton.click();
+                let addCharacterBtn = await page.waitForSelector('text=Add Character', { timeout: interval });
+                await addCharacterBtn.click();
 
-          
-                let modelElement = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageElement = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let priceElement = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let weightElement = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let speedElement = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutElement = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryElement = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageElement = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let additionalInfoElement = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
-                await modelElement.fill(data.model);
+                await categoryElement.fill(data.category);
                 await imageElement.fill(data.imageUrl);
-                await priceElement.fill(data.price);
-                await weightElement.fill(data.weight);
-                await speedElement.fill(data.speed);
-                await aboutElement.fill(data.about);
+                await descriptionElement.fill(data.description);
+                await additionalInfoElement.fill(data.moreInfo);
 
                 const [request] = await Promise.all([
                     onRequest(),
@@ -720,14 +702,10 @@ describe("E2E tests", function () {
 
                 const postData = JSON.parse(request.postData());
 
-                expect(postData.model).to.equal(data.model);
+                expect(postData.category).to.equal(data.category);
                 expect(postData.imageUrl).to.equal(data.imageUrl);
-                expect(postData.price).to.equal(data.price);
-                expect(postData.weight).to.equal(data.weight);
-                expect(postData.speed).to.equal(data.speed);
-                expect(postData.about).to.equal(data.about);
-
-
+                expect(postData.description).to.equal(data.description);
+                expect(postData.moreInfo).to.equal(data.moreInfo);
             });
 
             it("Create includes correct headers [ 2.5 Points ]", async function () {
@@ -750,23 +728,19 @@ describe("E2E tests", function () {
                 const { post } = await handle(endpoints.create);
                 const { onRequest } = post(data);
 
-                let addFactButton = await page.waitForSelector('text=Add Your Car', { timeout: interval });
-                await addFactButton.click();
+                let addCharacterBtn = await page.waitForSelector('text=Add Character', { timeout: interval });
+                await addCharacterBtn.click();
 
-                let modelElement = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageElement = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let priceElement = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let weightElement = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let speedElement = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutElement = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryElement = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageElement = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let additionalInfoElement = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
-                await modelElement.fill(data.model);
+                await categoryElement.fill(data.category);
                 await imageElement.fill(data.imageUrl);
-                await priceElement.fill(data.price);
-                await weightElement.fill(data.weight);
-                await speedElement.fill(data.speed);
-                await aboutElement.fill(data.about);
+                await descriptionElement.fill(data.description);
+                await additionalInfoElement.fill(data.moreInfo);
 
                 const [request] = await Promise.all([
                     onRequest(),
@@ -799,30 +773,26 @@ describe("E2E tests", function () {
                 const { post } = await handle(endpoints.create);
                 const { onResponse } = post(data);
 
-                let addFactButton = await page.waitForSelector('text=Add Your Car', { timeout: interval });
-                await addFactButton.click();
+                let addCharacterBtn = await page.waitForSelector('text=Add Character', { timeout: interval });
+                await addCharacterBtn.click();
 
-                let modelElement = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageElement = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let priceElement = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let weightElement = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let speedElement = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutElement = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryElement = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageElement = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let additionalInfoElement = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
-                await modelElement.fill(data.model);
+                await categoryElement.fill(data.category);
                 await imageElement.fill(data.imageUrl);
-                await priceElement.fill(data.price);
-                await weightElement.fill(data.weight);
-                await speedElement.fill(data.speed);
-                await aboutElement.fill(data.about);
+                await descriptionElement.fill(data.description);
+                await additionalInfoElement.fill(data.moreInfo);
 
                 await Promise.all([
                     onResponse(),
                     submitBtn.click(),
                 ]);
 
-                await page.waitForSelector('#dashboard', {timeout: interval});
+                await page.waitForSelector('#characters', {timeout: interval});
             });
         })
 
@@ -837,11 +807,13 @@ describe("E2E tests", function () {
                 const { get } = await handle(endpoints.details(data._id));
                 let { onResponse, isHandled } = get(data);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
 
                 await Promise.all([
                     onResponse(),
@@ -861,36 +833,35 @@ describe("E2E tests", function () {
                 const { get } = await handle(endpoints.details(data._id));
                 let { isHandled } = get(data);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                const { get: userLikesNull } = await handle(endpoints.userLikes(data._id, null));
+                userLikesNull(0);
+      
+                const { get: userLikesUndefined } = await handle(endpoints.userLikes(data._id, undefined));
+                userLikesUndefined(0);
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
+
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let imageElement = await page.waitForSelector('#details-img', { timeout: interval });
-                let modelElement = await page.waitForSelector('#details-title', { timeout: interval });
-                let priceElement = await page.waitForSelector('.price', { timeout: interval });
-                let weightElement = await page.waitForSelector('.weight', { timeout: interval });
-                let speedElement = await page.waitForSelector('.top-speed', { timeout: interval });
-                let aboutElement = await page.waitForSelector('#car-description', { timeout: interval });
-
-
+                let categoryElement = await page.waitForSelector('#details-category', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('#description', { timeout: interval });
+                let moreInfoElement = await page.waitForSelector('#more-info', { timeout: interval });
 
                 let imageSrc = await imageElement.getAttribute('src');
-                let model = await modelElement.textContent();
-                let price = await priceElement.textContent();
-                let weight = await weightElement.textContent();
-                let speed = await speedElement.textContent();
-                let about = await aboutElement.textContent();
-
+                let category = await categoryElement.textContent();
+                let description = await descriptionElement.textContent();
+                let moreInfo = await moreInfoElement.textContent();
 
                 expect(imageSrc).to.contains(data.imageUrl);
-                expect(model).to.contains(data.model);
-                expect(price).to.contains(data.price);
-                expect(weight).to.contains(data.weight);
-                expect(speed).to.contains(data.speed);
-                expect(about).to.contains(data.about);
+                expect(category).to.contains(data.category);
+                expect(description).to.contains(data.description);
+                expect(moreInfo).to.contains(data.moreInfo);
                 expect(await page.isVisible('#action-buttons >> text="Delete"')).to.equal(false, 'Delete button was visible for non owner');
                 expect(await page.isVisible('#action-buttons >> text="Edit"')).to.equal(false, 'Edit button was visible for non-owner');
 
@@ -898,64 +869,6 @@ describe("E2E tests", function () {
             });
 
             it("Details with logged in user shows correct info [ 2.5 Points ]", async function () {
-                //Login
-                const userData = mockData.users[0];
-                const { post } = await handle(endpoints.login);
-                post(userData);
-                await page.goto(host);
-                let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
-                await loginBtn.click();
-                await page.waitForSelector("form", { timeout: interval });
-                let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
-                let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
-                await emailElement.fill(userData.email);
-                await passwordElement.fill(userData.password);
-                let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
-                await loginSubmitBtn.click();
-
-                const { get: catalogGet } = await handle(endpoints.catalog);
-                catalogGet(mockData.catalog);
-
-                const data = mockData.catalog[0];
-                const { get } = await handle(endpoints.details(data._id));
-                let { isHandled } = get(data);
-
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
-
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
-                await moreInfoButton.click();
-
-                let imageElement = await page.waitForSelector('#details-img', { timeout: interval });
-                let modelElement = await page.waitForSelector('#details-title', { timeout: interval });
-                let priceElement = await page.waitForSelector('.price', { timeout: interval });
-                let weightElement = await page.waitForSelector('.weight', { timeout: interval });
-                let speedElement = await page.waitForSelector('.top-speed', { timeout: interval });
-                let aboutElement = await page.waitForSelector('#car-description', { timeout: interval });
-
-
-
-                let imageSrc = await imageElement.getAttribute('src');
-                let model = await modelElement.textContent();
-                let price = await priceElement.textContent();
-                let weight = await weightElement.textContent();
-                let speed = await speedElement.textContent();
-                let about = await aboutElement.textContent();
-
-
-                expect(imageSrc).to.contains(data.imageUrl);
-                expect(model).to.contains(data.model);
-                expect(price).to.contains(data.price);
-                expect(weight).to.contains(data.weight);
-                expect(speed).to.contains(data.speed);
-                expect(about).to.contains(data.about);
-                expect(await page.isVisible('#action-buttons >> text="Delete"')).to.equal(false, 'Delete button was visible for non owner');
-                expect(await page.isVisible('#action-buttons >> text="Edit"')).to.equal(false, 'Edit button was visible for non-owner');
-
-                expect(isHandled()).to.equal(true, 'Details API was not called');
-            });
-
-            it("Details with owner shows correct info [ 2.5 Points ]", async function () {
                 //Login
                 const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
@@ -978,36 +891,87 @@ describe("E2E tests", function () {
                 const { get } = await handle(endpoints.details(data._id));
                 let { isHandled } = get(data);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
+
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let imageElement = await page.waitForSelector('#details-img', { timeout: interval });
-                let modelElement = await page.waitForSelector('#details-title', { timeout: interval });
-                let priceElement = await page.waitForSelector('.price', { timeout: interval });
-                let weightElement = await page.waitForSelector('.weight', { timeout: interval });
-                let speedElement = await page.waitForSelector('.top-speed', { timeout: interval });
-                let aboutElement = await page.waitForSelector('#car-description', { timeout: interval });
-
-
+                let categoryElement = await page.waitForSelector('#details-category', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('#description', { timeout: interval });
+                let moreInfoElement = await page.waitForSelector('#more-info', { timeout: interval });
 
                 let imageSrc = await imageElement.getAttribute('src');
-                let model = await modelElement.textContent();
-                let price = await priceElement.textContent();
-                let weight = await weightElement.textContent();
-                let speed = await speedElement.textContent();
-                let about = await aboutElement.textContent();
-
+                let category = await categoryElement.textContent();
+                let description = await descriptionElement.textContent();
+                let moreInfo = await moreInfoElement.textContent();
 
                 expect(imageSrc).to.contains(data.imageUrl);
-                expect(model).to.contains(data.model);
-                expect(price).to.contains(data.price);
-                expect(weight).to.contains(data.weight);
-                expect(speed).to.contains(data.speed);
-                expect(about).to.contains(data.about);
+                expect(category).to.contains(data.category);
+                expect(description).to.contains(data.description);
+                expect(moreInfo).to.contains(data.moreInfo);
+                expect(await page.isVisible('#action-buttons >> text="Delete"')).to.equal(false, 'Delete button was visible for non owner');
+                expect(await page.isVisible('#action-buttons >> text="Edit"')).to.equal(false, 'Edit button was visible for non-owner');
+
+                expect(isHandled()).to.equal(true, 'Details API was not called');
+            });
+
+            it("Details with owner shows correct info [ 2.5 Points ]", async function () {
+                //Login
+                const userData = mockData.users[0];
+                const { post } = await handle(endpoints.login);
+                post(userData);
+                await page.goto(host);
+                let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+                await loginBtn.click();
+                await page.waitForSelector("form", { timeout: interval });
+                let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+                let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+                await emailElement.fill(userData.email);
+                await passwordElement.fill(userData.password);
+                let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+                await loginSubmitBtn.click();
+
+                const { get: catalogGet } = await handle(endpoints.catalog);
+                catalogGet(mockData.catalog);
+
+                const data = mockData.catalog[0];
+                const { get } = await handle(endpoints.details(data._id));
+                let { isHandled } = get(data);
+
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
+
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
+
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+                await moreInfoButton.click();
+
+                let imageElement = await page.waitForSelector('#details-img', { timeout: interval });
+                let categoryElement = await page.waitForSelector('#details-category', { timeout: interval });
+                let descriptionElement = await page.waitForSelector('#description', { timeout: interval });
+                let moreInfoElement = await page.waitForSelector('#more-info', { timeout: interval });
+
+                let imageSrc = await imageElement.getAttribute('src');
+                let category = await categoryElement.textContent();
+                let description = await descriptionElement.textContent();
+                let moreInfo = await moreInfoElement.textContent();
+
+                expect(imageSrc).to.contains(data.imageUrl);
+                expect(category).to.contains(data.category);
+                expect(description).to.contains(data.description);
+                expect(moreInfo).to.contains(data.moreInfo);
                 expect(await page.isVisible('#action-buttons >> text="Delete"')).to.equal(true, 'Delete button was NOT visible for owner');
                 expect(await page.isVisible('#action-buttons >> text="Edit"')).to.equal(true, 'Edit button was NOT visible for owner');
 
@@ -1039,14 +1003,19 @@ describe("E2E tests", function () {
                 const { get } = await handle(endpoints.details(data._id));
                 let { onResponse, isHandled } = get(data);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
@@ -1082,13 +1051,19 @@ describe("E2E tests", function () {
                 const { get } = await handle(endpoints.details(data._id));
                 get(data);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
+
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
@@ -1100,17 +1075,15 @@ describe("E2E tests", function () {
                 const inputs = await page.$$eval(".form .edit-form input", (t) => t.map((i) => i.value));
                 const textareas = await page.$$eval(".edit-form textarea", (t) => t.map((i) => i.value));
 
-                expect(inputs[0]).to.contains(data.model);
+                expect(inputs[0]).to.contains(data.category);
                 expect(inputs[1]).to.contains(data.imageUrl);
-                expect(inputs[2]).to.contains(data.price);
-                expect(inputs[3]).to.contains(data.weight);
-                expect(inputs[4]).to.contains(data.speed);
-                expect(textareas[0]).to.contains(data.about);
+                expect(textareas[0]).to.contains(data.description);
+                expect(textareas[1]).to.contains(data.moreInfo);
             });
 
             it("Edit does NOT work with empty fields [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1132,33 +1105,33 @@ describe("E2E tests", function () {
                 get(data);
                 const { isHandled } = put();
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
                 await editButton.click();
 
-                let modelInput = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageInput = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let yearInput = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let mileageInput = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let contactInput = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutInput = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryInput = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageInput = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionInput = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let moreInfoInput = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
 
-                await modelInput.fill('');
+                await categoryInput.fill('');
                 await imageInput.fill('');
-                await yearInput.fill('');
-                await mileageInput.fill('');
-                await contactInput.fill('');
-                await aboutInput.fill('');
-
+                await descriptionInput.fill('');
+                await moreInfoInput.fill('');
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
                 await submitBtn.click();
@@ -1169,7 +1142,7 @@ describe("E2E tests", function () {
 
             it("Edit sends information to the right API [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1188,43 +1161,42 @@ describe("E2E tests", function () {
 
                 const data = mockData.catalog[2];
                 const modifiedData = Object.assign({}, data);
-                modifiedData.model = 'Model Test';
+                modifiedData.category = 'Category Test';
                 modifiedData.imageUrl = 'Image Test';
-                modifiedData.year = '1';
-                modifiedData.mileage = '1';
-                modifiedData.contact = '1';
-                modifiedData.about = 'About Test';
-
+                modifiedData.description = 'Description Test';
+                modifiedData.moreInfo = 'More Info Test';
 
                 const { get, put } = await handle(endpoints.details(data._id));
                 get(data);
                 const { isHandled, onResponse } = put(modifiedData);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
+
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
                 await editButton.click();
 
-                let modelInput = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageInput = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let yearInput = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let mileageInput = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let contactInput = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutInput = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryInput = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageInput = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionInput = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let moreInfoInput = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
 
-                await modelInput.fill(modifiedData.model);
+                await categoryInput.fill(modifiedData.category);
                 await imageInput.fill(modifiedData.imageUrl);
-                await yearInput.fill(modifiedData.year);
-                await mileageInput.fill(modifiedData.mileage);
-                await contactInput.fill(modifiedData.contact);
-                await aboutInput.fill(modifiedData.about);
+                await descriptionInput.fill(modifiedData.description);
+                await moreInfoInput.fill(modifiedData.moreInfo);
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
@@ -1238,7 +1210,7 @@ describe("E2E tests", function () {
 
             it("Edit sends correct headers [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1256,45 +1228,42 @@ describe("E2E tests", function () {
                 catalogGet(mockData.catalog);
                 const data = mockData.catalog[2];
                 const modifiedData = Object.assign({}, data);
-                modifiedData.model = 'Model Test';
+                modifiedData.category = 'Category Test';
                 modifiedData.imageUrl = 'Image Test';
-                modifiedData.price = '1';
-                modifiedData.weight = '1';
-                modifiedData.speed = '1';
-                modifiedData.about = 'About Test';
+                modifiedData.description = 'Description Test';
+                modifiedData.moreInfo = 'More Info Test';
 
                 const { get, put } = await handle(endpoints.details(data._id));
                 get(data);
                 const { onRequest } = put(modifiedData);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
                 await editButton.click();
 
-               
-                let modelInput = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageInput = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let yearInput = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let mileageInput = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let contactInput = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutInput = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryInput = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageInput = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionInput = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let moreInfoInput = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
 
-                await modelInput.fill(modifiedData.model);
+                await categoryInput.fill(modifiedData.category);
                 await imageInput.fill(modifiedData.imageUrl);
-                await yearInput.fill(modifiedData.price);
-                await mileageInput.fill(modifiedData.weight);
-                await contactInput.fill(modifiedData.speed);
-                await aboutInput.fill(modifiedData.about);
-
+                await descriptionInput.fill(modifiedData.description);
+                await moreInfoInput.fill(modifiedData.moreInfo);
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
@@ -1309,7 +1278,7 @@ describe("E2E tests", function () {
 
             it("Edit sends correct information [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1327,44 +1296,42 @@ describe("E2E tests", function () {
                 catalogGet(mockData.catalog);
                 const data = mockData.catalog[2];
                 const modifiedData = Object.assign({}, data);
-            modifiedData.model = 'Model Test';
+                modifiedData.category = 'Category Test';
                 modifiedData.imageUrl = 'Image Test';
-                modifiedData.price = '1';
-                modifiedData.weight = '1';
-                modifiedData.speed = '1';
-                modifiedData.about = 'About Test';
+                modifiedData.description = 'Description Test';
+                modifiedData.moreInfo = 'More Info Test';
 
                 const { get, put } = await handle(endpoints.details(data._id));
                 get(data);
                 const { onRequest } = put(modifiedData);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
                 await editButton.click();
 
-                let modelInput = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageInput = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let yearInput = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let mileageInput = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let contactInput = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutInput = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryInput = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageInput = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionInput = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let moreInfoInput = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
 
-                await modelInput.fill(modifiedData.model);
+                await categoryInput.fill(modifiedData.category);
                 await imageInput.fill(modifiedData.imageUrl);
-                await yearInput.fill(modifiedData.price);
-                await mileageInput.fill(modifiedData.weight);
-                await contactInput.fill(modifiedData.speed);
-                await aboutInput.fill(modifiedData.about);
-
+                await descriptionInput.fill(modifiedData.description);
+                await moreInfoInput.fill(modifiedData.moreInfo);
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
@@ -1375,17 +1342,15 @@ describe("E2E tests", function () {
 
                 const postData = JSON.parse(request.postData());
 
-                expect(postData.model).to.contains(modifiedData.model);
+                expect(postData.category).to.contains(modifiedData.category);
                 expect(postData.imageUrl).to.contains(modifiedData.imageUrl);
-                expect(postData.price).to.contains(modifiedData.price);
-                expect(postData.weight).to.contains(modifiedData.weight);
-                expect(postData.speed).to.contains(modifiedData.speed);
-                expect(postData.about).to.contains(modifiedData.about);
+                expect(postData.description).to.contains(modifiedData.description);
+                expect(postData.moreInfo).to.contains(modifiedData.moreInfo);
             });
 
             it("Edit redirects to Details on success [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1403,44 +1368,42 @@ describe("E2E tests", function () {
                 catalogGet(mockData.catalog);
                 const data = mockData.catalog[2];
                 const modifiedData = Object.assign({}, data);
-            modifiedData.model = 'Model Test';
+                modifiedData.category = 'Category Test';
                 modifiedData.imageUrl = 'Image Test';
-                modifiedData.price = '1';
-                modifiedData.weight = '1';
-                modifiedData.speed = '1';
-                modifiedData.about = 'About Test';
+                modifiedData.description = 'Description Test';
+                modifiedData.moreInfo = 'More Info Test';
 
                 const { get, put } = await handle(endpoints.details(data._id));
                 get(data);
                 const { onResponse } = put(modifiedData);
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let editButton = await page.waitForSelector('#action-buttons >> text="Edit"', { timeout: interval });
                 await editButton.click();
 
-              
-                let modelInput = await page.waitForSelector('[name="model"]', { timeout: interval });
-                let imageInput = await page.waitForSelector('[name="imageUrl"]', { timeout: interval });
-                let yearInput = await page.waitForSelector('[name="price"]', { timeout: interval });
-                let mileageInput = await page.waitForSelector('[name="weight"]', { timeout: interval });
-                let contactInput = await page.waitForSelector('[name="speed"]', { timeout: interval });
-                let aboutInput = await page.waitForSelector('[name="about"]', { timeout: interval });
+                let categoryInput = await page.waitForSelector('[name="category"]', { timeout: interval });
+                let imageInput = await page.waitForSelector('[name="image-url"]', { timeout: interval });
+                let descriptionInput = await page.waitForSelector('[name="description"]', { timeout: interval });
+                let moreInfoInput = await page.waitForSelector('[name="additional-info"]', { timeout: interval });
 
-                await modelInput.fill(modifiedData.model);
+                await categoryInput.fill(modifiedData.category);
                 await imageInput.fill(modifiedData.imageUrl);
-                await yearInput.fill(modifiedData.price);
-                await mileageInput.fill(modifiedData.weight);
-                await contactInput.fill(modifiedData.speed);
-                await aboutInput.fill(modifiedData.about);
+                await descriptionInput.fill(modifiedData.description);
+                await moreInfoInput.fill(modifiedData.moreInfo);
 
                 let submitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
 
@@ -1456,7 +1419,7 @@ describe("E2E tests", function () {
         describe('Delete [ 10 Points ]', function () {
             it("Delete makes correct API call [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1477,14 +1440,19 @@ describe("E2E tests", function () {
                 get(data);
                 const { onRequest, onResponse, isHandled } = del({ "_deletedOn": 1688586307461 });
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let deleteButton = await page.waitForSelector('#action-buttons >> text="Delete"', { timeout: interval });
@@ -1500,7 +1468,7 @@ describe("E2E tests", function () {
 
             it("Delete shows a confirm dialog [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1521,14 +1489,19 @@ describe("E2E tests", function () {
                 get(data);
                 const { onResponse, isHandled } = del({ "_deletedOn": 1688586307461 });
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
 
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let deleteButton = await page.waitForSelector('#action-buttons >> text="Delete"', { timeout: interval });
@@ -1546,7 +1519,7 @@ describe("E2E tests", function () {
 
             it("Delete redirects to Dashboard on confirm accept [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1567,13 +1540,19 @@ describe("E2E tests", function () {
                 get(data);
                 const { onResponse, isHandled } = del({ "_deletedOn": 1688586307461 });
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
+
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let deleteButton = await page.waitForSelector('#action-buttons >> text="Delete"', { timeout: interval });
@@ -1587,12 +1566,12 @@ describe("E2E tests", function () {
 
                 await Promise.all([alertPromise, onResponse(), deleteButton.click()]);
 
-                await page.waitForSelector('#dashboard', { timeout: interval });
+                await page.waitForSelector('#characters', { timeout: interval });
             });
 
             it("Delete does not delete on confirm reject [ 2.5 Points ]", async function () {
                 //Login
-                const userData = mockData.users[0];
+                const userData = mockData.users[1];
                 const { post } = await handle(endpoints.login);
                 post(userData);
                 await page.goto(host);
@@ -1613,13 +1592,19 @@ describe("E2E tests", function () {
                 get(data);
                 const { isHandled } = del({ "_deletedOn": 1688586307461 });
 
+                const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+                totalLikes(0);
+
+                const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+                userLikes(0);
+
                 const { get: own } = await handle(endpoints.own(data._id, userData._id));
                 own(1);
 
-                let funFactsBtn = await page.waitForSelector('nav >> text=Our Cars', { timeout: interval });
-                await funFactsBtn.click();
+                let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+                await charactersBtn.click();
 
-                let moreInfoButton = await page.waitForSelector(`.car:has-text("${data.model}") >> .details-btn`, { timeout: interval });
+                let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
                 await moreInfoButton.click();
 
                 let deleteButton = await page.waitForSelector('#action-buttons >> text="Delete"', { timeout: interval });
@@ -1640,176 +1625,283 @@ describe("E2E tests", function () {
         })
     });
 
-    describe('BONUS:Search Page [ 15 Points ]', async () => {
+    describe('BONUS: Likes [ 15 Points ]', async () => {
+        it("Likes for guests calls correct API and shows correct info [ 2.5 Points ]", async function () {
+            await page.goto(host);
 
-        it('Show no matches for Guest [ 2.5 Points ]', async () => {
-            const { get } = await handle(endpoints.search('bbb'));
-            get([]);
-    
-            await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'Tomato');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            expect(await page.isVisible('text=No result.')).to.be.true;
+            let totalLikesCount = 2;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[1];
+            const { get } = await handle(endpoints.details(data._id));
+            let { isHandled: detailsIsHandled } = get(data);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            let { isHandled: totalLikesisHandled } = totalLikes(totalLikesCount);
+
+            const { get: userLikesNull } = await handle(endpoints.userLikes(data._id, null));
+            let { isHandled: userLikesNullIsHandled } = userLikesNull(0);
+
+            const { get: userLikesUndefined } = await handle(endpoints.userLikes(data._id, undefined));
+            let { isHandled: userLikesUndefinedIsHandled } = userLikesUndefined(0);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let likes = await likesElement.textContent();
+
+            expect(likes).to.contains(totalLikesCount);
+            expect(await page.isVisible('#action-buttons >> text="Like"')).to.equal(false, 'Like button was visible for user who already liked');
+            expect(totalLikesisHandled()).to.equal(true, 'Total Likes API was not called');
+
         });
-    
-        it('Show results with 2 cars for Guest [ 2.5 Points ]', async () => {
-            const { get } = await handle(endpoints.search('h'));
-            get(mockData.catalog.slice(0, 2));
-            
+
+        it("Likes for logged in user who has already liked calls correct API and shows correct info [ 2.5 Points ]", async function () {
+            //Login
+            const userData = mockData.users[1];
+            const { post } = await handle(endpoints.login);
+            post(userData);
             await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'h');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            const models = await page.$$eval(".car .model", (t) =>
-            t.map((s) => s.textContent)
-          );
-    
-          expect(models.length).to.equal(2);
-            expect(models[0]).to.contains(`${mockData.catalog[0].model}`);
-            expect(models[1]).to.contains(`${mockData.catalog[1].model}`);
+            let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+            await loginBtn.click();
+            await page.waitForSelector("form", { timeout: interval });
+            let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+            let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+            await emailElement.fill(userData.email);
+            await passwordElement.fill(userData.password);
+            let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+            await loginSubmitBtn.click();
+
+            let totalLikesCount = 3;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[0];
+            const { get } = await handle(endpoints.details(data._id));
+            let { isHandled: detailsIsHandled } = get(data);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            let { isHandled: totalLikesisHandled } = totalLikes(totalLikesCount);
+
+            const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+            let { isHandled: userLikesIsHandled } = userLikes(1);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let likes = await likesElement.textContent();
+
+            expect(likes).to.contains(totalLikesCount);
+            expect(await page.isVisible('#action-buttons >> text="Like"')).to.equal(false, 'Like button was visible for user who already liked');
+            expect(totalLikesisHandled()).to.equal(true, 'Total Likes API was not called');
+            expect(userLikesIsHandled()).to.equal(true, 'User Likes API was not called');
         });
-    
-        it('Show More info button for Guest [ 2.5 Points ]', async () => {
-            const { get } = await handle(endpoints.search('a'));
-            get(mockData.catalog.slice(0, 1));
-            
+
+        it("Likes for logged in user who has NOT liked calls correct API and shows correct info  [ 2.5 Points ]", async function () {
+            //Login
+            const userData = mockData.users[1];
+            const { post } = await handle(endpoints.login);
+            post(userData);
             await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'a');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            const names = await page.$$eval(".car .model", (t) =>
-            t.map((s) => s.textContent));
-    
-            expect(names.length).to.equal(1);
-            expect(names[0]).to.contains(`${mockData.catalog[0].model}`);
-    
-            expect(await page.isVisible('text="More Info"')).to.be.true;
+            let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+            await loginBtn.click();
+            await page.waitForSelector("form", { timeout: interval });
+            let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+            let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+            await emailElement.fill(userData.email);
+            await passwordElement.fill(userData.password);
+            let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+            await loginSubmitBtn.click();
+
+            let totalLikesCount = 3;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[0];
+            const { get } = await handle(endpoints.details(data._id));
+            let { isHandled: detailsIsHandled } = get(data);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            let { isHandled: totalLikesisHandled } = totalLikes(totalLikesCount);
+
+            const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+            let { isHandled: userLikesIsHandled } = userLikes(0);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let likeButton = await page.waitForSelector('#action-buttons >> text="Like"', { timeout: interval });
+            let likes = await likesElement.textContent();
+
+            expect(likes).to.contains(totalLikesCount);
+            expect(await likeButton.isVisible()).to.equal(true, 'Like button was not visible for an user who has not yet liked');
+            expect(totalLikesisHandled()).to.equal(true, 'Total Likes API was not called');
+            expect(userLikesIsHandled()).to.equal(true, 'User Likes API was not called');
         });
-        
-        it('Show no matches for Users [ 2.5 Points ]', async () => {
-            // Login user
-            const data = mockData.users[0];
+
+        it("Likes for owner calls correct API and shows correct info [ 2.5 Points ]", async function () {
+            //Login
+            const userData = mockData.users[0];
+            const { post } = await handle(endpoints.login);
+            post(userData);
             await page.goto(host);
-            await page.waitForTimeout(interval);
-            await page.click('text=Login');
-            await page.waitForTimeout(interval);
-            await page.waitForSelector('form');
-    
-            await page.fill('[name="email"]', data.email);
-            await page.fill('[name="password"]', data.password);
-    
-            await page.click('[type="submit"]');
-    
-            const { get } = await handle(endpoints.search('bbb'));
-            get([]);
-    
-            await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'bbb');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            expect(await page.isVisible('text=No result.')).to.be.true;
+            let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+            await loginBtn.click();
+            await page.waitForSelector("form", { timeout: interval });
+            let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+            let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+            await emailElement.fill(userData.email);
+            await passwordElement.fill(userData.password);
+            let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+            await loginSubmitBtn.click();
+
+            let totalLikesCount = 3;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[0];
+            const { get } = await handle(endpoints.details(data._id));
+            get(data);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            let { isHandled: totalLikesisHandled } = totalLikes(totalLikesCount);
+
+            const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+            userLikes(0);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let likes = await likesElement.textContent();
+
+            expect(likes).to.contains(totalLikesCount);
+            expect(await page.isVisible('#action-buttons >> text="Like"')).to.equal(false, 'Like button was visible for owner');
+            expect(totalLikesisHandled()).to.equal(true, 'Total Likes API was not called');
         });
-    
-        it('Show results with 2 cars for Users [ 2.5 Points ]', async () => {
-            // Login user
-            const data = mockData.users[0];
+
+        it("Liking for valid user sends correct API call [ 2.5 Points ]", async function () {
+            //Login
+            const userData = mockData.users[0];
+            const { post } = await handle(endpoints.login);
+            post(userData);
             await page.goto(host);
-            await page.waitForTimeout(interval);
-            await page.click('text=Login');
-            await page.waitForTimeout(interval);
-            await page.waitForSelector('form');
-    
-            await page.fill('[name="email"]', data.email);
-            await page.fill('[name="password"]', data.password);
-    
-            await page.click('[type="submit"]');
-    
-            const { get } = await handle(endpoints.search('a'));
-            get(mockData.catalog.slice(0, 2));
-    
-            await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'a');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            const names = await page.$$eval(".car .model", (t) =>
-            t.map((s) => s.textContent));
-    
-            expect(names.length).to.equal(2);
-            expect(names[0]).to.contains(`${mockData.catalog[0].model}`);
-            expect(names[1]).to.contains(`${mockData.catalog[1].model}`);
-    
-      
+            let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+            await loginBtn.click();
+            await page.waitForSelector("form", { timeout: interval });
+            let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+            let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+            await emailElement.fill(userData.email);
+            await passwordElement.fill(userData.password);
+            let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+            await loginSubmitBtn.click();
+
+            let totalLikesCount = 1;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[2];
+            const likeData = mockData.useful[0];
+            const { get } = await handle(endpoints.details(data._id));
+            get(data);
+
+            const { post: likePost } = await handle(endpoints.like);
+            let { onRequest: likeOnRequest } = likePost(likeData);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            totalLikes(totalLikesCount);
+
+            const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+            userLikes(0);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likeButton = await page.waitForSelector('#action-buttons >> text="Like"', { timeout: interval });
+
+            let [request] = await Promise.all([
+                likeOnRequest(),
+                likeButton.click(),
+            ])
+
+            const postData = JSON.parse(request.postData());
+            expect(postData.characterId).to.equal(data._id);
+            const token = request.headers()["x-authorization"];
+            expect(token).to.equal(userData.accessToken, 'Request did not send correct authorization header');
         });
-    
-        it('More Info info button for User [ 2.5 Points ]', async () => {
-            // Login user
-            const data = mockData.users[0];
+
+        it("Liking for valid user increments likes and hides Like button [ 2.5 Points ]", async function () {
+            //Login
+            const userData = mockData.users[0];
+            const { post } = await handle(endpoints.login);
+            post(userData);
             await page.goto(host);
-            await page.waitForTimeout(interval);
-            await page.click('text=Login');
-            await page.waitForTimeout(interval);
-            await page.waitForSelector('form');
-    
-            await page.fill('[name="email"]', data.email);
-            await page.fill('[name="password"]', data.password);
-    
-            await page.click('[type="submit"]');
-    
-            const { get } = await handle(endpoints.search('honda'));
-            get(mockData.catalog.slice(0, 1));
-    
-            await page.goto(host);
-            await page.waitForTimeout(interval);
-    
-            await page.click('nav >> text=Search');
-            await page.waitForTimeout(interval);
-    
-            await page.fill('[name="search"]', 'honda');
-            await page.click('button >> text="Search"');
-            await page.waitForTimeout(interval);
-    
-            const names = await page.$$eval(".car .model", (t) =>
-            t.map((s) => s.textContent));
-    
-            expect(names.length).to.equal(1);
-            expect(names[0]).to.contains(`${mockData.catalog[0].model}`);
-    
-            expect(await page.isVisible('text="More Info"')).to.be.true;
-    
-    
+            let loginBtn = await page.waitForSelector('text=Login', { timeout: interval });
+            await loginBtn.click();
+            await page.waitForSelector("form", { timeout: interval });
+            let emailElement = await page.waitForSelector('[name="email"]', { timeout: interval });
+            let passwordElement = await page.waitForSelector('[name="password"]', { timeout: interval });
+            await emailElement.fill(userData.email);
+            await passwordElement.fill(userData.password);
+            let loginSubmitBtn = await page.waitForSelector('[type="submit"]', { timeout: interval });
+            await loginSubmitBtn.click();
+
+            let totalLikesCount = 1;
+            const { get: catalogGet } = await handle(endpoints.catalog);
+            catalogGet(mockData.catalog);
+            const data = mockData.catalog[2];
+            const likeData = mockData.useful[0];
+            const { get } = await handle(endpoints.details(data._id));
+            get(data);
+
+            const { post: likePost } = await handle(endpoints.like);
+            let { onRequest: likeOnRquest, onResponse: likeOnResponse } = likePost(likeData);
+
+            const { get: totalLikes } = await handle(endpoints.totalLikes(data._id));
+            totalLikes(totalLikesCount);
+
+            const { get: userLikes } = await handle(endpoints.userLikes(data._id, userData._id));
+            userLikes(0);
+
+            let charactersBtn = await page.waitForSelector('nav >> text=Characters', { timeout: interval });
+            await charactersBtn.click();
+
+            let moreInfoButton = await page.waitForSelector(`.character:has-text("${data.description}") >> .details-btn`, { timeout: interval });
+            await moreInfoButton.click();
+
+            let likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let likeButton = await page.waitForSelector('#action-buttons >> text="Like"', { timeout: interval });
+            let likes = await likesElement.textContent();
+
+            expect(likes).to.equal(totalLikesCount.toString());
+
+            let res = await Promise.all([
+                likeOnResponse(),
+                likeButton.click(),
+                totalLikes(totalLikesCount + 1),
+                userLikes(1)
+            ]);
+
+            await page.waitForSelector('#action-buttons >> text="Like"', { timeout: interval, state: 'detached' });
+            likesElement = await page.waitForSelector('#likes', { timeout: interval });
+            let newLikes = await likesElement.textContent();
+
+            expect(newLikes).to.equal((totalLikesCount + 1).toString(), 'Likes did not increment on clicking Like button');
         });
-    
     });
 });
 
