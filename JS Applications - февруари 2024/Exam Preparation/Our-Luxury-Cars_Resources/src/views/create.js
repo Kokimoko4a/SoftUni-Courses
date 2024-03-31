@@ -6,65 +6,77 @@ import { page } from "../lib.js";
 
 const createTemplate = (onCreate) => html`
 
+<!-- Create Page (Only for logged-in users) -->
 <section id="create">
-<div class="form" @submit=${onCreate}>
-  <img class="border" src="./images/border.png" alt="">
-  <h2>Add Character</h2>
-  <form class="create-form">
-    <input
-      type="text"
-      name="category"
-      id="category"
-      placeholder="Character Type"
-    />
-    <input
-      type="text"
-      name="image-url"
-      id="image-url"
-      placeholder="Image URL"
-    />
-    <textarea
-    id="description"
-    name="description"
-    placeholder="Description"
-    rows="2"
-    cols="10"
-  ></textarea>
-  <textarea
-    id="additional-info"
-    name="additional-info"
-    placeholder="Additional Info"
-    rows="2"
-    cols="10"
-  ></textarea>
-    <button type="submit">Add Character</button>
-  </form>
-  <img class="border" src="./images/border.png" alt="">
-</div>
+  <div class="form form-item">
+    <h2>Share Your item</h2>
+    <form class="create-form"  @submit=${onCreate}>
+      <input type="text" name="item" id="item" placeholder="Item" />
+      <input
+        type="text"
+        name="imageUrl"
+        id="item-image"
+        placeholder="Your item Image URL"
+      />
+      <input
+        type="text"
+        name="price"
+        id="price"
+        placeholder="Price in Euro"
+      />
+      <input
+        type="text"
+        name="availability"
+        id="availability"
+        placeholder="Availability Information"
+      />
+      <input
+        type="text"
+        name="type"
+        id="type"
+        placeholder="Item Type"
+      />
+      <textarea
+        id="description"
+        name="description"
+        placeholder="More About The Item"
+        rows="10"
+        cols="50"
+      ></textarea>
+      <button type="submit">Add</button>
+    </form>
+  </div>
 </section>
 `;
 
 export function showCreate(ctx) {
 
-    let main = document.querySelector('main');
+  let main = document.querySelector('main');
 
 
-    render(createTemplate(createSubmitHandler(onCreate)), main);
+  render(createTemplate(createSubmitHandler(onCreate)), main);
 }
 
 async function onCreate(data, form) {
 
-console.log(typeof(data['image-url']));
+  console.log(typeof (data['imageUrl']));
 
- console.log()
+  console.log()
 
-    if (!data['category'] || !data['image-url'] || !data['description'] || !data['additional-info']) {
+  if (!data['description'] || !data['type'] || !data['availability'] || !data['price'] || !data['imageUrl'] || !data['item']) {
 
-        return alert("All fields are required!");
-    }
+    return alert("All fields are required!");
+  }
 
-    await createCar(data['category'], data['image-url'], data['description'], data['additional-info']);
+  await createCar( data['item'], data['imageUrl'], data['price'], data['availability'], data['type'],data['description'] );
+  /*item,
+  imageUrl, 
+  price, 
+  availability,
+  type,
+  description
+ */
 
-   page.redirect('/catalog');
+  page.redirect('/catalog');
 
 }

@@ -1,17 +1,17 @@
-import { del, get, post,put } from "./request.js";
+import { del, get, post, put } from "./request.js";
 
 const endpoints = {
 
-    allCars: '/data/characters?sortBy=_createdOn%20desc',
-    details: '/data/characters/',
-    add: '/data/characters',
-    edit: '/data/characters/',
-    deleteCar: '/data/characters/'
+    allCars: '/data/cyberpunk?sortBy=_createdOn%20desc',
+    details: '/data/cyberpunk/',
+    add: '/data/cyberpunk',
+    edit: '/data/cyberpunk/',
+    deleteCar: '/data/cyberpunk/'
 };
 
 export async function getAllCars() {
 
-    return  get(endpoints.allCars);
+    return get(endpoints.allCars);
 }
 
 export async function getCarById(id) {
@@ -19,14 +19,14 @@ export async function getCarById(id) {
     return get(endpoints.details + id);
 }
 
-export async function createCar(category, imageUrl, description, moreInfo) {
+export async function createCar(item, imageUrl, price, availability, type, description) {
 
-    return post(endpoints.add, { category, imageUrl, description, moreInfo });
+    return post(endpoints.add, { item, imageUrl, price, availability, type, description });
 }
 
-export async function updateCar(id, category, imageUrl, description, moreInfo) {
+export async function updateCar(id, item, imageUrl, price, availability, type, description) {
 
-    return put(endpoints.edit + id, { category, imageUrl, description, moreInfo });
+    return put(endpoints.edit + id, { item, imageUrl, price, availability, type, description });
 }
 
 export async function deleteEvent(id) {

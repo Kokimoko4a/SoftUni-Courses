@@ -6,29 +6,30 @@ import { page } from "../lib.js";
  const detailsTemplate = (data, isOwner, onDelete) => html`
  
  <section id="details">
-    <div id="details-wrapper">
-      <img id="details-img" src=${data.imageUrl} alt="example1" />
-      <div>
-      <p id="details-category">${data.category}</p>
-      <div id="info-wrapper">
-        <div id="details-description">
-          <p id="description">
-            ${data.description}
-            </p>
-             <p id ="more-info">
-              ${data.moreInfo}
-                  </p>
-        </div>
-      </div>
-     
-        ${isOwner ? html` <div id="action-buttons">
-        <a href="/edit/${data._id}" id="edit-btn">Edit</a>
-        <a href="javascript:void(0)" id="delete-btn"  @click=${onDelete}>Delete</a>`: null}
-   
+ <div id="details-wrapper">
+   <div>
+     <img id="details-img" src=${data.imageUrl} alt="example1" />
+     <p id="details-title">${data.item}</p>
+   </div>
+   <div id="info-wrapper">
+     <div id="details-description">
+       <p class="details-price">Price: €${data.price}</p>
+       <p class="details-availability">
+         ${data.availability}
+       </p>
+       <p class="type">Type: ${data.type}</p>
+       <p id="item-description">
+         ${data.description}
+       </p>
+     </div>
 
-    </div>
-      </div>
-  </div>
+      ${isOwner ? html` <div id="action-buttons">
+      <a href="/edit/${data._id}" id="edit-btn">Edit</a>
+      <a href="javascript:void(0)" id="delete-btn" @click=${onDelete}>Delete</a>
+    </div>` : null}
+    
+   </div>
+ </div>
 </section>
  ` ;
 

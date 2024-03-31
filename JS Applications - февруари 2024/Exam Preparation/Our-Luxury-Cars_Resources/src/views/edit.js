@@ -6,47 +6,52 @@ import { page } from "../lib.js";
 
 const editTemplate = (car, onEdit) => html`
 
+<!-- Edit Page (Only for logged-in users) -->
 <section id="edit">
-    <div class="form">
-      <img class="border" src=${car.imageUrl} alt="">
-      <h2>Edit Character</h2>
-      <form class="edit-form" @submit=${onEdit}>
-        <input
+  <div class="form form-item">
+    <h2>Edit Your Item</h2>
+    <form class="edit-form" @submit=${onEdit}>
+      <input type="text" name="item" id="item" placeholder="Item" .value=${car.item} />
+      <input
         type="text"
-        name="category"
-        id="category"
-        placeholder="Character Type"
-        .value=${car.category}
+        name="imageUrl"
+        id="item-image"
+        placeholder="Your item Image URL"
+        .value=${car.imageUrl}
       />
       <input
         type="text"
-        name="image-url"
-        id="image-url"
-        placeholder="Image URL"
-        .value=${car.imageUrl}
+        name="price"
+        id="price"
+        placeholder="Price in Euro"
+        .value=${car.price}
+      />
+      <input
+        type="text"
+        name="availability"
+        id="availability"
+        placeholder="Availability Information"
+        .value=${car.availability}
+      />
+      <input
+        type="text"
+        name="type"
+        id="type"
+        placeholder="Item Type"
+        .value=${car.type}
       />
       <textarea
-      id="description"
-      name="description"
-      placeholder="Description"
-      rows="2"
-      cols="10"
-      .value=${car.description}
-    ></textarea>
-    <textarea
-      id="additional-info"
-      name="additional-info"
-      placeholder="Additional Info"
-      rows="2"
-      cols="10"
-      .value=${car.moreInfo}
-    ></textarea>
-        <button type="submit">Edit</button>
-      </form>
-      <img class="border" src="./images/border.png" alt="">
-    </div>
-  </section>
-
+        id="description"
+        name="description"
+        placeholder="More About The Item"
+        .value=${car.description}
+        rows="10"
+        cols="50"
+      ></textarea>
+      <button type="submit">Edit</button>
+    </form>
+  </div>
+</section>
 `;
 
 export async function showEdit(ctx) {
@@ -59,16 +64,16 @@ export async function showEdit(ctx) {
 
     render(editTemplate(car,createSubmitHandler(onEdit)), main);
 
-    async function onEdit(character, form) {
+    async function onEdit(data, form) {
 
 
     
-        if (!character['category'] || !character['image-url']  || !character['description']  || !character['additional-info']) {
+        if (!data['description'] || !data['type'] || !data['availability'] || !data['price'] || !data['imageUrl'] || !data['item']) {
     
             return alert("All fields are required!");
         }
     
-        await updateCar(id,character['category'], character['image-url'], character['description'], character['additional-info']);
+        await updateCar(id,data['item'], data['imageUrl'], data['price'], data['availability'], data['type'],data['description']);
     
        page.redirect('/catalog/' + id);
     

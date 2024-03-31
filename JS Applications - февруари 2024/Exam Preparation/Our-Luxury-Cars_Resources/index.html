@@ -5,48 +5,47 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=\, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles/styles.css" />
-    <title>Elden Ring Explorer</title>
+    <title>Cyberpunk Market</title>
     <script type="module" src="../src/app.js"></script>
   </head>
   <body>
+    <!-- BONUS: Notification -->
+    <section id="notifications">
+      <div id="errorBox" class="notification">
+        <span class="msg">MESSAGE</span>
+      </div>
+    </section>
     <div id="wrapper">
       <header>
         <!-- Navigation -->
-        <a id="logo" href="/"><img id="logo-img" src="./images/logo.png" alt=""/></a>
+        <a id="logo" href="/"
+          ><img id="logo" src="./images/logo.png" alt="img"
+        /></a>
         <nav>
           <div>
-            <a href="/catalog">Characters</a>
+            <a href="/catalog">Market</a>
           </div>
 
           <!-- Logged-in users -->
           <div class="user">
-            <a href="/add">Add Character</a>
+            <a href="/add">Sell</a>
             <a href="javascript:void(0)" id="logoutBtn">Logout</a>
           </div>
 
           <!-- Guest users -->
           <div class="guest">
             <a href="/login">Login</a>
-            <a href="/register">Register</a>        
+            <a href="/register">Register</a>
           </div>
         </nav>
       </header>
 
-      <main>
-        <section id="hero">
-          <h1>Welcome to Elden Ring Explorer, your gateway
-             to the mystical world of Elden Ring! Embark
-              on an epic journey through a land shrouded
-               in myth and mystery. Whether you're a seasoned
-                adventurer or new to this realm, our app will
-                 guide you through the wonders and challenges
-                  that await in this extraordinary game world</h1>
-                  <img id="hero-img" src="./images/hero.png" alt="hero">
-        </section>
+      <main id="main-element">
+       
       </main>
     </div>
     <footer>
-      <p>Character Ring</p>
+      <p>SoftUni Exam 2024 &copy;</p>
     </footer>
   </body>
 </html>
