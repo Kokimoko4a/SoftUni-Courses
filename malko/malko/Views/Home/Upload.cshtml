@@ -1,5 +1,4 @@
-﻿@using malko.Controllers;
-@model Model;
+﻿@model List<string>;
 
 
 
@@ -11,11 +10,15 @@
     <title>Display Image</title>
 </head>
 <body>
-    <p>@Model.first</p>
+  
     <h2>Display Image</h2>
     <picture>
-
-        <img src="~/@Model.first">
+           @{foreach (var item in Model)
+    {
+             <img src="~/@item">
+    }
+    }
+       
     </picture>
    
 

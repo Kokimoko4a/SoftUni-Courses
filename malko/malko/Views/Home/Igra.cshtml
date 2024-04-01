@@ -1,4 +1,17 @@
-﻿<form  method="post" enctype="multipart/form-data" action="/Home/Upload">
-    <input type="file" name="file" />
-    <input type="submit" value="Upload" />
+﻿@using malko.Controllers;
+@model GymViewModel
+
+<form method="post" enctype="multipart/form-data" asp-action="Upload" asp-controller="Home">
+    <div>
+        <label for="name">Gym Name:</label>
+        <input type="text" id="name" name="Name" value="@Model.Name">
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label for="pictures">Upload Pictures:</label>
+        <!-- Allow selecting multiple pictures -->
+        <input type="file" id="pictures" name="Pictures" multiple>
+        <span asp-validation-for="Pictures"></span>
+    </div>
+    <button type="submit">Create Gym</button>
 </form>

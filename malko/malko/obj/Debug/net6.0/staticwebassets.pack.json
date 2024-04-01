@@ -13,6 +13,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\MyFittness\\24f9ee7e-007a-406b-8e32-08a725b1a8ef.png",
+      "PackagePath": "staticwebassets\\images\\MyFittness\\24f9ee7e-007a-406b-8e32-08a725b1a8ef.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\MyFittness\\31198872-fb2f-477e-89c4-5f725bd77e13.png",
+      "PackagePath": "staticwebassets\\images\\MyFittness\\31198872-fb2f-477e-89c4-5f725bd77e13.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\MyFittness\\a01f5f8d-0327-49bd-8dd5-9da98a78b680.png",
+      "PackagePath": "staticwebassets\\images\\MyFittness\\a01f5f8d-0327-49bd-8dd5-9da98a78b680.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\gymphotos\\2c46ada1-29be-4b83-8ec4-bb66384623e3.png",
+      "PackagePath": "staticwebassets\\images\\gymphotos\\2c46ada1-29be-4b83-8ec4-bb66384623e3.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\gymphotos\\d6bb75b7-b07e-40dc-9281-a3051d4295ed.png",
+      "PackagePath": "staticwebassets\\images\\gymphotos\\d6bb75b7-b07e-40dc-9281-a3051d4295ed.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\koki\\8dea54c4-82c0-4dbd-862b-bd0dbec40b7f.png",
+      "PackagePath": "staticwebassets\\images\\koki\\8dea54c4-82c0-4dbd-862b-bd0dbec40b7f.png"
+    },
+    {
+      "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\images\\koki\\de76397a-87f1-48d3-9e9c-4e86943306e2.png",
+      "PackagePath": "staticwebassets\\images\\koki\\de76397a-87f1-48d3-9e9c-4e86943306e2.png"
+    },
+    {
       "Id": "D:\\Kaloyan\\malko\\malko\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
