@@ -1,17 +1,118 @@
 ﻿@using malko.Controllers;
 @model GymViewModel
 
-<form method="post" enctype="multipart/form-data" asp-action="Upload" asp-controller="Home">
-    <div>
-        <label for="name">Gym Name:</label>
-        <input type="text" id="name" name="Name" value="@Model.Name">
-        <span asp-validation-for="Name"></span>
-    </div>
-    <div>
-        <label for="pictures">Upload Pictures:</label>
-        <!-- Allow selecting multiple pictures -->
-        <input type="file" id="pictures" name="Pictures" multiple>
-        <span asp-validation-for="Pictures"></span>
-    </div>
-    <button type="submit">Create Gym</button>
-</form>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 20px auto;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input[type="text"],
+    input[type="file"],
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    input[type="file"] {
+        cursor: pointer;
+    }
+
+    button[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+    #preview {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .thumbnail {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+    }
+
+        .thumbnail:hover {
+            transform: scale(1.1);
+        }
+</style>
+
+<div class="container">
+    <h1>Create Gym and Upload Photos</h1>
+
+    <form method="post" enctype="multipart/form-data" asp-action="Upload" asp-controller="Home">
+        <div>
+            <label for="name">Gym Name:</label>
+            <input type="text" id="name" name="Name" value="@Model.Name" placeholder="Enter gym name">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div>
+            <label for="pictures">Upload Pictures:</label>
+            <!-- Allow selecting multiple pictures -->
+            <input type="file" id="pictures" name="Pictures" multiple onchange="previewImages(event)">
+            <span asp-validation-for="Pictures"></span>
+        </div>
+        <div id="preview"></div>
+        <button type="submit">Create Gym</button>
+    </form>
+</div>
+
+<script>
+    function previewImages(event) {
+        const preview = document.getElementById('preview');
+        preview.innerHTML = ''; // Clear previous previews
+
+        const files = event.target.files;
+        for (let i = 0; i < files.length; i++) {
+            const file = files[i];
+            const reader = new FileReader();
+
+            reader.onload = function (e) {
+                const img = document.createElement('img');
+                img.src = e.target.result;
+                img.classList.add('thumbnail'); // Add thumbnail class for styling
+                preview.appendChild(img);
+            }
+
+            reader.readAsDataURL(file);
+        }
+    }
+</script>
