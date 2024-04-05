@@ -10,7 +10,6 @@
     <input type="text" id="name" placeholder="Your Name" />
     <input type="text" id="message" placeholder="Message" />
     <input type="button" id="sendButton" value="Send" />
-    <ul id="messagesList"></ul>
 </div>
 
 @section Scripts {
@@ -19,9 +18,8 @@
             var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
 
             connection.on("broadcastMessage", function (name, message) {
-                var encodedName = name;
-                var encodedMsg = message;
-                $("#messagesList").append("<li><strong>" + encodedName + "</strong>: " + encodedMsg + "</li>");
+                // Show pop-up notification for 5 seconds
+                showNotification(name, message);
             });
 
             connection.start().catch(function (err) {
@@ -35,6 +33,32 @@
                     return console.error(err.toString());
                 });
             });
+
+            function showNotification(sender, message) {
+                var notification = $("<div class='notification'></div>").text(sender + ": " + message);
+                $("body").append(notification);
+
+                // Hide the notification after 5 seconds
+                setTimeout(function () {
+                    notification.fadeOut("slow", function () {
+                        $(this).remove();
+                    });
+                }, 5000);
+            }
         });
     </script>
 }
+
+<style>
+    .notification {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        z-index: 9999;
+    }
+</style>
